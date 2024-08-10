@@ -1,7 +1,8 @@
 import { Injectable } from '@nestjs/common';
-import * as Cluster from 'cluster';
-const cluster = Cluster as any;
+import * as _cluster from 'cluster';
 import { cpus } from 'os';
+
+const cluster = _cluster as unknown as _cluster.Cluster; // typings fix
 
 @Injectable()
 export class AppClusterConfig {

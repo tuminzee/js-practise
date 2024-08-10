@@ -9,7 +9,7 @@ export class AppService {
   getLoad(): Promise<string> {
     return new Promise((resolve) => {
       setTimeout(() => {
-        resolve(`${process.pid}: The result of the CPU intensive task is \n`);
+        resolve(`${process.pid}: Hello Heavy!`);
       }, 1000);
     });
   }
