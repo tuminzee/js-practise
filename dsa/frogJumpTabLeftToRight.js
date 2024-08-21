@@ -1,0 +1,29 @@
+// @ts-check
+"use strict";
+
+/**
+ * @param {number} n
+ * @param {number []} heights
+ * @returns {number}
+ */
+function frogJump(n, heights) {
+  let prev = Math.abs(heights[n - 1] - heights[n - 2]);
+  let prevToPrev = 0;
+  let curr = 0;
+
+  for (let i = n - 3; i >= 0; i--) {
+    curr = Math.min(
+      Math.abs(heights[i] - heights[i + 1]) + prev,
+      Math.abs(heights[i] - heights[i + 2]) + prevToPrev
+    );
+    prevToPrev = prev;
+    prev = curr;
+  }
+  return curr;
+}
+
+console.log(frogJump(6, [30, 10, 60, 10, 60, 50]));
+console.log(frogJump(8, [7, 4, 4, 2, 6, 6, 3, 4]));
+console.log(frogJump(6, [4, 8, 3, 10, 4, 4]));
+console.log(frogJump(4, [10, 20, 30, 10]));
+console.log(frogJump(3, [10, 20, 10]));
