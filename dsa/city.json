@@ -1,0 +1,444 @@
+{
+  "data": [
+    {
+      "2024-08-24-ACAC8553-AC872": {
+        "TravelClass": "Business",
+        "Origin": "JFK",
+        "OriginCityName": "New York",
+        "Destination": "CDG",
+        "DestinationCityName": "Paris",
+        "IsDirect": false,
+        "DepartureTime": "2024-08-24 10:30",
+        "ArrivalTime": "2024-08-25 10:10",
+        "FlightNumbers": [
+          "AC8553",
+          "AC872"
+        ],
+        "BaggageAmount": "32",
+        "BaggageType": "Kilograms",
+        "Cost": "$1650.09",
+        "CostFloat": 1650.09,
+        "PurchasingId": "AC_20240824_JFK_CDG_BUSINESS_AC8553-AC872",
+        "connections": [
+          "YYZ"
+        ],
+        "Legs": [
+          {
+            "Segments": [
+              {
+                "Origin": "JFK",
+                "Destination": "YYZ",
+                "DepartureTime": "2024-08-24 10:30:00",
+                "ArrivalTime": "2024-08-24 12:15:00",
+                "FlightNumber": "AC8553"
+              },
+              {
+                "Origin": "YYZ",
+                "Destination": "CDG",
+                "DepartureTime": "2024-08-24 20:45:00",
+                "ArrivalTime": "2024-08-25 10:10:00",
+                "FlightNumber": "AC872"
+              }
+            ]
+          }
+        ],
+        "CostBelowAverage": 423.52
+      }
+    },
+    {
+      "2024-08-28-ETET513": {
+        "TravelClass": "Business",
+        "Origin": "JFK",
+        "OriginCityName": "New York",
+        "Destination": "ABJ",
+        "DestinationCityName": "Abidjan",
+        "IsDirect": true,
+        "DepartureTime": "2024-08-28 22:00",
+        "ArrivalTime": "2024-08-29 11:35",
+        "FlightNumbers": [
+          "ET513"
+        ],
+        "BaggageAmount": "32",
+        "BaggageType": "Kilograms",
+        "Cost": "$1160.93",
+        "CostFloat": 1160.93,
+        "PurchasingId": "AC_20240828_JFK_ABJ_BUSINESS_ET513",
+        "connections": [],
+        "Legs": [
+          {
+            "Segments": [
+              {
+                "Origin": "JFK",
+                "Destination": "ABJ",
+                "DepartureTime": "2024-08-28 22:00:00",
+                "ArrivalTime": "2024-08-29 11:35:00",
+                "FlightNumber": "ET513"
+              }
+            ]
+          }
+        ],
+        "CostBelowAverage": 273.64
+      }
+    },
+    {
+      "2024-08-25-ACAC8553-AC119": {
+        "TravelClass": "Business",
+        "Origin": "JFK",
+        "OriginCityName": "New York",
+        "Destination": "YVR",
+        "DestinationCityName": "Vancouver",
+        "IsDirect": false,
+        "DepartureTime": "2024-08-25 10:30",
+        "ArrivalTime": "2024-08-25 19:22",
+        "FlightNumbers": [
+          "AC8553",
+          "AC119"
+        ],
+        "BaggageAmount": "32",
+        "BaggageType": "Kilograms",
+        "Cost": "$1733.96",
+        "CostFloat": 1733.96,
+        "PurchasingId": "AC_20240825_JFK_YVR_BUSINESS_AC8553-AC119",
+        "connections": [
+          "YYZ"
+        ],
+        "Legs": [
+          {
+            "Segments": [
+              {
+                "Origin": "JFK",
+                "Destination": "YYZ",
+                "DepartureTime": "2024-08-25 10:30:00",
+                "ArrivalTime": "2024-08-25 12:15:00",
+                "FlightNumber": "AC8553"
+              },
+              {
+                "Origin": "YYZ",
+                "Destination": "YVR",
+                "DepartureTime": "2024-08-25 17:15:00",
+                "ArrivalTime": "2024-08-25 19:22:00",
+                "FlightNumber": "AC119"
+              }
+            ]
+          }
+        ],
+        "CostBelowAverage": 234.58
+      }
+    },
+    {
+      "2024-08-24-LOLO7-LO133": {
+        "TravelClass": "Business",
+        "Origin": "JFK",
+        "OriginCityName": "New York",
+        "Destination": "IST",
+        "DestinationCityName": "Istanbul",
+        "IsDirect": false,
+        "DepartureTime": "2024-08-24 17:45",
+        "ArrivalTime": "2024-08-25 13:05",
+        "FlightNumbers": [
+          "LO7",
+          "LO133"
+        ],
+        "BaggageAmount": "32",
+        "BaggageType": "Kilograms",
+        "Cost": "$1177.37",
+        "CostFloat": 1177.37,
+        "PurchasingId": "AC_20240824_JFK_IST_BUSINESS_LO7-LO133",
+        "connections": [
+          "WAW"
+        ],
+        "Legs": [
+          {
+            "Segments": [
+              {
+                "Origin": "JFK",
+                "Destination": "WAW",
+                "DepartureTime": "2024-08-24 17:45:00",
+                "ArrivalTime": "2024-08-25 08:15:00",
+                "FlightNumber": "LO7"
+              },
+              {
+                "Origin": "WAW",
+                "Destination": "IST",
+                "DepartureTime": "2024-08-25 09:15:00",
+                "ArrivalTime": "2024-08-25 13:05:00",
+                "FlightNumber": "LO133"
+              }
+            ]
+          }
+        ],
+        "CostBelowAverage": 178.53
+      }
+    },
+    {
+      "2024-08-25-LXLX15-LX728": {
+        "TravelClass": "Business",
+        "Origin": "JFK",
+        "OriginCityName": "New York",
+        "Destination": "AMS",
+        "DestinationCityName": "Amsterdam",
+        "IsDirect": false,
+        "DepartureTime": "2024-08-25 20:30",
+        "ArrivalTime": "2024-08-26 14:10",
+        "FlightNumbers": [
+          "LX15",
+          "LX728"
+        ],
+        "BaggageAmount": "32",
+        "BaggageType": "Kilograms",
+        "Cost": "$1172.08",
+        "CostFloat": 1172.08,
+        "PurchasingId": "AC_20240825_JFK_AMS_BUSINESS_LX15-LX728",
+        "connections": [
+          "ZRH"
+        ],
+        "Legs": [
+          {
+            "Segments": [
+              {
+                "Origin": "JFK",
+                "Destination": "ZRH",
+                "DepartureTime": "2024-08-25 20:30:00",
+                "ArrivalTime": "2024-08-26 10:25:00",
+                "FlightNumber": "LX15"
+              },
+              {
+                "Origin": "ZRH",
+                "Destination": "AMS",
+                "DepartureTime": "2024-08-26 12:30:00",
+                "ArrivalTime": "2024-08-26 14:10:00",
+                "FlightNumber": "LX728"
+              }
+            ]
+          }
+        ],
+        "CostBelowAverage": 144.25
+      }
+    },
+    {
+      "2024-08-24-MSMS986-MS901": {
+        "TravelClass": "Business",
+        "Origin": "JFK",
+        "OriginCityName": "New York",
+        "Destination": "DXB",
+        "DestinationCityName": "Dubai",
+        "IsDirect": false,
+        "DepartureTime": "2024-08-24 12:00",
+        "ArrivalTime": "2024-08-25 10:55",
+        "FlightNumbers": [
+          "MS986",
+          "MS901"
+        ],
+        "BaggageAmount": "32",
+        "BaggageType": "Kilograms",
+        "Cost": "$1471.86",
+        "CostFloat": 1471.86,
+        "PurchasingId": "AC_20240824_JFK_DXB_BUSINESS_MS986-MS901",
+        "connections": [
+          "CAI"
+        ],
+        "Legs": [
+          {
+            "Segments": [
+              {
+                "Origin": "JFK",
+                "Destination": "CAI",
+                "DepartureTime": "2024-08-24 12:00:00",
+                "ArrivalTime": "2024-08-25 05:20:00",
+                "FlightNumber": "MS986"
+              },
+              {
+                "Origin": "CAI",
+                "Destination": "DXB",
+                "DepartureTime": "2024-08-25 06:30:00",
+                "ArrivalTime": "2024-08-25 10:55:00",
+                "FlightNumber": "MS901"
+              }
+            ]
+          }
+        ],
+        "CostBelowAverage": 103.31
+      }
+    },
+    {
+      "2024-09-01-ACAC8899-AC413": {
+        "TravelClass": "Business",
+        "Origin": "JFK",
+        "OriginCityName": "New York",
+        "Destination": "YYZ",
+        "DestinationCityName": "Toronto",
+        "IsDirect": false,
+        "DepartureTime": "2024-09-01 09:00",
+        "ArrivalTime": "2024-09-01 14:32",
+        "FlightNumbers": [
+          "AC8899",
+          "AC413"
+        ],
+        "BaggageAmount": "32",
+        "BaggageType": "Kilograms",
+        "Cost": "$424.75",
+        "CostFloat": 424.75,
+        "PurchasingId": "AC_20240901_JFK_YYZ_BUSINESS_AC8899-AC413",
+        "connections": [
+          "YUL"
+        ],
+        "Legs": [
+          {
+            "Segments": [
+              {
+                "Origin": "JFK",
+                "Destination": "YUL",
+                "DepartureTime": "2024-09-01 09:00:00",
+                "ArrivalTime": "2024-09-01 10:29:00",
+                "FlightNumber": "AC8899"
+              },
+              {
+                "Origin": "YUL",
+                "Destination": "YYZ",
+                "DepartureTime": "2024-09-01 13:10:00",
+                "ArrivalTime": "2024-09-01 14:32:00",
+                "FlightNumber": "AC413"
+              }
+            ]
+          }
+        ],
+        "CostBelowAverage": 110.03
+      }
+    },
+    {
+      "2024-08-25-AC & LXAC8553-LX81": {
+        "TravelClass": "Business",
+        "Origin": "JFK",
+        "OriginCityName": "New York",
+        "Destination": "ZRH",
+        "DestinationCityName": "Zurich",
+        "IsDirect": false,
+        "DepartureTime": "2024-08-25 10:30",
+        "ArrivalTime": "2024-08-26 06:30",
+        "FlightNumbers": [
+          "AC8553",
+          "LX81"
+        ],
+        "BaggageAmount": "32",
+        "BaggageType": "Kilograms",
+        "Cost": "$1120.2",
+        "CostFloat": 1120.2,
+        "PurchasingId": "AC_20240825_JFK_ZRH_BUSINESS_AC8553-LX81",
+        "connections": [
+          "YYZ"
+        ],
+        "Legs": [
+          {
+            "Segments": [
+              {
+                "Origin": "JFK",
+                "Destination": "YYZ",
+                "DepartureTime": "2024-08-25 10:30:00",
+                "ArrivalTime": "2024-08-25 12:15:00",
+                "FlightNumber": "AC8553"
+              },
+              {
+                "Origin": "YYZ",
+                "Destination": "ZRH",
+                "DepartureTime": "2024-08-25 16:25:00",
+                "ArrivalTime": "2024-08-26 06:30:00",
+                "FlightNumber": "LX81"
+              }
+            ]
+          }
+        ],
+        "CostBelowAverage": 60.57
+      }
+    },
+    {
+      "2024-08-24-CMCM737-CM103": {
+        "TravelClass": "Business",
+        "Origin": "JFK",
+        "OriginCityName": "New York",
+        "Destination": "CUN",
+        "DestinationCityName": "Cancun",
+        "IsDirect": false,
+        "DepartureTime": "2024-08-24 05:34",
+        "ArrivalTime": "2024-08-24 21:35",
+        "FlightNumbers": [
+          "CM737",
+          "CM103"
+        ],
+        "BaggageAmount": "32",
+        "BaggageType": "Kilograms",
+        "Cost": "$655.03",
+        "CostFloat": 655.03,
+        "PurchasingId": "AC_20240824_JFK_CUN_BUSINESS_CM737-CM103",
+        "connections": [
+          "PTY"
+        ],
+        "Legs": [
+          {
+            "Segments": [
+              {
+                "Origin": "JFK",
+                "Destination": "PTY",
+                "DepartureTime": "2024-08-24 05:34:00",
+                "ArrivalTime": "2024-08-24 09:46:00",
+                "FlightNumber": "CM737"
+              },
+              {
+                "Origin": "PTY",
+                "Destination": "CUN",
+                "DepartureTime": "2024-08-24 18:48:00",
+                "ArrivalTime": "2024-08-24 21:35:00",
+                "FlightNumber": "CM103"
+              }
+            ]
+          }
+        ],
+        "CostBelowAverage": 36.83
+      }
+    },
+    {
+      "2024-08-24-LOLO7-LO525": {
+        "TravelClass": "Business",
+        "Origin": "JFK",
+        "OriginCityName": "New York",
+        "Destination": "PRG",
+        "DestinationCityName": "Prague",
+        "IsDirect": false,
+        "DepartureTime": "2024-08-24 17:45",
+        "ArrivalTime": "2024-08-25 19:05",
+        "FlightNumbers": [
+          "LO7",
+          "LO525"
+        ],
+        "BaggageAmount": "32",
+        "BaggageType": "Kilograms",
+        "Cost": "$1177.25",
+        "CostFloat": 1177.25,
+        "PurchasingId": "AC_20240824_JFK_PRG_BUSINESS_LO7-LO525",
+        "connections": [
+          "WAW"
+        ],
+        "Legs": [
+          {
+            "Segments": [
+              {
+                "Origin": "JFK",
+                "Destination": "WAW",
+                "DepartureTime": "2024-08-24 17:45:00",
+                "ArrivalTime": "2024-08-25 08:15:00",
+                "FlightNumber": "LO7"
+              },
+              {
+                "Origin": "WAW",
+                "Destination": "PRG",
+                "DepartureTime": "2024-08-25 17:50:00",
+                "ArrivalTime": "2024-08-25 19:05:00",
+                "FlightNumber": "LO525"
+              }
+            ]
+          }
+        ],
+        "CostBelowAverage": 39.29
+      }
+    }
+  ]
+}

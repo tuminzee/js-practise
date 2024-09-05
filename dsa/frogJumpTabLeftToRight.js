@@ -7,14 +7,14 @@
  * @returns {number}
  */
 function frogJump(n, heights) {
-  let prev = Math.abs(heights[n - 1] - heights[n - 2]);
+  let prev = Math.abs(heights[0] - heights[1]);
   let prevToPrev = 0;
   let curr = 0;
 
-  for (let i = n - 3; i >= 0; i--) {
+  for (let i = 2; i < n; i++) {
     curr = Math.min(
-      Math.abs(heights[i] - heights[i + 1]) + prev,
-      Math.abs(heights[i] - heights[i + 2]) + prevToPrev
+      Math.abs(heights[i] - heights[i - 1]) + prev,
+      Math.abs(heights[i] - heights[i - 2]) + prevToPrev
     );
     prevToPrev = prev;
     prev = curr;

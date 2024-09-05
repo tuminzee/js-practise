@@ -1,0 +1,32 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Keep-Alive Demo</title>
+</head>
+<body>
+    <h1>Keep-Alive HTTP Requests</h1>
+    <button id="sendRequest">Send Request</button>
+    <div id="response"></div>
+
+    <script>
+        document.getElementById('sendRequest').addEventListener('click', () => {
+            const xhr = new XMLHttpRequest();
+            xhr.open('GET', 'http://localhost:3000', true);
+
+            // Keep the connection alive
+            xhr.setRequestHeader('Connection', 'keep-alive');
+
+            xhr.onreadystatechange = function () {
+                if (xhr.readyState === XMLHttpRequest.DONE) {
+                    document.getElementById('response').innerText = xhr.responseText;
+                }
+            };
+
+            xhr.send();
+        });
+    </script>
+</body>
+</html>

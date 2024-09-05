@@ -1,0 +1,4094 @@
+[
+  {
+    "value": "AAF",
+    "label": "AAF - Apalachicola Reg. Airport - Apalachicola"
+  },
+  {
+    "value": "ABE",
+    "label": "ABE - Lehigh Valley International Airport - Allentown"
+  },
+  {
+    "value": "ABI",
+    "label": "ABI - Southwest Georgia Regional Airport - Albany"
+  },
+  {
+    "value": "ABL",
+    "label": "ABL - Ambler Airport - Ambler"
+  },
+  {
+    "value": "ABQ",
+    "label": "ABQ - Albuquerque International Sunport - Albuquerque"
+  },
+  {
+    "value": "ABR",
+    "label": "ABR - Aberdeen Regional Airport - Aberdeen"
+  },
+  {
+    "value": "ABY",
+    "label": "ABY - Southwest Georgia Regional Airport - Albany"
+  },
+  {
+    "value": "ACB",
+    "label": "ACB - Antrim County Airport - Bellaire"
+  },
+  {
+    "value": "ACK",
+    "label": "ACK - Nantucket Memorial Airportorial Airport - Nantucket"
+  },
+  {
+    "value": "ACT",
+    "label": "ACT - Waco Regional Airport - Waco"
+  },
+  {
+    "value": "ACV",
+    "label": "ACV - Arcata-Eureka Airport - Arcata/Eureka"
+  },
+  {
+    "value": "ACY",
+    "label": "ACY - Atlantic City International Airport - Atlantic City"
+  },
+  {
+    "value": "ADG",
+    "label": "ADG - Lenawee County Airport - Adrian"
+  },
+  {
+    "value": "ADK",
+    "label": "ADK - Adak Island Airport - Adak Island"
+  },
+  {
+    "value": "ADM",
+    "label": "ADM - Ardmore Municipal Airport - Ardmore"
+  },
+  {
+    "value": "ADQ",
+    "label": "ADQ - Kodiak Airport - Kodiak"
+  },
+  {
+    "value": "ADR",
+    "label": "ADR - Robert F. Swinnie Airport - Andrews"
+  },
+  {
+    "value": "ADS",
+    "label": "ADS - Addison Airport - Dallas"
+  },
+  {
+    "value": "ADT",
+    "label": "ADT - Ada Municipal Airport - Ada"
+  },
+  {
+    "value": "ADW",
+    "label": "ADW - Andrews Air Force Base - Camp Springs"
+  },
+  {
+    "value": "AEL",
+    "label": "AEL - Albert Lea Municipal Airport - Albert Lea"
+  },
+  {
+    "value": "AET",
+    "label": "AET - Allakaket Airport - Allakaket"
+  },
+  {
+    "value": "AEX",
+    "label": "AEX - Alexandria International Airport - Alexandria"
+  },
+  {
+    "value": "AFF",
+    "label": "AFF - United States Air Force Academy Airfield - Colorado Springs"
+  },
+  {
+    "value": "AFN",
+    "label": "AFN - Silver Ranch - Jaffrey"
+  },
+  {
+    "value": "AFO",
+    "label": "AFO - Afton Municipal Airport - Afton"
+  },
+  {
+    "value": "AFW",
+    "label": "AFW - Alliance - Fort Worth"
+  },
+  {
+    "value": "AGC",
+    "label": "AGC - Allegheny County Airport - Pittsburgh"
+  },
+  {
+    "value": "AGN",
+    "label": "AGN - Angoon Seaplane Base - Angoon"
+  },
+  {
+    "value": "AGO",
+    "label": "AGO - Magnolia Municipal Airport - Magnolia"
+  },
+  {
+    "value": "AGS",
+    "label": "AGS - Augusta Regional Airport at Bush Field - Augusta"
+  },
+  {
+    "value": "AHC",
+    "label": "AHC - Amedee Army Airfield - Herlong"
+  },
+  {
+    "value": "AHH",
+    "label": "AHH - Amery Municipal Airport - Amery"
+  },
+  {
+    "value": "AHM",
+    "label": "AHM - Municipal Airport - Ashland"
+  },
+  {
+    "value": "AHN",
+    "label": "AHN - Ben Epps - Athens"
+  },
+  {
+    "value": "AHT",
+    "label": "AHT - Amchitka - Beringovskiy"
+  },
+  {
+    "value": "AIA",
+    "label": "AIA - Alliance Municipal Airport - Alliance"
+  },
+  {
+    "value": "AIK",
+    "label": "AIK - Aiken Municipal Airport - Aiken"
+  },
+  {
+    "value": "AIN",
+    "label": "AIN - Wainwright Airport - Wainwright"
+  },
+  {
+    "value": "AIO",
+    "label": "AIO - Atlantic Municipal Airport - Atlantic"
+  },
+  {
+    "value": "AIV",
+    "label": "AIV - George Downer Airport - Aliceville"
+  },
+  {
+    "value": "AIZ",
+    "label": "AIZ - Lee C. Fine Memorial Airport - Kaiser/Lake Ozark"
+  },
+  {
+    "value": "AKB",
+    "label": "AKB - Atka Airport - Atka"
+  },
+  {
+    "value": "AKC",
+    "label": "AKC - Akron Fulton International Airport - Akron/Canton"
+  },
+  {
+    "value": "AKI",
+    "label": "AKI - Akiak Airport - Akiak"
+  },
+  {
+    "value": "AKK",
+    "label": "AKK - Akhiok Airport - Akhiok"
+  },
+  {
+    "value": "AKN",
+    "label": "AKN - King Salmon Airport - King Salmon"
+  },
+  {
+    "value": "AKO",
+    "label": "AKO - Colorado Plains Regional Airport - Akron"
+  },
+  {
+    "value": "AKP",
+    "label": "AKP - Anaktuvuk Pass Airport - Anaktuvuk Pass"
+  },
+  {
+    "value": "ALB",
+    "label": "ALB - Albany International Airport - Albany"
+  },
+  {
+    "value": "ALI",
+    "label": "ALI - Alice International Airport - Alice"
+  },
+  {
+    "value": "ALM",
+    "label": "ALM - Alamogordo-White Sands Regional Airport - Alamogordo"
+  },
+  {
+    "value": "ALN",
+    "label": "ALN - St. Louis Regional Airport - Alton"
+  },
+  {
+    "value": "ALO",
+    "label": "ALO - Waterloo Regional Airport - Waterloo"
+  },
+  {
+    "value": "ALS",
+    "label": "ALS - San Luis Valley Regional Airport - Alamosa"
+  },
+  {
+    "value": "ALW",
+    "label": "ALW - Walla Walla Regional Airport - Walla Walla"
+  },
+  {
+    "value": "ALX",
+    "label": "ALX - Thomas C. Russell Field - Alexander City"
+  },
+  {
+    "value": "AMA",
+    "label": "AMA - Ama Airport - Ama"
+  },
+  {
+    "value": "AMN",
+    "label": "AMN - Gratiot Community Airport - Alma"
+  },
+  {
+    "value": "AMW",
+    "label": "AMW - Ames Municipal Airport - Ames"
+  },
+  {
+    "value": "ANA",
+    "label": "ANA - John Wayne International - Maasai Mara"
+  },
+  {
+    "value": "ANB",
+    "label": "ANB - Anniston Regional Airport - Anniston"
+  },
+  {
+    "value": "ANC",
+    "label": "ANC - Ted Stevens Anchorage International Airport - Anchorage"
+  },
+  {
+    "value": "AND",
+    "label": "AND - Anderson Regional Airport - Anderson"
+  },
+  {
+    "value": "ANI",
+    "label": "ANI - Aniak Airport - Aniak"
+  },
+  {
+    "value": "ANN",
+    "label": "ANN - Annette Island Airport - Ann"
+  },
+  {
+    "value": "ANP",
+    "label": "ANP - Lee Airport - Annapolis"
+  },
+  {
+    "value": "ANV",
+    "label": "ANV - Anvik Airport - Anvik"
+  },
+  {
+    "value": "ANW",
+    "label": "ANW - Ainsworth Regional Airport - Ainsworth"
+  },
+  {
+    "value": "ANY",
+    "label": "ANY - Anthony Municipal Airport - Anthony"
+  },
+  {
+    "value": "AOH",
+    "label": "AOH - Lima Allen County Airport - Lima"
+  },
+  {
+    "value": "AOO",
+    "label": "AOO - Altoona-Blair County Airport - Altoona"
+  },
+  {
+    "value": "AOS",
+    "label": "AOS - Amook - Amook Bay"
+  },
+  {
+    "value": "APA",
+    "label": "APA - Centennial Airport - Denver"
+  },
+  {
+    "value": "APC",
+    "label": "APC - Napa County Airport - Napa"
+  },
+  {
+    "value": "APF",
+    "label": "APF - Naples Municipal Airport - Naples"
+  },
+  {
+    "value": "APG",
+    "label": "APG - Phillips AAF - Aberdeen"
+  },
+  {
+    "value": "APH",
+    "label": "APH - A.P. Hill AAF - Bowling Green"
+  },
+  {
+    "value": "APN",
+    "label": "APN - Alpena County Regional Airport - Alpena"
+  },
+  {
+    "value": "APT",
+    "label": "APT - Marion County Airport (Brown Field) - Jasper"
+  },
+  {
+    "value": "APV",
+    "label": "APV - Apple Valley Airport - Apple Valley"
+  },
+  {
+    "value": "ARA",
+    "label": "ARA - Acadiana Regional Airport - New Iberia"
+  },
+  {
+    "value": "ARB",
+    "label": "ARB - Ann Arbor Municipal Airport - Ann Arbor"
+  },
+  {
+    "value": "ARC",
+    "label": "ARC - Arctic Village Airport - Arctic Village"
+  },
+  {
+    "value": "ARE",
+    "label": "ARE - Antonio (Nery) Juarbe Pol Airport - Arecibo"
+  },
+  {
+    "value": "ARG",
+    "label": "ARG - Walnut Ridge Regional Airport - Walnut Ridge"
+  },
+  {
+    "value": "ART",
+    "label": "ART - Watertown Intl. - Watertown"
+  },
+  {
+    "value": "ARV",
+    "label": "ARV - Lakeland - Minocqua/Woodruff"
+  },
+  {
+    "value": "ASE",
+    "label": "ASE - Pitkin County - Aspen"
+  },
+  {
+    "value": "ASH",
+    "label": "ASH - Boire Field - Nashua"
+  },
+  {
+    "value": "ASL",
+    "label": "ASL - Harrison County Airport - Marshall"
+  },
+  {
+    "value": "ASN",
+    "label": "ASN - Talladega Municipal Airport - Talladega"
+  },
+  {
+    "value": "ASQ",
+    "label": "ASQ - Austin Airport - Austin"
+  },
+  {
+    "value": "AST",
+    "label": "AST - Astoria Regional Airport - Astoria"
+  },
+  {
+    "value": "ASX",
+    "label": "ASX - John F. Kennedy Memorial Airport - Ashland"
+  },
+  {
+    "value": "ASY",
+    "label": "ASY - Ashley Municipal Airport - Ashley"
+  },
+  {
+    "value": "ATE",
+    "label": "ATE - Antlers Municipal Airport - Antlers"
+  },
+  {
+    "value": "ATK",
+    "label": "ATK - E.Burnell Sr Memorial Airportorial - Atqasuk"
+  },
+  {
+    "value": "ATL",
+    "label": "ATL - Hartsfield-Jackson Atlanta International Airport - Atlanta"
+  },
+  {
+    "value": "ATO",
+    "label": "ATO - Ohio University Airport - Athens"
+  },
+  {
+    "value": "ATS",
+    "label": "ATS - Artesia Municipal Airport - Artesia"
+  },
+  {
+    "value": "ATU",
+    "label": "ATU - Casco Cove Coast Guard Station - Attu Island"
+  },
+  {
+    "value": "ATW",
+    "label": "ATW - Appleton Intl. - Appleton"
+  },
+  {
+    "value": "ATY",
+    "label": "ATY - Watertown Regional Airport - Watertown"
+  },
+  {
+    "value": "AUG",
+    "label": "AUG - Augusta State Airport - Augusta"
+  },
+  {
+    "value": "AUK",
+    "label": "AUK - Alakanuk Airport - Alakanuk"
+  },
+  {
+    "value": "AUM",
+    "label": "AUM - Austin Municipal Airport - Austin"
+  },
+  {
+    "value": "AUN",
+    "label": "AUN - Auburn Municipal Airport - Auburn"
+  },
+  {
+    "value": "AUO",
+    "label": "AUO - Auburn University Rgnl - Auburn"
+  },
+  {
+    "value": "AUS",
+    "label": "AUS - Metropolitan Area - Austin"
+  },
+  {
+    "value": "AUW",
+    "label": "AUW - Wausau Downtown Airport - Wausau"
+  },
+  {
+    "value": "AUZ",
+    "label": "AUZ - Aurora Municipal Airport - Aurora"
+  },
+  {
+    "value": "AVL",
+    "label": "AVL - Asheville Regional Airport - Asheville/Hendersonv."
+  },
+  {
+    "value": "AVO",
+    "label": "AVO - Avon Park Executive Airport - Avon Park"
+  },
+  {
+    "value": "AVP",
+    "label": "AVP - Wilkes-Barre/Scranton Intl. - Wilkes-Barre/Scranton"
+  },
+  {
+    "value": "AVW",
+    "label": "AVW - Marana Regional Airport - Tucson"
+  },
+  {
+    "value": "AVX",
+    "label": "AVX - Catalina Airport - Avalon"
+  },
+  {
+    "value": "AWM",
+    "label": "AWM - West Memphis Municipal Airport - West Memphis"
+  },
+  {
+    "value": "AXB",
+    "label": "AXB - Maxson Airfield - Alexandria Bay"
+  },
+  {
+    "value": "AXG",
+    "label": "AXG - Algona Municipal Airport - Algona"
+  },
+  {
+    "value": "AXN",
+    "label": "AXN - Chandler Field - Alexandria"
+  },
+  {
+    "value": "AXS",
+    "label": "AXS - Altus/Quartz Mountain Regional Airport - Altus"
+  },
+  {
+    "value": "AXV",
+    "label": "AXV - Neil Armstrong Airport - Wapakoneta"
+  },
+  {
+    "value": "AXX",
+    "label": "AXX - Angel Fire Airport - Angel Fire"
+  },
+  {
+    "value": "AYS",
+    "label": "AYS - Ware County - Waycross"
+  },
+  {
+    "value": "AZA",
+    "label": "AZA - Mesa Gateway - Phoenix"
+  },
+  {
+    "value": "AZO",
+    "label": "AZO - Kalamazoo/Battle Creek Intl. - Kalamazoo/Battle Creek"
+  },
+  {
+    "value": "BAB",
+    "label": "BAB - Beale AFB - Marysville"
+  },
+  {
+    "value": "BAD",
+    "label": "BAD - Barksdale AFB - Shreveport"
+  },
+  {
+    "value": "BAF",
+    "label": "BAF - Westfield-Barnes Rgnl - Springfield"
+  },
+  {
+    "value": "BAM",
+    "label": "BAM - Battle Mountain Airport - Battle Mountain"
+  },
+  {
+    "value": "BAR",
+    "label": "BAR - Bo'ao - Qionghai"
+  },
+  {
+    "value": "BBB",
+    "label": "BBB - Benson Municipal Airport - Benson"
+  },
+  {
+    "value": "BBC",
+    "label": "BBC - Bay City Municipal Airport - Bay City"
+  },
+  {
+    "value": "BBD",
+    "label": "BBD - Curtis Field - Brady"
+  },
+  {
+    "value": "BBW",
+    "label": "BBW - Broken Bow Municipal Airport - Broken Bow"
+  },
+  {
+    "value": "BBX",
+    "label": "BBX - Wings Field - Philadelphia"
+  },
+  {
+    "value": "BCB",
+    "label": "BCB - Virginia Tech Montgomery Executive Airport - Blacksburg"
+  },
+  {
+    "value": "BCC",
+    "label": "BCC - Bear Creek 3 - Bear Creek"
+  },
+  {
+    "value": "BCE",
+    "label": "BCE - Bryce Canyon Airport - Bryce Canyon"
+  },
+  {
+    "value": "BCS",
+    "label": "BCS - Southern Seaplane Apt - Belle Chasse"
+  },
+  {
+    "value": "BCT",
+    "label": "BCT - Boca Raton Airport - Boca Raton"
+  },
+  {
+    "value": "BDE",
+    "label": "BDE - Baudette Intl. - Baudette"
+  },
+  {
+    "value": "BDF",
+    "label": "BDF - Rinkenberger - Bradford"
+  },
+  {
+    "value": "BDG",
+    "label": "BDG - Blanding Municipal Airport - Blanding"
+  },
+  {
+    "value": "BDL",
+    "label": "BDL - Bradley International Airport - Hartford"
+  },
+  {
+    "value": "BDR",
+    "label": "BDR - Igor I. Sikorsky Memorial Airport - Bridgeport"
+  },
+  {
+    "value": "BDX",
+    "label": "BDX - Broadus Airport - Broadus"
+  },
+  {
+    "value": "BDY",
+    "label": "BDY - State - Bandon"
+  },
+  {
+    "value": "BEC",
+    "label": "BEC - Beech Factory Airport - Wichita"
+  },
+  {
+    "value": "BED",
+    "label": "BED - Laurence G. Hanscom Field - Bedford"
+  },
+  {
+    "value": "BEH",
+    "label": "BEH - Southwest Michigan Regional Airport - Benton Harbor"
+  },
+  {
+    "value": "BET",
+    "label": "BET - Bethel Airport - Bethel"
+  },
+  {
+    "value": "BFD",
+    "label": "BFD - Bradford Regional Airport - Bradford"
+  },
+  {
+    "value": "BFF",
+    "label": "BFF - Western Nebraska Rgnl - Scottsbluff"
+  },
+  {
+    "value": "BFG",
+    "label": "BFG - Bullfrog Basin - Glen Canyon"
+  },
+  {
+    "value": "BFI",
+    "label": "BFI - Boeing Field/King County International Airport - Seattle"
+  },
+  {
+    "value": "BFK",
+    "label": "BFK - Aurora/Buckley AFB - Denver"
+  },
+  {
+    "value": "BFL",
+    "label": "BFL - Meadows Field Airport - Bakersfield"
+  },
+  {
+    "value": "BFM",
+    "label": "BFM - Mobile Downtown Airport - Mobile"
+  },
+  {
+    "value": "BFP",
+    "label": "BFP - Beaver County Airport - Beaver Falls"
+  },
+  {
+    "value": "BFT",
+    "label": "BFT - Beaufort County Airport - Beaufort"
+  },
+  {
+    "value": "BGD",
+    "label": "BGD - Hutchinson County Airport - Borger"
+  },
+  {
+    "value": "BGE",
+    "label": "BGE - Decatur County Industrial Air Park - Bainbridge"
+  },
+  {
+    "value": "BGM",
+    "label": "BGM - Greater Binghamton - Binghamton"
+  },
+  {
+    "value": "BGQ",
+    "label": "BGQ - Big Lake Airport - Big Lake"
+  },
+  {
+    "value": "BGR",
+    "label": "BGR - Bangor Intl. - Bangor"
+  },
+  {
+    "value": "BGT",
+    "label": "BGT - Bagdad Airport - Bagdad"
+  },
+  {
+    "value": "BHB",
+    "label": "BHB - Hancock County-Bar Harbor Airport - Bar Harbor"
+  },
+  {
+    "value": "BHM",
+    "label": "BHM - Birmingham-Shuttlesworth International Airport - Birmingham"
+  },
+  {
+    "value": "BID",
+    "label": "BID - Block Island State Airport - Block Island"
+  },
+  {
+    "value": "BIE",
+    "label": "BIE - Beatrice Municipal Airport - Beatrice"
+  },
+  {
+    "value": "BIF",
+    "label": "BIF - Biggs AAF - El Paso"
+  },
+  {
+    "value": "BIG",
+    "label": "BIG - Allen AAF - Delta Junction"
+  },
+  {
+    "value": "BIH",
+    "label": "BIH - Eastern Sierra Rgnl - Bishop"
+  },
+  {
+    "value": "BIL",
+    "label": "BIL - Billings Logan International Airport - Billings"
+  },
+  {
+    "value": "BIS",
+    "label": "BIS - Bismarck Municipal Airport - Bismarck"
+  },
+  {
+    "value": "BIX",
+    "label": "BIX - Keesler AFB - Gulfport/Biloxi"
+  },
+  {
+    "value": "BJC",
+    "label": "BJC - Rocky Mountain Metropolitan Airport - Denver"
+  },
+  {
+    "value": "BJI",
+    "label": "BJI - Bemidji Regional Airport - Bemidji"
+  },
+  {
+    "value": "BJJ",
+    "label": "BJJ - Wayne County Airport - Wooster"
+  },
+  {
+    "value": "BKC",
+    "label": "BKC - Buckland Airport - Buckland"
+  },
+  {
+    "value": "BKD",
+    "label": "BKD - Stephens County Airport - Breckenridge"
+  },
+  {
+    "value": "BKE",
+    "label": "BKE - Baker City Municipal Airport - Baker City"
+  },
+  {
+    "value": "BKF",
+    "label": "BKF - Lake Brooks Seaplane Base - Katmai National Park"
+  },
+  {
+    "value": "BKG",
+    "label": "BKG - Branson Airport - Branson"
+  },
+  {
+    "value": "BKH",
+    "label": "BKH - Barking Sands - Kekaha"
+  },
+  {
+    "value": "BKL",
+    "label": "BKL - Burke Lakefront - Cleveland"
+  },
+  {
+    "value": "BKT",
+    "label": "BKT - Blackstone Army Airfield - Blackstone/Ft Pickett"
+  },
+  {
+    "value": "BKW",
+    "label": "BKW - Raleigh County Memorial Airportorial Airport - Beckley"
+  },
+  {
+    "value": "BKX",
+    "label": "BKX - Brookings Regional Airport - Brookings"
+  },
+  {
+    "value": "BLD",
+    "label": "BLD - Boulder City Municipal Airport - Las Vegas"
+  },
+  {
+    "value": "BLF",
+    "label": "BLF - Bailing - Bluefield/Princeton"
+  },
+  {
+    "value": "BLH",
+    "label": "BLH - Blythe Airport - Blythe"
+  },
+  {
+    "value": "BLI",
+    "label": "BLI - Bellingham International Airport - Bellingham"
+  },
+  {
+    "value": "BLM",
+    "label": "BLM - Monmouth Executive Airport - Belmar/Farmingdale"
+  },
+  {
+    "value": "BLU",
+    "label": "BLU - Blue Canyon-Nyack Airport - Emigrant Gap"
+  },
+  {
+    "value": "BLV",
+    "label": "BLV - MidAmerica St. Louis Airport - Belleville"
+  },
+  {
+    "value": "BLW",
+    "label": "BLW - Beletwene Airport - Beletwene"
+  },
+  {
+    "value": "BMC",
+    "label": "BMC - Brigham City Airport - Brigham City"
+  },
+  {
+    "value": "BMI",
+    "label": "BMI - Central Illinois Regional Airport - Bloomington/Normal"
+  },
+  {
+    "value": "BML",
+    "label": "BML - Berlin Regional Airport - Berlin"
+  },
+  {
+    "value": "BMT",
+    "label": "BMT - Beaumont Municipal Airport - Beaumont/Port Arthur"
+  },
+  {
+    "value": "BMX",
+    "label": "BMX - Big Mountain Airport - Big Mountain"
+  },
+  {
+    "value": "BNA",
+    "label": "BNA - Nashville International Airport - Nashville"
+  },
+  {
+    "value": "BNG",
+    "label": "BNG - Banning Municipal Airport - Banning"
+  },
+  {
+    "value": "BNH",
+    "label": "BNH - Barnes - Boston"
+  },
+  {
+    "value": "BNL",
+    "label": "BNL - Barnwell Regional Airport - Barnwell"
+  },
+  {
+    "value": "BNO",
+    "label": "BNO - Burns Municipal Airport - Burns"
+  },
+  {
+    "value": "BNW",
+    "label": "BNW - Boone Municipal Airport - Boone"
+  },
+  {
+    "value": "BOI",
+    "label": "BOI - Air Term. (Gowen Fld) - Boise"
+  },
+  {
+    "value": "BOK",
+    "label": "BOK - Brookings Airport - Brookings"
+  },
+  {
+    "value": "BOS",
+    "label": "BOS - Logan International Airport - Boston"
+  },
+  {
+    "value": "BOW",
+    "label": "BOW - Bartow Municipal Airport - Bartow"
+  },
+  {
+    "value": "BPI",
+    "label": "BPI - Miley Memorial Airportorial Field - Big Piney/Marbleton"
+  },
+  {
+    "value": "BPT",
+    "label": "BPT - Jack Brooks Regional Airport - Beaumont/Port Arthur"
+  },
+  {
+    "value": "BQK",
+    "label": "BQK - Golden Isles - Brunswick"
+  },
+  {
+    "value": "BQN",
+    "label": "BQN - Rafael Hernandez Airport - Aguadilla"
+  },
+  {
+    "value": "BQV",
+    "label": "BQV - Bartlett Cove Seaplane Base - Gustavus"
+  },
+  {
+    "value": "BRD",
+    "label": "BRD - Brainerd Lakes Regional Airport - Brainerd"
+  },
+  {
+    "value": "BRL",
+    "label": "BRL - Southeast Iowa Regional Airport - Burlington"
+  },
+  {
+    "value": "BRO",
+    "label": "BRO - South Padre Is. International Airport - Brownsville"
+  },
+  {
+    "value": "BRW",
+    "label": "BRW - Wiley Post-Will Rogers Memorial Airport - Utqiagvik Barrow"
+  },
+  {
+    "value": "BRY",
+    "label": "BRY - Samuels Field - Bardstown"
+  },
+  {
+    "value": "BSF",
+    "label": "BSF - Bradshaw Army Airfield - Pohakuloa"
+  },
+  {
+    "value": "BSQ",
+    "label": "BSQ - Bisbee Municipal Airport - Douglas/Bisbee"
+  },
+  {
+    "value": "BSW",
+    "label": "BSW - Boswell Bay Airport - Boswell Bay"
+  },
+  {
+    "value": "BTF",
+    "label": "BTF - Skypark Airport - Bountiful"
+  },
+  {
+    "value": "BTI",
+    "label": "BTI - Barter Island Airport - Barter Island"
+  },
+  {
+    "value": "BTL",
+    "label": "BTL - W.K. Kellogg Regional - Kalamazoo/Battle Creek"
+  },
+  {
+    "value": "BTM",
+    "label": "BTM - Bert Mooney Airport - Butte"
+  },
+  {
+    "value": "BTN",
+    "label": "BTN - Marlboro Co. Jetport - Bennettsville"
+  },
+  {
+    "value": "BTP",
+    "label": "BTP - Butler County Airport - Butler"
+  },
+  {
+    "value": "BTR",
+    "label": "BTR - Metropolitan-Ryan Field - Baton Rouge"
+  },
+  {
+    "value": "BTT",
+    "label": "BTT - Bettles Airport - Bettles"
+  },
+  {
+    "value": "BTV",
+    "label": "BTV - Burlington International Airport - Burlington"
+  },
+  {
+    "value": "BTY",
+    "label": "BTY - Beatty Airport - Beatty"
+  },
+  {
+    "value": "BUB",
+    "label": "BUB - Cram Field - Burwell"
+  },
+  {
+    "value": "BUF",
+    "label": "BUF - Niagara International - Buffalo"
+  },
+  {
+    "value": "BUM",
+    "label": "BUM - Butler Memorial Airport - Butler"
+  },
+  {
+    "value": "BUR",
+    "label": "BUR - Bob Hope Airport - Burbank"
+  },
+  {
+    "value": "BVO",
+    "label": "BVO - Bartlesville Municipal Airport - Bartlesville"
+  },
+  {
+    "value": "BVU",
+    "label": "BVU - Beluga Airport - Beluga"
+  },
+  {
+    "value": "BVX",
+    "label": "BVX - Batesville Regional Airport - Batesville"
+  },
+  {
+    "value": "BVY",
+    "label": "BVY - Beverly Municipal Airport - Beverly"
+  },
+  {
+    "value": "BWC",
+    "label": "BWC - Brawley Municipal Airport - Brawley"
+  },
+  {
+    "value": "BWD",
+    "label": "BWD - Brownwood Regional Airport - Brownwood"
+  },
+  {
+    "value": "BWG",
+    "label": "BWG - Bowling Green-Warren County Regional Airport - Bowling Green"
+  },
+  {
+    "value": "BWI",
+    "label": "BWI - Baltimore/Wash. Intl - Washington"
+  },
+  {
+    "value": "BWL",
+    "label": "BWL - Blackwell - Blackwell"
+  },
+  {
+    "value": "BWM",
+    "label": "BWM - Bowman Municipal Airport - Bowman"
+  },
+  {
+    "value": "BXA",
+    "label": "BXA - George R. Carr Memorial Air Field - Bogalusa"
+  },
+  {
+    "value": "BXK",
+    "label": "BXK - Buckeye Municipal Airport - Buckeye"
+  },
+  {
+    "value": "BXS",
+    "label": "BXS - Borrego Valley Airport - Borrego Springs"
+  },
+  {
+    "value": "BYA",
+    "label": "BYA - Boundary Airport - Boundary"
+  },
+  {
+    "value": "BYG",
+    "label": "BYG - Johnson County Airport - Buffalo"
+  },
+  {
+    "value": "BYH",
+    "label": "BYH - Arkansas International Airport - Blytheville"
+  },
+  {
+    "value": "BYI",
+    "label": "BYI - Burley Municipal Airport - Burley/Rupert"
+  },
+  {
+    "value": "BYS",
+    "label": "BYS - Bicycle Lake Army Airfield - Fort Irwin/Barstow"
+  },
+  {
+    "value": "BYW",
+    "label": "BYW - Blakely Island Airport - Blakely Island"
+  },
+  {
+    "value": "BZF",
+    "label": "BZF - Benton Field - Redding"
+  },
+  {
+    "value": "BZN",
+    "label": "BZN - Bozeman Yellowstone International Airport - Bozeman"
+  },
+  {
+    "value": "BZT",
+    "label": "BZT - Eagle Air Park - Brazoria"
+  },
+  {
+    "value": "CAD",
+    "label": "CAD - Wexford County Airport - Cadillac"
+  },
+  {
+    "value": "CAE",
+    "label": "CAE - Columbia Metropolitan Airport - Columbia"
+  },
+  {
+    "value": "CAK",
+    "label": "CAK - Akron/Canton Reg. Airport - Akron/Canton"
+  },
+  {
+    "value": "CAO",
+    "label": "CAO - Clayton Municipal Airpark - Clayton"
+  },
+  {
+    "value": "CAR",
+    "label": "CAR - Caribou Municipal Airport - Caribou"
+  },
+  {
+    "value": "CBE",
+    "label": "CBE - Greater Cumberland Regional Airport - Cumberland"
+  },
+  {
+    "value": "CBF",
+    "label": "CBF - Council Bluffs Municipal Airport - Council Bluffs"
+  },
+  {
+    "value": "CBK",
+    "label": "CBK - Shalz Field - Colby"
+  },
+  {
+    "value": "CBM",
+    "label": "CBM - Columbus Air Force Base - Columbus"
+  },
+  {
+    "value": "CCA",
+    "label": "CCA - Chimore Airport - Chimore"
+  },
+  {
+    "value": "CCB",
+    "label": "CCB - Cable Airport - Upland"
+  },
+  {
+    "value": "CCG",
+    "label": "CCG - Crane County Airport - Crane"
+  },
+  {
+    "value": "CCR",
+    "label": "CCR - Buchanan Field Airport - Concord"
+  },
+  {
+    "value": "CCY",
+    "label": "CCY - Northeast Iowa Rgnl - Charles City"
+  },
+  {
+    "value": "CDB",
+    "label": "CDB - Cold Bay Airport - Cold Bay"
+  },
+  {
+    "value": "CDC",
+    "label": "CDC - Cedar City Regional Airport - Cedar City"
+  },
+  {
+    "value": "CDH",
+    "label": "CDH - Harrell Field - Camden"
+  },
+  {
+    "value": "CDK",
+    "label": "CDK - George T. Lewis Airport - Cedar Key"
+  },
+  {
+    "value": "CDL",
+    "label": "CDL - Candle Airport - Candle"
+  },
+  {
+    "value": "CDN",
+    "label": "CDN - Woodward Field - Camden"
+  },
+  {
+    "value": "CDR",
+    "label": "CDR - Chadron Municipal Airport - Chadron"
+  },
+  {
+    "value": "CDS",
+    "label": "CDS - Childress Municipal Airport - Childress"
+  },
+  {
+    "value": "CDV",
+    "label": "CDV - Merle K. (Mudhole) Smith Airport - Cordova"
+  },
+  {
+    "value": "CDW",
+    "label": "CDW - Essex County Airport - Caldwell"
+  },
+  {
+    "value": "CEA",
+    "label": "CEA - Cessna Aircraft Field - Wichita"
+  },
+  {
+    "value": "CEC",
+    "label": "CEC - Del Norte County Rgnl - Crescent City"
+  },
+  {
+    "value": "CEF",
+    "label": "CEF - Westover Metropolitan - Springfield"
+  },
+  {
+    "value": "CEM",
+    "label": "CEM - Central Airport - Central"
+  },
+  {
+    "value": "CEU",
+    "label": "CEU - Oconee County Regional Airport - Clemson"
+  },
+  {
+    "value": "CEW",
+    "label": "CEW - Bob Sikes Airport - Crestview"
+  },
+  {
+    "value": "CEX",
+    "label": "CEX - Chena Hot Springs Airport - Chena Hot Springs"
+  },
+  {
+    "value": "CEY",
+    "label": "CEY - Murray-Calloway County Airport - Murray"
+  },
+  {
+    "value": "CEZ",
+    "label": "CEZ - Cortez Municipal Airport - Cortez"
+  },
+  {
+    "value": "CFD",
+    "label": "CFD - Coulter Field - Bryan"
+  },
+  {
+    "value": "CFT",
+    "label": "CFT - Greenlee County Airport - Clifton/Morenci"
+  },
+  {
+    "value": "CFV",
+    "label": "CFV - Coffeyville Municipal Airport - Coffeyville"
+  },
+  {
+    "value": "CGA",
+    "label": "CGA - Sea Plane Base - Craig"
+  },
+  {
+    "value": "CGE",
+    "label": "CGE - Cambridge-Dorchester Airport - Cambridge"
+  },
+  {
+    "value": "CGF",
+    "label": "CGF - Cuyahoga County Airport - Cleveland"
+  },
+  {
+    "value": "CGI",
+    "label": "CGI - Cape Girardeau Regional Airport - Cape Girardeau"
+  },
+  {
+    "value": "CGS",
+    "label": "CGS - College Park Airport - College Park"
+  },
+  {
+    "value": "CGZ",
+    "label": "CGZ - Casa Grande Municipal Airport - Casa Grande"
+  },
+  {
+    "value": "CHA",
+    "label": "CHA - Metropolitan Apt - Chattanooga"
+  },
+  {
+    "value": "CHK",
+    "label": "CHK - Chickasha Municipal Airport - Chickasha"
+  },
+  {
+    "value": "CHL",
+    "label": "CHL - Challis Airport - Challis"
+  },
+  {
+    "value": "CHO",
+    "label": "CHO - Charlottesville-Albemarle Airport - Charlottesville"
+  },
+  {
+    "value": "CHP",
+    "label": "CHP - Circle Hot Springs Airport - Circle Hot Springs"
+  },
+  {
+    "value": "CHS",
+    "label": "CHS - International/AFB - Charleston"
+  },
+  {
+    "value": "CHZ",
+    "label": "CHZ - State - Chiloquin"
+  },
+  {
+    "value": "CIC",
+    "label": "CIC - Chico Municipal Airport - Chico"
+  },
+  {
+    "value": "CID",
+    "label": "CID - The Eastern Iowa Airport - Cedar Rapids"
+  },
+  {
+    "value": "CIG",
+    "label": "CIG - Craig-Moffat Airport - Craig"
+  },
+  {
+    "value": "CIK",
+    "label": "CIK - Chalkyitsik Airport - Chalkyitsik"
+  },
+  {
+    "value": "CIL",
+    "label": "CIL - Council Airport - Council"
+  },
+  {
+    "value": "CIN",
+    "label": "CIN - Arthur N. Neu Airport - Carroll"
+  },
+  {
+    "value": "CIR",
+    "label": "CIR - Cairo Regional Airport - Cairo"
+  },
+  {
+    "value": "CIU",
+    "label": "CIU - Chippewa County International Airport - Sault Ste Marie"
+  },
+  {
+    "value": "CKA",
+    "label": "CKA - Kegelman Air Force Auxiliary Field - Cherokee"
+  },
+  {
+    "value": "CKB",
+    "label": "CKB - North Central West Virginia Airport - Clarksburg"
+  },
+  {
+    "value": "CKD",
+    "label": "CKD - Crooked Creek Airport - Crooked Creek"
+  },
+  {
+    "value": "CKE",
+    "label": "CKE - Lampson Field - Lakeport"
+  },
+  {
+    "value": "CKK",
+    "label": "CKK - Sharp County Regional Airport - Ash Flat"
+  },
+  {
+    "value": "CKM",
+    "label": "CKM - Fletcher Field - Clarksdale"
+  },
+  {
+    "value": "CKN",
+    "label": "CKN - Crookston Municipal Airport - Crookston"
+  },
+  {
+    "value": "CKU",
+    "label": "CKU - Cordova Municipal Airport - Cordova"
+  },
+  {
+    "value": "CKV",
+    "label": "CKV - Montgomery County Regional Airport - Clarksville"
+  },
+  {
+    "value": "CKX",
+    "label": "CKX - Chicken Airport - Chicken"
+  },
+  {
+    "value": "CLD",
+    "label": "CLD - McClellan-Palomar Airport - San Diego"
+  },
+  {
+    "value": "CLE",
+    "label": "CLE - Hopkins International - Cleveland"
+  },
+  {
+    "value": "CLI",
+    "label": "CLI - Clintonville Municipal Airport - Clintonville"
+  },
+  {
+    "value": "CLK",
+    "label": "CLK - Clinton Regional Airport - Clinton"
+  },
+  {
+    "value": "CLL",
+    "label": "CLL - Easterwood Field - College Station"
+  },
+  {
+    "value": "CLM",
+    "label": "CLM - William R. Fairchild International Airport - Port Angeles"
+  },
+  {
+    "value": "CLP",
+    "label": "CLP - Clarks Point Airport - Clarks Point"
+  },
+  {
+    "value": "CLR",
+    "label": "CLR - Cliff Hatfield Memorial Airport - Calipatria"
+  },
+  {
+    "value": "CLS",
+    "label": "CLS - Chehalis-Centralia Airport - Chehalis"
+  },
+  {
+    "value": "CLT",
+    "label": "CLT - Charlotte Douglas International Airport - Charlotte"
+  },
+  {
+    "value": "CLW",
+    "label": "CLW - Clearwater Air Park - Tampa"
+  },
+  {
+    "value": "CMH",
+    "label": "CMH - John Glenn Columbus International Airport - Columbus"
+  },
+  {
+    "value": "CMI",
+    "label": "CMI - University of Illinois Willard Airport - Champaign/Urbana"
+  },
+  {
+    "value": "CMX",
+    "label": "CMX - Houghton County Memorial Airport - Hancock"
+  },
+  {
+    "value": "CMY",
+    "label": "CMY - Sparta/Fort McCoy Airport - Sparta"
+  },
+  {
+    "value": "CNE",
+    "label": "CNE - Fremont County - Canon City"
+  },
+  {
+    "value": "CNH",
+    "label": "CNH - Claremont Municipal Airport - Claremont"
+  },
+  {
+    "value": "CNK",
+    "label": "CNK - Blosser Municipal Airport - Concordia"
+  },
+  {
+    "value": "CNM",
+    "label": "CNM - Cavern City Air Term. - Carlsbad"
+  },
+  {
+    "value": "CNO",
+    "label": "CNO - Chino Airport - Chino"
+  },
+  {
+    "value": "CNU",
+    "label": "CNU - Chanute Martin Johnson Airport - Chanute"
+  },
+  {
+    "value": "CNW",
+    "label": "CNW - TSTC Waco Airport - Waco"
+  },
+  {
+    "value": "CNY",
+    "label": "CNY - Canyonlands Field - Moab"
+  },
+  {
+    "value": "COA",
+    "label": "COA - Columbia Airport - Columbia"
+  },
+  {
+    "value": "COD",
+    "label": "COD - Yellowstone Regional Airport - Cody"
+  },
+  {
+    "value": "COE",
+    "label": "COE - Pappy Boyington Field - Coeur d'Alene"
+  },
+  {
+    "value": "COF",
+    "label": "COF - Patrick Air Force Base - Cocoa Beach"
+  },
+  {
+    "value": "COI",
+    "label": "COI - Merritt Island Airport - Merritt Island"
+  },
+  {
+    "value": "COM",
+    "label": "COM - Coleman Municipal Airport - Coleman"
+  },
+  {
+    "value": "CON",
+    "label": "CON - Concord Municipal Airport - Concord"
+  },
+  {
+    "value": "COP",
+    "label": "COP - Westville - Cooperstown"
+  },
+  {
+    "value": "COS",
+    "label": "COS - Colorado Springs Airport - Colorado Springs"
+  },
+  {
+    "value": "COT",
+    "label": "COT - Cotulla-La Salle County Airport - Cotulla"
+  },
+  {
+    "value": "COU",
+    "label": "COU - Columbia Regional Airport - Columbia"
+  },
+  {
+    "value": "CPM",
+    "label": "CPM - Compton/Woodley Airport - Compton"
+  },
+  {
+    "value": "CPR",
+    "label": "CPR - Casper-Natrona County International Airport - Casper"
+  },
+  {
+    "value": "CPS",
+    "label": "CPS - St. Louis Downtown Airport - St Louis"
+  },
+  {
+    "value": "CPX",
+    "label": "CPX - Benjamin Rivera Noriega Airport - Culebra"
+  },
+  {
+    "value": "CRE",
+    "label": "CRE - Grand Strand Airport - Myrtle Beach"
+  },
+  {
+    "value": "CRG",
+    "label": "CRG - Jacksonville Executive at Craig Airport - Jacksonville"
+  },
+  {
+    "value": "CRO",
+    "label": "CRO - Corcoran Airport - Corcoran"
+  },
+  {
+    "value": "CRP",
+    "label": "CRP - Corpus Christi Intl. - Corpus Christi"
+  },
+  {
+    "value": "CRS",
+    "label": "CRS - C. David Campbell Fld - Corsicana"
+  },
+  {
+    "value": "CRT",
+    "label": "CRT - Z. M. Jack Stell Field - Crossett"
+  },
+  {
+    "value": "CRW",
+    "label": "CRW - Yeager Airport - Charleston"
+  },
+  {
+    "value": "CRX",
+    "label": "CRX - Roscoe Turner Airport - Corinth"
+  },
+  {
+    "value": "CSE",
+    "label": "CSE - Buckhorn Ranch - Crested Butte"
+  },
+  {
+    "value": "CSG",
+    "label": "CSG - Columbus Airport - Columbus"
+  },
+  {
+    "value": "CSM",
+    "label": "CSM - Clinton-Sherman Airport - Clinton"
+  },
+  {
+    "value": "CSN",
+    "label": "CSN - Carson Airport - Carson City"
+  },
+  {
+    "value": "CSQ",
+    "label": "CSQ - Creston Municipal Airport - Creston"
+  },
+  {
+    "value": "CSV",
+    "label": "CSV - Crossville Memorial-Whitson Field - Crossville"
+  },
+  {
+    "value": "CTB",
+    "label": "CTB - Cut Bank Municipal Airport - Cut Bank"
+  },
+  {
+    "value": "CTH",
+    "label": "CTH - Chester County G. O. Carlson Airport - Coatesville"
+  },
+  {
+    "value": "CTO",
+    "label": "CTO - Executive Airpark - Calverton"
+  },
+  {
+    "value": "CTX",
+    "label": "CTX - Cortland County - Cortland"
+  },
+  {
+    "value": "CTY",
+    "label": "CTY - Cross City Airport - Cross City"
+  },
+  {
+    "value": "CTZ",
+    "label": "CTZ - Clinton-Sampson County Airport - Clinton"
+  },
+  {
+    "value": "CUB",
+    "label": "CUB - Jim Hamilton-L.B. Owens Airport - Columbia"
+  },
+  {
+    "value": "CUH",
+    "label": "CUH - Municipal - Cushing"
+  },
+  {
+    "value": "CVG",
+    "label": "CVG - Cincinnati/Northern Kentucky International Airport - Cincinnati"
+  },
+  {
+    "value": "CVN",
+    "label": "CVN - Municipal - Clovis"
+  },
+  {
+    "value": "CVO",
+    "label": "CVO - Corvallis Municipal - Corvallis/Albany"
+  },
+  {
+    "value": "CVS",
+    "label": "CVS - Cannon AFB - Clovis"
+  },
+  {
+    "value": "CWA",
+    "label": "CWA - Central Wisconsin Airport - Wausau"
+  },
+  {
+    "value": "CWF",
+    "label": "CWF - Chennault Intl - Lake Charles"
+  },
+  {
+    "value": "CWI",
+    "label": "CWI - Municipal - Clinton"
+  },
+  {
+    "value": "CWS",
+    "label": "CWS - Center Island Airport - Center Island"
+  },
+  {
+    "value": "CWX",
+    "label": "CWX - Cochise County Airport - Willcox"
+  },
+  {
+    "value": "CXC",
+    "label": "CXC - Chitina Airport - Chitina"
+  },
+  {
+    "value": "CXF",
+    "label": "CXF - Coldfoot Airport - Coldfoot"
+  },
+  {
+    "value": "CXL",
+    "label": "CXL - Calexico Intl. - Calexico"
+  },
+  {
+    "value": "CXO",
+    "label": "CXO - Lone Star Executive Airport - Houston"
+  },
+  {
+    "value": "CYF",
+    "label": "CYF - Chefornak Airport - Chefornak"
+  },
+  {
+    "value": "CYM",
+    "label": "CYM - Sea Plane Base - Chatham"
+  },
+  {
+    "value": "CYS",
+    "label": "CYS - Cheyenne Reg. Airport - Cheyenne"
+  },
+  {
+    "value": "CYT",
+    "label": "CYT - Yakataga Airport - Yakataga"
+  },
+  {
+    "value": "CZC",
+    "label": "CZC - Copper Center 2 - Copper Center"
+  },
+  {
+    "value": "CZF",
+    "label": "CZF - Cape Romanzof LRRS Airport - Cape Romanzof"
+  },
+  {
+    "value": "CZK",
+    "label": "CZK - Cascade Locks State Airport - Cascade Locks"
+  },
+  {
+    "value": "CZN",
+    "label": "CZN - Chisana Airport - Chisana"
+  },
+  {
+    "value": "CZO",
+    "label": "CZO - Chistochina Airport - Chistochina"
+  },
+  {
+    "value": "CZP",
+    "label": "CZP - Sea Plane Base - Cape Pole"
+  },
+  {
+    "value": "CZT",
+    "label": "CZT - Dimmit County Airport - Carrizo Springs"
+  },
+  {
+    "value": "DAA",
+    "label": "DAA - Davison AAF - Fort Belvoir"
+  },
+  {
+    "value": "DAB",
+    "label": "DAB - Daytona Beach Intl. - Daytona Beach"
+  },
+  {
+    "value": "DAG",
+    "label": "DAG - Barstow-Daggett Airport - Daggett"
+  },
+  {
+    "value": "DAL",
+    "label": "DAL - Dallas Love Field - Dallas"
+  },
+  {
+    "value": "DAN",
+    "label": "DAN - Danville Regional Airport - Danville"
+  },
+  {
+    "value": "DAY",
+    "label": "DAY - Dayton International Airport - Dayton"
+  },
+  {
+    "value": "DBN",
+    "label": "DBN - W. H. 'Bud' Barron Airport - Dublin"
+  },
+  {
+    "value": "DBQ",
+    "label": "DBQ - Dubuque Regional Airport - Dubuque"
+  },
+  {
+    "value": "DBS",
+    "label": "DBS - Municipal - Dubois"
+  },
+  {
+    "value": "DCA",
+    "label": "DCA - Ronald Reagan Washington National Airport - Washington"
+  },
+  {
+    "value": "DCK",
+    "label": "DCK - Dahl Creek Airport - Dahl Creek"
+  },
+  {
+    "value": "DCU",
+    "label": "DCU - Pryor Field Regional - Decatur"
+  },
+  {
+    "value": "DDC",
+    "label": "DDC - Dodge City Reg. Airport - Dodge City"
+  },
+  {
+    "value": "DEC",
+    "label": "DEC - Decatur Airport - Decatur"
+  },
+  {
+    "value": "DEH",
+    "label": "DEH - Municipal - Decorah"
+  },
+  {
+    "value": "DEN",
+    "label": "DEN - Denver Intl. - Denver"
+  },
+  {
+    "value": "DET",
+    "label": "DET - Coleman A. Young Muni - Detroit"
+  },
+  {
+    "value": "DFI",
+    "label": "DFI - Memorial - Defiance"
+  },
+  {
+    "value": "DFW",
+    "label": "DFW - Metropolitan Area - Dallas"
+  },
+  {
+    "value": "DGL",
+    "label": "DGL - Douglas Municipal - Douglas/Bisbee"
+  },
+  {
+    "value": "DGN",
+    "label": "DGN - NSWC - Dahlgren"
+  },
+  {
+    "value": "DGW",
+    "label": "DGW - Converse County - Douglas"
+  },
+  {
+    "value": "DHN",
+    "label": "DHN - Dothan Reg. Airport - Dothan"
+  },
+  {
+    "value": "DHT",
+    "label": "DHT - Municipal - Dalhart"
+  },
+  {
+    "value": "DIK",
+    "label": "DIK - T.Roosevelt Regional - Dickinson"
+  },
+  {
+    "value": "DJN",
+    "label": "DJN - Delta Junction Airport - Delta Junction"
+  },
+  {
+    "value": "DKK",
+    "label": "DKK - Chautauqua County - Dunkirk"
+  },
+  {
+    "value": "DLF",
+    "label": "DLF - Laughlin AFB - Del Rio"
+  },
+  {
+    "value": "DLG",
+    "label": "DLG - Dillingham Airport - Dillingham"
+  },
+  {
+    "value": "DLH",
+    "label": "DLH - Duluth Intl. - Duluth"
+  },
+  {
+    "value": "DLL",
+    "label": "DLL - Dillon County - Dillon"
+  },
+  {
+    "value": "DLN",
+    "label": "DLN - Dillon Airport - Dillon"
+  },
+  {
+    "value": "DLS",
+    "label": "DLS - Columbia Gorge Rgnl - The Dalles"
+  },
+  {
+    "value": "DMA",
+    "label": "DMA - Davis-Monthan AFB - Tucson"
+  },
+  {
+    "value": "DMN",
+    "label": "DMN - Municipal - Deming"
+  },
+  {
+    "value": "DMO",
+    "label": "DMO - Sedalia Reg. Airport - Sedalia"
+  },
+  {
+    "value": "DNL",
+    "label": "DNL - Daniel Field - Augusta"
+  },
+  {
+    "value": "DNN",
+    "label": "DNN - Municipal - Dalton"
+  },
+  {
+    "value": "DNS",
+    "label": "DNS - Municipal - Denison"
+  },
+  {
+    "value": "DNV",
+    "label": "DNV - Vermilion Regional - Danville"
+  },
+  {
+    "value": "DOV",
+    "label": "DOV - Dover AFB - Dover"
+  },
+  {
+    "value": "DPA",
+    "label": "DPA - DuPage - Chicago"
+  },
+  {
+    "value": "DPG",
+    "label": "DPG - Michael AAF - Dugway"
+  },
+  {
+    "value": "DRA",
+    "label": "DRA - Desert Rock - Mercury"
+  },
+  {
+    "value": "DRE",
+    "label": "DRE - Drummond Island Airport - Drummond Island"
+  },
+  {
+    "value": "DRF",
+    "label": "DRF - Drift River Airport - Drift River"
+  },
+  {
+    "value": "DRG",
+    "label": "DRG - Deering Airport - Deering"
+  },
+  {
+    "value": "DRI",
+    "label": "DRI - Beauregard Regional - DeRidder"
+  },
+  {
+    "value": "DRO",
+    "label": "DRO - La Plata County - Durango"
+  },
+  {
+    "value": "DRT",
+    "label": "DRT - Del Rio Intl. - Del Rio"
+  },
+  {
+    "value": "DRU",
+    "label": "DRU - Drummond Airport - Drummond"
+  },
+  {
+    "value": "DSI",
+    "label": "DSI - Destin Executive - Destin/Ft Walton Beach"
+  },
+  {
+    "value": "DSM",
+    "label": "DSM - Des Moines Intl. - Des Moines"
+  },
+  {
+    "value": "DSV",
+    "label": "DSV - Municipal - Dansville"
+  },
+  {
+    "value": "DTA",
+    "label": "DTA - Municipal - Delta"
+  },
+  {
+    "value": "DTL",
+    "label": "DTL - Wething Field - Detroit Lakes"
+  },
+  {
+    "value": "DTN",
+    "label": "DTN - Downtown Apt - Shreveport"
+  },
+  {
+    "value": "DTR",
+    "label": "DTR - Decatur Shores - Decatur Island"
+  },
+  {
+    "value": "DTW",
+    "label": "DTW - Metropolitan Wayne Co. - Detroit"
+  },
+  {
+    "value": "DUA",
+    "label": "DUA - Regional - Eaker Field - Durant"
+  },
+  {
+    "value": "DUC",
+    "label": "DUC - Halliburton Field - Duncan"
+  },
+  {
+    "value": "DUF",
+    "label": "DUF - Pine Island - Corolla"
+  },
+  {
+    "value": "DUG",
+    "label": "DUG - Bisbee-Douglas Intl - Douglas/Bisbee"
+  },
+  {
+    "value": "DUJ",
+    "label": "DUJ - DuBois Reg. Airport - DuBois"
+  },
+  {
+    "value": "DUT",
+    "label": "DUT - Driftwood Bay AFS - Dutch Harbor"
+  },
+  {
+    "value": "DVL",
+    "label": "DVL - Devils Lake Reg. Airport - Devils Lake"
+  },
+  {
+    "value": "DVN",
+    "label": "DVN - Municipal - Davenport"
+  },
+  {
+    "value": "DVT",
+    "label": "DVT - Deer Valley - Phoenix"
+  },
+  {
+    "value": "DWH",
+    "label": "DWH - David Wayne Hooks Mem. - Houston"
+  },
+  {
+    "value": "DXE",
+    "label": "DXE - Bruce Campbell Field - Madison"
+  },
+  {
+    "value": "DXR",
+    "label": "DXR - Municipal - Danbury"
+  },
+  {
+    "value": "DYL",
+    "label": "DYL - Doylestown Airport - Doylestown"
+  },
+  {
+    "value": "DYS",
+    "label": "DYS - Dyess AFB - Abilene"
+  },
+  {
+    "value": "EAA",
+    "label": "EAA - Eagle Airport - Eagle"
+  },
+  {
+    "value": "EAN",
+    "label": "EAN - Phifer Airfield - Wheatland"
+  },
+  {
+    "value": "EAR",
+    "label": "EAR - Kearney Reg. Airport - Kearney"
+  },
+  {
+    "value": "EAT",
+    "label": "EAT - Pangborn Memorial - Wenatchee"
+  },
+  {
+    "value": "EAU",
+    "label": "EAU - Chippewa Valley Rgnl - Eau Claire"
+  },
+  {
+    "value": "EBS",
+    "label": "EBS - Municipal - Webster City"
+  },
+  {
+    "value": "ECG",
+    "label": "ECG - Elizabeth City Reg. Airport - Elizabeth City"
+  },
+  {
+    "value": "ECP",
+    "label": "ECP - NW Florida Beaches Int - Panama City"
+  },
+  {
+    "value": "ECS",
+    "label": "ECS - Mondell Field - Newcastle"
+  },
+  {
+    "value": "EDE",
+    "label": "EDE - Northeastern Regional - Edenton"
+  },
+  {
+    "value": "EDF",
+    "label": "EDF - Elmendorf AFB - Anchorage"
+  },
+  {
+    "value": "EDK",
+    "label": "EDK - Capt. Jack Thomas Mem. - El Dorado"
+  },
+  {
+    "value": "EDN",
+    "label": "EDN - Yedinka Airport - Yedinka"
+  },
+  {
+    "value": "EDW",
+    "label": "EDW - Edwards AFB - Edwards"
+  },
+  {
+    "value": "EED",
+    "label": "EED - Needles Airport - Needles"
+  },
+  {
+    "value": "EEK",
+    "label": "EEK - Eek Airport - Eek"
+  },
+  {
+    "value": "EEN",
+    "label": "EEN - Dillant-Hopkins - Keene"
+  },
+  {
+    "value": "EFD",
+    "label": "EFD - Ellington - Houston"
+  },
+  {
+    "value": "EFK",
+    "label": "EFK - State - Newport"
+  },
+  {
+    "value": "EFW",
+    "label": "EFW - Municipal - Jefferson"
+  },
+  {
+    "value": "EGE",
+    "label": "EGE - Eagle County Regional - Vail/Eagle"
+  },
+  {
+    "value": "EGI",
+    "label": "EGI - Duke Field - Crestview"
+  },
+  {
+    "value": "EGP",
+    "label": "EGP - Maverick Co. Mem. Intl - Eagle Pass"
+  },
+  {
+    "value": "EGV",
+    "label": "EGV - Union - Eagle River"
+  },
+  {
+    "value": "EGX",
+    "label": "EGX - Egegik Airport - Egegik"
+  },
+  {
+    "value": "EHM",
+    "label": "EHM - Cape Newenham Airport - Cape Newenham"
+  },
+  {
+    "value": "EIL",
+    "label": "EIL - Eil Airport - Eil"
+  },
+  {
+    "value": "EKA",
+    "label": "EKA - Murray Field - Arcata/Eureka"
+  },
+  {
+    "value": "EKN",
+    "label": "EKN - Randolph County - Elkins"
+  },
+  {
+    "value": "EKO",
+    "label": "EKO - Elko Reg. Airport - Elko"
+  },
+  {
+    "value": "EKX",
+    "label": "EKX - Regional-Addington Fld - Elizabethtown"
+  },
+  {
+    "value": "ELA",
+    "label": "ELA - Eagle Lake Airport - Eagle Lake"
+  },
+  {
+    "value": "ELD",
+    "label": "ELD - South Arkansas Rgnl - El Dorado"
+  },
+  {
+    "value": "ELI",
+    "label": "ELI - Municipal - Ely"
+  },
+  {
+    "value": "ELK",
+    "label": "ELK - Regional Business - Elk City"
+  },
+  {
+    "value": "ELM",
+    "label": "ELM - Regional - Elmira/Corning"
+  },
+  {
+    "value": "ELN",
+    "label": "ELN - Bowers Field - Ellensburg"
+  },
+  {
+    "value": "ELP",
+    "label": "ELP - Metropolitan Area - El Paso"
+  },
+  {
+    "value": "ELV",
+    "label": "ELV - Sea Plane Base - Elfin Cove"
+  },
+  {
+    "value": "ELY",
+    "label": "ELY - Yelland Field - Ely"
+  },
+  {
+    "value": "ELZ",
+    "label": "ELZ - Municipal - Wellsville"
+  },
+  {
+    "value": "EMK",
+    "label": "EMK - Emmonak Airport - Emmonak"
+  },
+  {
+    "value": "EMM",
+    "label": "EMM - Municipal - Kemmerer"
+  },
+  {
+    "value": "EMP",
+    "label": "EMP - Municipal - Emporia"
+  },
+  {
+    "value": "EMT",
+    "label": "EMT - San Gabriel Valley - El Monte"
+  },
+  {
+    "value": "ENA",
+    "label": "ENA - Municipal - Kenai"
+  },
+  {
+    "value": "END",
+    "label": "END - Vance AFB - Enid"
+  },
+  {
+    "value": "ENL",
+    "label": "ENL - Municipal - Centralia"
+  },
+  {
+    "value": "ENN",
+    "label": "ENN - Municipal - Nenana"
+  },
+  {
+    "value": "ENV",
+    "label": "ENV - Wendover Airport - Wendover"
+  },
+  {
+    "value": "ENW",
+    "label": "ENW - Kenosha Reg. Airport - Kenosha"
+  },
+  {
+    "value": "EOK",
+    "label": "EOK - Municipal - Keokuk"
+  },
+  {
+    "value": "EOS",
+    "label": "EOS - Hugh Robinson - Neosho"
+  },
+  {
+    "value": "EPG",
+    "label": "EPG - Browns - Weeping Water"
+  },
+  {
+    "value": "EPH",
+    "label": "EPH - Municipal - Ephrata"
+  },
+  {
+    "value": "ERI",
+    "label": "ERI - Erie Intl. - Erie"
+  },
+  {
+    "value": "ERR",
+    "label": "ERR - Errol Airport - Errol"
+  },
+  {
+    "value": "ERV",
+    "label": "ERV - Municipal - Kerrville"
+  },
+  {
+    "value": "ESC",
+    "label": "ESC - Delta County - Escanaba"
+  },
+  {
+    "value": "ESD",
+    "label": "ESD - Orcas Island - Eastsound"
+  },
+  {
+    "value": "ESF",
+    "label": "ESF - Esler Regional - Alexandria"
+  },
+  {
+    "value": "ESN",
+    "label": "ESN - Newnam Field - Easton"
+  },
+  {
+    "value": "ESO",
+    "label": "ESO - Ohkay Owingeh - Espanola"
+  },
+  {
+    "value": "ESP",
+    "label": "ESP - Stroudsburg-Pocono - East Stroudsburg"
+  },
+  {
+    "value": "EST",
+    "label": "EST - Municipal - Estherville"
+  },
+  {
+    "value": "ESW",
+    "label": "ESW - State - Easton"
+  },
+  {
+    "value": "ETB",
+    "label": "ETB - Municipal - West Bend"
+  },
+  {
+    "value": "ETN",
+    "label": "ETN - Municipal - Eastland"
+  },
+  {
+    "value": "ETS",
+    "label": "ETS - Municipal - Enterprise"
+  },
+  {
+    "value": "EUE",
+    "label": "EUE - Eureka Airport - Eureka"
+  },
+  {
+    "value": "EUF",
+    "label": "EUF - Weedon Field - Eufaula"
+  },
+  {
+    "value": "EUG",
+    "label": "EUG - Mahlon Sweet Field - Eugene"
+  },
+  {
+    "value": "EVA",
+    "label": "EVA - Ben Bruce Mem. Airpark - Evadale"
+  },
+  {
+    "value": "EVM",
+    "label": "EVM - Eveleth-Virginia Muni - Eveleth"
+  },
+  {
+    "value": "EVW",
+    "label": "EVW - Uinta County - Evanston"
+  },
+  {
+    "value": "EWB",
+    "label": "EWB - New Bedford Regional - New Bedford/Fall River"
+  },
+  {
+    "value": "EWK",
+    "label": "EWK - City-County - Newton"
+  },
+  {
+    "value": "EWN",
+    "label": "EWN - Coastal Carolina Rgnl - New Bern"
+  },
+  {
+    "value": "EWR",
+    "label": "EWR - Newark Liberty Intl - New York"
+  },
+  {
+    "value": "EYR",
+    "label": "EYR - Municipal - Yerington"
+  },
+  {
+    "value": "EYW",
+    "label": "EYW - Key West Intl. - Key West"
+  },
+  {
+    "value": "FAF",
+    "label": "FAF - Felker AAF - Fort Eustis"
+  },
+  {
+    "value": "FAI",
+    "label": "FAI - Regional (Grannis Fld) - Fayetteville"
+  },
+  {
+    "value": "FAJ",
+    "label": "FAJ - Diego Jimenez Torres - Fajardo"
+  },
+  {
+    "value": "FAK",
+    "label": "FAK - Sea Plane Base - False Island"
+  },
+  {
+    "value": "FAM",
+    "label": "FAM - Farmington Reg. Airport - Farmington"
+  },
+  {
+    "value": "FAR",
+    "label": "FAR - Hector Intl - Fargo"
+  },
+  {
+    "value": "FAT",
+    "label": "FAT - Yosemite Intl - Fresno"
+  },
+  {
+    "value": "FAY",
+    "label": "FAY - Regional (Grannis Fld) - Fayetteville"
+  },
+  {
+    "value": "FBG",
+    "label": "FBG - Simmons AAF - Fort Bragg"
+  },
+  {
+    "value": "FBK",
+    "label": "FBK - Ladd AAF - Fairbanks"
+  },
+  {
+    "value": "FBL",
+    "label": "FBL - Municipal - Faribault"
+  },
+  {
+    "value": "FBR",
+    "label": "FBR - Fort Bridger Airport - Fort Bridger"
+  },
+  {
+    "value": "FBS",
+    "label": "FBS - Sea Plane Base - Friday Harbor"
+  },
+  {
+    "value": "FBY",
+    "label": "FBY - Municipal - Fairbury"
+  },
+  {
+    "value": "FCA",
+    "label": "FCA - Glacier Park Intl - Kalispell"
+  },
+  {
+    "value": "FCH",
+    "label": "FCH - Chandler Executive - Fresno"
+  },
+  {
+    "value": "FCM",
+    "label": "FCM - Flying Cloud - Minneapolis/St Paul"
+  },
+  {
+    "value": "FCS",
+    "label": "FCS - Fort Carson/Butts AAF - Colorado Springs"
+  },
+  {
+    "value": "FCY",
+    "label": "FCY - Municipal - Forrest City"
+  },
+  {
+    "value": "FDK",
+    "label": "FDK - Municipal - Frederick"
+  },
+  {
+    "value": "FDR",
+    "label": "FDR - Frederick Reg. Airport - Frederick"
+  },
+  {
+    "value": "FDY",
+    "label": "FDY - Findlay Airport - Findlay"
+  },
+  {
+    "value": "FEP",
+    "label": "FEP - Albertus - Freeport"
+  },
+  {
+    "value": "FET",
+    "label": "FET - Municipal - Fremont"
+  },
+  {
+    "value": "FFA",
+    "label": "FFA - First Flight - Kill Devil Hills"
+  },
+  {
+    "value": "FFL",
+    "label": "FFL - Municipal - Fairfield"
+  },
+  {
+    "value": "FFM",
+    "label": "FFM - Municipal - Fergus Falls"
+  },
+  {
+    "value": "FFO",
+    "label": "FFO - Wright-Patterson AFB - Dayton"
+  },
+  {
+    "value": "FFT",
+    "label": "FFT - Capital City - Frankfort"
+  },
+  {
+    "value": "FHU",
+    "label": "FHU - Municipal/Libby AAF - Sierra Vista"
+  },
+  {
+    "value": "FID",
+    "label": "FID - Elizabeth Field - Fishers Island"
+  },
+  {
+    "value": "FIL",
+    "label": "FIL - Municipal - Fillmore"
+  },
+  {
+    "value": "FKL",
+    "label": "FKL - Venango Regional - Franklin"
+  },
+  {
+    "value": "FKN",
+    "label": "FKN - Municipal-John B. Rose - Franklin"
+  },
+  {
+    "value": "FLD",
+    "label": "FLD - Fond du Lac County - Fond du Lac"
+  },
+  {
+    "value": "FLG",
+    "label": "FLG - Flagstaff Pulliam - Grand Canyon"
+  },
+  {
+    "value": "FLL",
+    "label": "FLL - Fort Lauderdale Intl. - Fort Lauderdale"
+  },
+  {
+    "value": "FLO",
+    "label": "FLO - Florence Reg. Airport - Florence"
+  },
+  {
+    "value": "FLP",
+    "label": "FLP - Marion County Regional - Flippin"
+  },
+  {
+    "value": "FLT",
+    "label": "FLT - Flat Airport - Flat"
+  },
+  {
+    "value": "FLV",
+    "label": "FLV - Sherman AAF - Fort Leavenworth"
+  },
+  {
+    "value": "FLX",
+    "label": "FLX - Municipal - Fallon"
+  },
+  {
+    "value": "FME",
+    "label": "FME - Tipton - Fort Meade/Odenton"
+  },
+  {
+    "value": "FMH",
+    "label": "FMH - Cape Cod Coast Guard - Falmouth"
+  },
+  {
+    "value": "FMN",
+    "label": "FMN - Four Corners Regional - Farmington"
+  },
+  {
+    "value": "FMS",
+    "label": "FMS - Municipal - Fort Madison"
+  },
+  {
+    "value": "FMY",
+    "label": "FMY - Page Field - Fort Myers"
+  },
+  {
+    "value": "FNL",
+    "label": "FNL - Municipal - Fort Collins/Loveland"
+  },
+  {
+    "value": "FNR",
+    "label": "FNR - Sea Plane Base - Funter Bay"
+  },
+  {
+    "value": "FNT",
+    "label": "FNT - Bishop Intl - Flint"
+  },
+  {
+    "value": "FOB",
+    "label": "FOB - Fort Bragg Airport - Fort Bragg"
+  },
+  {
+    "value": "FOD",
+    "label": "FOD - Fort Dodge Reg. Airport - Fort Dodge"
+  },
+  {
+    "value": "FOE",
+    "label": "FOE - Forbes Field - Topeka"
+  },
+  {
+    "value": "FOK",
+    "label": "FOK - Francis S. Gabreski - Westhampton Beach"
+  },
+  {
+    "value": "FPR",
+    "label": "FPR - St Lucie County Intl - Fort Pierce"
+  },
+  {
+    "value": "FPY",
+    "label": "FPY - Perry-Foley - Perry"
+  },
+  {
+    "value": "FRD",
+    "label": "FRD - Friday Harbor Airport - Friday Harbor"
+  },
+  {
+    "value": "FRG",
+    "label": "FRG - Republic - Farmingdale"
+  },
+  {
+    "value": "FRI",
+    "label": "FRI - Marshall AAF - Fort Riley"
+  },
+  {
+    "value": "FRM",
+    "label": "FRM - Municipal - Fairmont"
+  },
+  {
+    "value": "FRN",
+    "label": "FRN - Bryant AAF - Anchorage"
+  },
+  {
+    "value": "FRR",
+    "label": "FRR - Warren County - Front Royal"
+  },
+  {
+    "value": "FRY",
+    "label": "FRY - Eastern Slopes Rgnl - Fryeburg"
+  },
+  {
+    "value": "FSD",
+    "label": "FSD - Joe Foss Field - Sioux Falls"
+  },
+  {
+    "value": "FSI",
+    "label": "FSI - Henry Post AAF - Lawton/Fort Sill"
+  },
+  {
+    "value": "FSK",
+    "label": "FSK - Municipal - Fort Scott"
+  },
+  {
+    "value": "FSM",
+    "label": "FSM - Fort Smith Reg. Airport - Fort Smith"
+  },
+  {
+    "value": "FST",
+    "label": "FST - Pecos County - Fort Stockton"
+  },
+  {
+    "value": "FSU",
+    "label": "FSU - Municipal - Fort Sumner"
+  },
+  {
+    "value": "FTI",
+    "label": "FTI - Fitiuta Airport - Fitiuta"
+  },
+  {
+    "value": "FTK",
+    "label": "FTK - Godman AAF - Fort Knox"
+  },
+  {
+    "value": "FTW",
+    "label": "FTW - Meacham International - Fort Worth"
+  },
+  {
+    "value": "FTY",
+    "label": "FTY - Fulton County - Atlanta"
+  },
+  {
+    "value": "FUL",
+    "label": "FUL - Municipal - Fullerton"
+  },
+  {
+    "value": "FWH",
+    "label": "FWH - NAS JRB - Fort Worth"
+  },
+  {
+    "value": "FWL",
+    "label": "FWL - Farewell Airport - Farewell"
+  },
+  {
+    "value": "FXE",
+    "label": "FXE - Executive - Fort Lauderdale"
+  },
+  {
+    "value": "FXY",
+    "label": "FXY - Municipal - Forest City"
+  },
+  {
+    "value": "FYM",
+    "label": "FYM - Municipal - Fayetteville"
+  },
+  {
+    "value": "FYU",
+    "label": "FYU - Fort Yukon Airport - Fort Yukon"
+  },
+  {
+    "value": "FYV",
+    "label": "FYV - Drake Field - Fayetteville/Springd."
+  },
+  {
+    "value": "GAB",
+    "label": "GAB - Gabbs Airport - Gabbs"
+  },
+  {
+    "value": "GAD",
+    "label": "GAD - Northeast Alabama Rgnl - Gadsden"
+  },
+  {
+    "value": "GAG",
+    "label": "GAG - Gage Airport - Gage"
+  },
+  {
+    "value": "GAI",
+    "label": "GAI - Montgomery Co Airpark - Gaithersburg"
+  },
+  {
+    "value": "GAL",
+    "label": "GAL - Edward G. Pitka Sr. - Galena"
+  },
+  {
+    "value": "GAM",
+    "label": "GAM - Gambell Airport - Gambell"
+  },
+  {
+    "value": "GBD",
+    "label": "GBD - Municipal - Great Bend"
+  },
+  {
+    "value": "GBG",
+    "label": "GBG - Municipal - Galesburg"
+  },
+  {
+    "value": "GBH",
+    "label": "GBH - Galbraith Lake Airport - Galbraith Lake"
+  },
+  {
+    "value": "GBR",
+    "label": "GBR - Walter J. Koladza - Great Barrington"
+  },
+  {
+    "value": "GCC",
+    "label": "GCC - Campbell County - Gillette"
+  },
+  {
+    "value": "GCD",
+    "label": "GCD - Grand Coulee Dam - Electric City"
+  },
+  {
+    "value": "GCK",
+    "label": "GCK - Garden City Reg. Airport - Garden City"
+  },
+  {
+    "value": "GCN",
+    "label": "GCN - National Park - Grand Canyon"
+  },
+  {
+    "value": "GCW",
+    "label": "GCW - Grand Canyon West Airport - Grand Canyon West"
+  },
+  {
+    "value": "GCY",
+    "label": "GCY - Greene County Muni - Greeneville"
+  },
+  {
+    "value": "GDC",
+    "label": "GDC - Donaldson Field - Greenville/Spartanburg"
+  },
+  {
+    "value": "GDH",
+    "label": "GDH - Golden Horn Lodge SPB - Golden Horn"
+  },
+  {
+    "value": "GDM",
+    "label": "GDM - Municipal - Gardner"
+  },
+  {
+    "value": "GDV",
+    "label": "GDV - Dawson Community - Glendive"
+  },
+  {
+    "value": "GDW",
+    "label": "GDW - Zettel Memorial - Gladwin"
+  },
+  {
+    "value": "GED",
+    "label": "GED - Sussex County - Georgetown"
+  },
+  {
+    "value": "GEG",
+    "label": "GEG - Spokane Intl. - Spokane"
+  },
+  {
+    "value": "GEY",
+    "label": "GEY - South Big Horn County - Greybull"
+  },
+  {
+    "value": "GFK",
+    "label": "GFK - Grand Forks Intl. - Grand Forks"
+  },
+  {
+    "value": "GFL",
+    "label": "GFL - Floyd Bennett Memorial - Glens Falls"
+  },
+  {
+    "value": "GGE",
+    "label": "GGE - Georgetown County - Georgetown"
+  },
+  {
+    "value": "GGG",
+    "label": "GGG - East Texas Regional - Longview"
+  },
+  {
+    "value": "GGW",
+    "label": "GGW - Glasgow Intl. - Glasgow"
+  },
+  {
+    "value": "GHM",
+    "label": "GHM - Municipal - Centerville"
+  },
+  {
+    "value": "GIF",
+    "label": "GIF - Winter Haven's Gilbert - Winter Haven"
+  },
+  {
+    "value": "GJT",
+    "label": "GJT - Grand Junction Reg. Airport - Grand Junction"
+  },
+  {
+    "value": "GKN",
+    "label": "GKN - Gulkana Airport - Gulkana"
+  },
+  {
+    "value": "GKT",
+    "label": "GKT - Gatlinburg - Sevierville"
+  },
+  {
+    "value": "GLB",
+    "label": "GLB - San Carlos Apache - Globe"
+  },
+  {
+    "value": "GLD",
+    "label": "GLD - Renner Field - Goodland"
+  },
+  {
+    "value": "GLE",
+    "label": "GLE - Municipal - Gainesville"
+  },
+  {
+    "value": "GLH",
+    "label": "GLH - Mid-Delta - Greenville"
+  },
+  {
+    "value": "GLR",
+    "label": "GLR - Gaylord Reg. Airport - Gaylord"
+  },
+  {
+    "value": "GLS",
+    "label": "GLS - Sholes Intl - Galveston"
+  },
+  {
+    "value": "GLV",
+    "label": "GLV - Golovin Airport - Golovin"
+  },
+  {
+    "value": "GLW",
+    "label": "GLW - Municipal - Glasgow"
+  },
+  {
+    "value": "GMT",
+    "label": "GMT - Air Station - Granite Mountain"
+  },
+  {
+    "value": "GMU",
+    "label": "GMU - Greenville Downtown Ap - Greenville/Spartanburg"
+  },
+  {
+    "value": "GMV",
+    "label": "GMV - Monument Valley Airport - Monument Valley"
+  },
+  {
+    "value": "GNG",
+    "label": "GNG - Municipal - Gooding"
+  },
+  {
+    "value": "GNT",
+    "label": "GNT - Grants-Milan Municipal - Grants"
+  },
+  {
+    "value": "GNU",
+    "label": "GNU - Goodnews Bay Airport - Goodnews Bay"
+  },
+  {
+    "value": "GNV",
+    "label": "GNV - Gainesville Reg. Airport - Gainesville"
+  },
+  {
+    "value": "GOK",
+    "label": "GOK - Guthrie-Edmond Rgnl - Guthrie"
+  },
+  {
+    "value": "GOL",
+    "label": "GOL - Klanten - Gol"
+  },
+  {
+    "value": "GON",
+    "label": "GON - Groton/New London Airport - Groton/New London"
+  },
+  {
+    "value": "GPT",
+    "label": "GPT - Gulfport/Biloxi Intl. - Gulfport/Biloxi"
+  },
+  {
+    "value": "GPZ",
+    "label": "GPZ - Itasca County - Grand Rapids"
+  },
+  {
+    "value": "GQQ",
+    "label": "GQQ - Municipal - Galion"
+  },
+  {
+    "value": "GRB",
+    "label": "GRB - Austin Straubel Intl - Green Bay"
+  },
+  {
+    "value": "GRD",
+    "label": "GRD - Greenwood County - Greenwood"
+  },
+  {
+    "value": "GRE",
+    "label": "GRE - Greenville Airport - Greenville"
+  },
+  {
+    "value": "GRF",
+    "label": "GRF - Gray AAF - Tacoma"
+  },
+  {
+    "value": "GRI",
+    "label": "GRI - Central Nebraska Rgnl - Grand Island"
+  },
+  {
+    "value": "GRK",
+    "label": "GRK - Regional/R.Gray AAF - Killeen/Fort Hood"
+  },
+  {
+    "value": "GRM",
+    "label": "GRM - Cook County - Grand Marais"
+  },
+  {
+    "value": "GRN",
+    "label": "GRN - Municipal - Gordon"
+  },
+  {
+    "value": "GRR",
+    "label": "GRR - Gerald R. Ford Intl - Grand Rapids"
+  },
+  {
+    "value": "GSB",
+    "label": "GSB - Seymour Johnson AFB - Goldsboro"
+  },
+  {
+    "value": "GSO",
+    "label": "GSO - Piedmont Triad Intl - Greensboro/High Point"
+  },
+  {
+    "value": "GSP",
+    "label": "GSP - Greenville/Spartanburg Intl. - Greenville/Spartanburg"
+  },
+  {
+    "value": "GST",
+    "label": "GST - Gustavus Airport - Gustavus"
+  },
+  {
+    "value": "GTF",
+    "label": "GTF - Metropolitan Area - Great Falls"
+  },
+  {
+    "value": "GTG",
+    "label": "GTG - Municipal - Grantsburg"
+  },
+  {
+    "value": "GTP",
+    "label": "GTP - Grants Pass Airport - Grants Pass"
+  },
+  {
+    "value": "GTR",
+    "label": "GTR - Golden Triangle Rgnl - Columbus"
+  },
+  {
+    "value": "GTY",
+    "label": "GTY - Gettysburg Reg. Airport - Gettysburg"
+  },
+  {
+    "value": "GUC",
+    "label": "GUC - Gunnison-Crested Butte - Gunnison"
+  },
+  {
+    "value": "GUF",
+    "label": "GUF - Jack Edwards - Gulf Shores"
+  },
+  {
+    "value": "GUP",
+    "label": "GUP - Municipal - Gallup"
+  },
+  {
+    "value": "GUY",
+    "label": "GUY - Municipal - Guymon"
+  },
+  {
+    "value": "GVE",
+    "label": "GVE - Municipal - Gordonsville"
+  },
+  {
+    "value": "GVL",
+    "label": "GVL - Lee Gilmer Memorial - Gainesville"
+  },
+  {
+    "value": "GVT",
+    "label": "GVT - Majors - Greenville"
+  },
+  {
+    "value": "GWO",
+    "label": "GWO - Leflore - Greenwood"
+  },
+  {
+    "value": "GWS",
+    "label": "GWS - Municipal - Glenwood Springs"
+  },
+  {
+    "value": "GWV",
+    "label": "GWV - Fokker Field - Glendale"
+  },
+  {
+    "value": "GXY",
+    "label": "GXY - Weld County - Greeley"
+  },
+  {
+    "value": "GYR",
+    "label": "GYR - Phoenix Goodyear - Goodyear"
+  },
+  {
+    "value": "HAB",
+    "label": "HAB - Marion Co. Rankin Fite - Hamilton"
+  },
+  {
+    "value": "HAE",
+    "label": "HAE - Havasupai - Havasupai"
+  },
+  {
+    "value": "HAF",
+    "label": "HAF - Half Moon Bay Airport - Half Moon Bay"
+  },
+  {
+    "value": "HAI",
+    "label": "HAI - Hay Airport - Hay"
+  },
+  {
+    "value": "HAO",
+    "label": "HAO - Hao Airport - Hao"
+  },
+  {
+    "value": "HAR",
+    "label": "HAR - Capital City - Harrisburg"
+  },
+  {
+    "value": "HAY",
+    "label": "HAY - Hay Airport - Hay"
+  },
+  {
+    "value": "HBB",
+    "label": "HBB - Industrial Airpark - Hobbs"
+  },
+  {
+    "value": "HBG",
+    "label": "HBG - Bobby L. Chain Muni - Hattiesburg/Laurel"
+  },
+  {
+    "value": "HBK",
+    "label": "HBK - Municipal - Holbrook"
+  },
+  {
+    "value": "HBR",
+    "label": "HBR - Hobart Reg. Airport - Hobart"
+  },
+  {
+    "value": "HCA",
+    "label": "HCA - McMahon-Wrinkle - Big Spring"
+  },
+  {
+    "value": "HCC",
+    "label": "HCC - Columbia County - Hudson"
+  },
+  {
+    "value": "HCR",
+    "label": "HCR - Holy Cross Airport - Holy Cross"
+  },
+  {
+    "value": "HCW",
+    "label": "HCW - Municipal - Cheraw"
+  },
+  {
+    "value": "HDE",
+    "label": "HDE - Brewster Field - Holdrege"
+  },
+  {
+    "value": "HDH",
+    "label": "HDH - Dillingham - Mokuleia"
+  },
+  {
+    "value": "HDN",
+    "label": "HDN - Yampa Valley - Hayden"
+  },
+  {
+    "value": "HED",
+    "label": "HED - Herendeen Bay Airport - Herendeen Bay"
+  },
+  {
+    "value": "HEE",
+    "label": "HEE - Thompson-Robbins - Helena-West Helena"
+  },
+  {
+    "value": "HES",
+    "label": "HES - Municipal - Hermiston"
+  },
+  {
+    "value": "HEZ",
+    "label": "HEZ - Adams County - Natchez"
+  },
+  {
+    "value": "HFD",
+    "label": "HFD - Brainard - Hartford"
+  },
+  {
+    "value": "HFF",
+    "label": "HFF - Mackall AAF - Camp Mackall"
+  },
+  {
+    "value": "HGR",
+    "label": "HGR - Hagerstown Reg. Airport - Hagerstown"
+  },
+  {
+    "value": "HGZ",
+    "label": "HGZ - Hog River - Hogatza"
+  },
+  {
+    "value": "HHH",
+    "label": "HHH - Hilton Head - Hilton Head Island"
+  },
+  {
+    "value": "HHI",
+    "label": "HHI - Wheeler AAF - Wahiawa"
+  },
+  {
+    "value": "HHR",
+    "label": "HHR - Municipal - Hawthorne"
+  },
+  {
+    "value": "HIB",
+    "label": "HIB - Range Regional - Hibbing/Chisholm"
+  },
+  {
+    "value": "HIE",
+    "label": "HIE - Mount Washington Rgnl - Whitefield"
+  },
+  {
+    "value": "HIF",
+    "label": "HIF - Hill AFB - Ogden"
+  },
+  {
+    "value": "HII",
+    "label": "HII - Lake Havasu City Airport - Lake Havasu City"
+  },
+  {
+    "value": "HIO",
+    "label": "HIO - Hillsboro - Portland"
+  },
+  {
+    "value": "HKA",
+    "label": "HKA - Municipal - Blytheville"
+  },
+  {
+    "value": "HKS",
+    "label": "HKS - Hawkins Field - Jackson"
+  },
+  {
+    "value": "HKY",
+    "label": "HKY - Hickory Reg. Airport - Hickory"
+  },
+  {
+    "value": "HLC",
+    "label": "HLC - Municipal - Hill City"
+  },
+  {
+    "value": "HLG",
+    "label": "HLG - Ohio County - Wheeling"
+  },
+  {
+    "value": "HLI",
+    "label": "HLI - Municipal - Hollister"
+  },
+  {
+    "value": "HLM",
+    "label": "HLM - Park Township - Holland"
+  },
+  {
+    "value": "HLN",
+    "label": "HLN - Helena Reg. Airport - Helena"
+  },
+  {
+    "value": "HLR",
+    "label": "HLR - Hood AAF - Killeen/Fort Hood"
+  },
+  {
+    "value": "HMN",
+    "label": "HMN - Holloman AFB - Alamogordo"
+  },
+  {
+    "value": "HMT",
+    "label": "HMT - Ryan - Hemet"
+  },
+  {
+    "value": "HNC",
+    "label": "HNC - Billy Mitchell - Hatteras"
+  },
+  {
+    "value": "HNH",
+    "label": "HNH - Hoonah Airport - Hoonah"
+  },
+  {
+    "value": "HNL",
+    "label": "HNL - Daniel K. Inouye Intl - Honolulu"
+  },
+  {
+    "value": "HNM",
+    "label": "HNM - Hana Airport - Hana"
+  },
+  {
+    "value": "HNS",
+    "label": "HNS - Haines Airport - Haines"
+  },
+  {
+    "value": "HOB",
+    "label": "HOB - Lea County Regional - Hobbs"
+  },
+  {
+    "value": "HOM",
+    "label": "HOM - Homer Airport - Homer"
+  },
+  {
+    "value": "HON",
+    "label": "HON - Hon Airport - Hon"
+  },
+  {
+    "value": "HOP",
+    "label": "HOP - Campbell AAF - Hopkinsville"
+  },
+  {
+    "value": "HOT",
+    "label": "HOT - Memorial Field - Hot Springs"
+  },
+  {
+    "value": "HOU",
+    "label": "HOU - William P. Hobby - Houston"
+  },
+  {
+    "value": "HPB",
+    "label": "HPB - Hooper Bay Airport - Hooper Bay"
+  },
+  {
+    "value": "HPN",
+    "label": "HPN - Westchester County - White Plains"
+  },
+  {
+    "value": "HPT",
+    "label": "HPT - Municipal - Hampton"
+  },
+  {
+    "value": "HPV",
+    "label": "HPV - Princeville - Hanalei"
+  },
+  {
+    "value": "HPY",
+    "label": "HPY - Baytown Airport - Baytown"
+  },
+  {
+    "value": "HQM",
+    "label": "HQM - Bowerman - Hoquiam/Aberdeen"
+  },
+  {
+    "value": "HRL",
+    "label": "HRL - Valley International - Harlingen"
+  },
+  {
+    "value": "HRO",
+    "label": "HRO - Boone County - Harrison"
+  },
+  {
+    "value": "HSB",
+    "label": "HSB - Raleigh - Harrisburg"
+  },
+  {
+    "value": "HSH",
+    "label": "HSH - Henderson Executive - Las Vegas"
+  },
+  {
+    "value": "HSI",
+    "label": "HSI - Municipal - Hastings"
+  },
+  {
+    "value": "HSL",
+    "label": "HSL - Huslia Airport - Huslia"
+  },
+  {
+    "value": "HSP",
+    "label": "HSP - Ingalls Field - Hot Springs"
+  },
+  {
+    "value": "HST",
+    "label": "HST - ARB - Homestead"
+  },
+  {
+    "value": "HSV",
+    "label": "HSV - Intl-Carl T.Jones Fld - Huntsville"
+  },
+  {
+    "value": "HTH",
+    "label": "HTH - Industrial - Hawthorne"
+  },
+  {
+    "value": "HTL",
+    "label": "HTL - Roscommon County - Houghton Lake"
+  },
+  {
+    "value": "HTO",
+    "label": "HTO - East Hampton Airport - East Hampton"
+  },
+  {
+    "value": "HTS",
+    "label": "HTS - Tri-State - Huntington"
+  },
+  {
+    "value": "HTV",
+    "label": "HTV - Bruce Brothers Rgnl - Huntsville"
+  },
+  {
+    "value": "HTW",
+    "label": "HTW - Lawrence Co. Airpark - Chesapeake"
+  },
+  {
+    "value": "HUA",
+    "label": "HUA - Redstone AAF - Huntsville"
+  },
+  {
+    "value": "HUD",
+    "label": "HUD - Municipal - Humboldt"
+  },
+  {
+    "value": "HUJ",
+    "label": "HUJ - Stan Stamper Municipal - Hugo"
+  },
+  {
+    "value": "HUL",
+    "label": "HUL - Houlton Intl. - Houlton"
+  },
+  {
+    "value": "HUM",
+    "label": "HUM - Terrebonne - Houma"
+  },
+  {
+    "value": "HUS",
+    "label": "HUS - Hughes Airport - Hughes"
+  },
+  {
+    "value": "HUT",
+    "label": "HUT - Municipal - Hutchinson"
+  },
+  {
+    "value": "HVE",
+    "label": "HVE - Hanksville Airport - Hanksville"
+  },
+  {
+    "value": "HVN",
+    "label": "HVN - Tweed - New Haven"
+  },
+  {
+    "value": "HVR",
+    "label": "HVR - City-County - Havre"
+  },
+  {
+    "value": "HVS",
+    "label": "HVS - Hartsville Reg. Airport - Hartsville"
+  },
+  {
+    "value": "HWD",
+    "label": "HWD - Executive - Hayward"
+  },
+  {
+    "value": "HWO",
+    "label": "HWO - North Perry - Hollywood"
+  },
+  {
+    "value": "HYA",
+    "label": "HYA - Barnstable Municipal - Hyannis"
+  },
+  {
+    "value": "HYG",
+    "label": "HYG - Sea Plane Base - Hydaburg"
+  },
+  {
+    "value": "HYL",
+    "label": "HYL - Clark Bay SPB - Hollis"
+  },
+  {
+    "value": "HYR",
+    "label": "HYR - Sawyer County - Hayward"
+  },
+  {
+    "value": "HYS",
+    "label": "HYS - Hays Reg. Airport - Hays"
+  },
+  {
+    "value": "HZL",
+    "label": "HZL - Hazleton Reg. Airport - Hazleton"
+  },
+  {
+    "value": "IAB",
+    "label": "IAB - McConnell AFB - Wichita"
+  },
+  {
+    "value": "IAD",
+    "label": "IAD - Dulles Intl - Washington"
+  },
+  {
+    "value": "IAG",
+    "label": "IAG - Niagara Falls Intl. - Niagara Falls"
+  },
+  {
+    "value": "IAH",
+    "label": "IAH - George Bush Intercont. - Houston"
+  },
+  {
+    "value": "IAN",
+    "label": "IAN - Bob Baker Memorial - Kiana"
+  },
+  {
+    "value": "ICL",
+    "label": "ICL - Schenck Field - Clarinda"
+  },
+  {
+    "value": "ICS",
+    "label": "ICS - Cascade Airport - Cascade"
+  },
+  {
+    "value": "ICT",
+    "label": "ICT - Dwight D. Eisenhower - Wichita"
+  },
+  {
+    "value": "ICY",
+    "label": "ICY - Icy Bay Airport - Icy Bay"
+  },
+  {
+    "value": "IDA",
+    "label": "IDA - Idaho Falls Reg. Airport - Idaho Falls"
+  },
+  {
+    "value": "IDG",
+    "label": "IDG - Municipal - Ida Grove"
+  },
+  {
+    "value": "IDH",
+    "label": "IDH - Idaho County - Grangeville"
+  },
+  {
+    "value": "IDI",
+    "label": "IDI - Indiana County - Indiana"
+  },
+  {
+    "value": "IDP",
+    "label": "IDP - Municipal - Independence"
+  },
+  {
+    "value": "IFA",
+    "label": "IFA - Municipal - Iowa Falls"
+  },
+  {
+    "value": "IFP",
+    "label": "IFP - Laughlin/Bullhead Intl - Bullhead City"
+  },
+  {
+    "value": "IGG",
+    "label": "IGG - Igiugig Airport - Igiugig"
+  },
+  {
+    "value": "IGM",
+    "label": "IGM - Kingman Airport - Kingman"
+  },
+  {
+    "value": "IJX",
+    "label": "IJX - Municipal - Jacksonville"
+  },
+  {
+    "value": "IKB",
+    "label": "IKB - Wilkes County - Wilkesboro"
+  },
+  {
+    "value": "IKK",
+    "label": "IKK - Greater Kankakee - Kankakee"
+  },
+  {
+    "value": "IKO",
+    "label": "IKO - Air Station - Nikolski"
+  },
+  {
+    "value": "ILE",
+    "label": "ILE - Skylark Field - Killeen/Fort Hood"
+  },
+  {
+    "value": "ILG",
+    "label": "ILG - New Castle - Wilmington"
+  },
+  {
+    "value": "ILI",
+    "label": "ILI - Iliamna Airport - Iliamna"
+  },
+  {
+    "value": "ILL",
+    "label": "ILL - Municipal - Willmar"
+  },
+  {
+    "value": "ILM",
+    "label": "ILM - Wilmington Intl. - Wilmington"
+  },
+  {
+    "value": "ILN",
+    "label": "ILN - Air Park - Wilmington"
+  },
+  {
+    "value": "IML",
+    "label": "IML - Municipal - Imperial"
+  },
+  {
+    "value": "IMM",
+    "label": "IMM - Immokalee Reg. Airport - Immokalee"
+  },
+  {
+    "value": "IMT",
+    "label": "IMT - Ford - Iron Mountain/Kingsfd."
+  },
+  {
+    "value": "INK",
+    "label": "INK - Winkler County - Wink"
+  },
+  {
+    "value": "INL",
+    "label": "INL - Falls International - International Falls"
+  },
+  {
+    "value": "INS",
+    "label": "INS - Creech AFB - Indian Springs"
+  },
+  {
+    "value": "INT",
+    "label": "INT - Smith Reynolds - Winston-Salem"
+  },
+  {
+    "value": "INW",
+    "label": "INW - Lindbergh Regional - Winslow"
+  },
+  {
+    "value": "IOW",
+    "label": "IOW - Municipal - Iowa City"
+  },
+  {
+    "value": "IPL",
+    "label": "IPL - Imperial County - Imperial/El Centro"
+  },
+  {
+    "value": "IPT",
+    "label": "IPT - Williamsport Reg. Airport - Williamsport"
+  },
+  {
+    "value": "IRC",
+    "label": "IRC - Circle City - Circle"
+  },
+  {
+    "value": "IRK",
+    "label": "IRK - Kirksville Reg. Airport - Kirksville"
+  },
+  {
+    "value": "IRS",
+    "label": "IRS - Kirsch Municipal - Sturgis"
+  },
+  {
+    "value": "ISM",
+    "label": "ISM - Kissimmee Gateway - Orlando"
+  },
+  {
+    "value": "ISN",
+    "label": "ISN - Sloulin Field Intl - Williston"
+  },
+  {
+    "value": "ISO",
+    "label": "ISO - Regional Jetport - Kinston"
+  },
+  {
+    "value": "ISP",
+    "label": "ISP - Long Island MacArthur - Islip"
+  },
+  {
+    "value": "ISQ",
+    "label": "ISQ - Schoolcraft County - Manistique"
+  },
+  {
+    "value": "ISS",
+    "label": "ISS - Wiscasset Airport - Wiscasset"
+  },
+  {
+    "value": "ISW",
+    "label": "ISW - South Wood County - Wisconsin Rapids"
+  },
+  {
+    "value": "ITH",
+    "label": "ITH - Tompkins Regional - Ithaca"
+  },
+  {
+    "value": "ITO",
+    "label": "ITO - Hilo Intl. - Hilo"
+  },
+  {
+    "value": "IWD",
+    "label": "IWD - Gogebic-Iron County - Ironwood"
+  },
+  {
+    "value": "IWS",
+    "label": "IWS - West Houston - Houston"
+  },
+  {
+    "value": "IYK",
+    "label": "IYK - Inyokern Airport - Inyokern"
+  },
+  {
+    "value": "JAC",
+    "label": "JAC - Jackson Hole - Jackson"
+  },
+  {
+    "value": "JAN",
+    "label": "JAN - Medgar W. Evers Intl - Jackson"
+  },
+  {
+    "value": "JAS",
+    "label": "JAS - Jasper County-Bell Fld - Jasper"
+  },
+  {
+    "value": "JAX",
+    "label": "JAX - Jacksonville Intl. - Jacksonville"
+  },
+  {
+    "value": "JBR",
+    "label": "JBR - Municipal - Jonesboro"
+  },
+  {
+    "value": "JBS",
+    "label": "JBS - Joao Manoel - Sao Borja"
+  },
+  {
+    "value": "JBT",
+    "label": "JBT - Sea Plane Base - Bethel"
+  },
+  {
+    "value": "JCI",
+    "label": "JCI - New Century Aircenter - Kansas City"
+  },
+  {
+    "value": "JCT",
+    "label": "JCT - Kimble County - Junction"
+  },
+  {
+    "value": "JCY",
+    "label": "JCY - LBJ Ranch - Johnson City"
+  },
+  {
+    "value": "JDA",
+    "label": "JDA - Grant County Regional - John Day"
+  },
+  {
+    "value": "JDN",
+    "label": "JDN - Jordan Airport - Jordan"
+  },
+  {
+    "value": "JEF",
+    "label": "JEF - Memorial - Jefferson City"
+  },
+  {
+    "value": "JFK",
+    "label": "JFK - John F Kennedy Intl - New York"
+  },
+  {
+    "value": "JFN",
+    "label": "JFN - Northeast Ohio Rgnl - Ashtabula"
+  },
+  {
+    "value": "JHM",
+    "label": "JHM - Kapalua Airport - Kapalua"
+  },
+  {
+    "value": "JHW",
+    "label": "JHW - Chautaqua County - Jamestown"
+  },
+  {
+    "value": "JKV",
+    "label": "JKV - Cherokee County - Jacksonville"
+  },
+  {
+    "value": "JLA",
+    "label": "JLA - Quartz Creek - Cooper Landing"
+  },
+  {
+    "value": "JLN",
+    "label": "JLN - Joplin Reg. Airport - Joplin"
+  },
+  {
+    "value": "JMS",
+    "label": "JMS - Jamestown Reg. Airport - Jamestown"
+  },
+  {
+    "value": "JNU",
+    "label": "JNU - Juneau Intl. - Juneau"
+  },
+  {
+    "value": "JOT",
+    "label": "JOT - Joliet Reg. Airport - Joliet"
+  },
+  {
+    "value": "JRB",
+    "label": "JRB - NAS JRB - Fort Worth"
+  },
+  {
+    "value": "JRF",
+    "label": "JRF - Kalaeloa - Kapolei"
+  },
+  {
+    "value": "JSK",
+    "label": "JSK - Jask Airport - Jask"
+  },
+  {
+    "value": "JST",
+    "label": "JST - John Murtha-Cambria Co - Johnstown"
+  },
+  {
+    "value": "JVI",
+    "label": "JVI - Central Jersey Rgnl - Manville"
+  },
+  {
+    "value": "JVL",
+    "label": "JVL - Southern Wisconsin Rgn - Janesville"
+  },
+  {
+    "value": "JXN",
+    "label": "JXN - Jackson County - Jackson"
+  },
+  {
+    "value": "KAE",
+    "label": "KAE - Sea Plane Base - Kake"
+  },
+  {
+    "value": "KAL",
+    "label": "KAL - Kaltag Airport - Kaltag"
+  },
+  {
+    "value": "KBC",
+    "label": "KBC - Birch Creek Airport - Birch Creek"
+  },
+  {
+    "value": "KBE",
+    "label": "KBE - Hot Springs SPB - Bell Island"
+  },
+  {
+    "value": "KBW",
+    "label": "KBW - Chignik Bay SPB - Chignik"
+  },
+  {
+    "value": "KCC",
+    "label": "KCC - Sea Plane Base - Coffman Cove"
+  },
+  {
+    "value": "KCL",
+    "label": "KCL - Chignik Lagoon - Chignik"
+  },
+  {
+    "value": "KCN",
+    "label": "KCN - Sea Plane Base - Chernofski Harbor"
+  },
+  {
+    "value": "KCQ",
+    "label": "KCQ - Chignik Lake - Chignik"
+  },
+  {
+    "value": "KCR",
+    "label": "KCR - Colorado Creek Airport - Colorado Creek"
+  },
+  {
+    "value": "KDK",
+    "label": "KDK - Municipal - Kodiak"
+  },
+  {
+    "value": "KEB",
+    "label": "KEB - Nanwalek Airport - Nanwalek"
+  },
+  {
+    "value": "KEH",
+    "label": "KEH - Kenmore Air Harbor SPB - Kenmore"
+  },
+  {
+    "value": "KEK",
+    "label": "KEK - Ekwok Airport - Ekwok"
+  },
+  {
+    "value": "KFP",
+    "label": "KFP - False Pass Airport - False Pass"
+  },
+  {
+    "value": "KGK",
+    "label": "KGK - Koliganek Airport - Koliganek"
+  },
+  {
+    "value": "KGX",
+    "label": "KGX - Grayling Airport - Grayling"
+  },
+  {
+    "value": "KGZ",
+    "label": "KGZ - Glacier Creek Airport - Glacier Creek"
+  },
+  {
+    "value": "KIB",
+    "label": "KIB - Sea Plane Base - Ivanof Bay"
+  },
+  {
+    "value": "KIC",
+    "label": "KIC - Mesa Del Rey - King City"
+  },
+  {
+    "value": "KIP",
+    "label": "KIP - Kickapoo Downtown Apt - Wichita Falls"
+  },
+  {
+    "value": "KKA",
+    "label": "KKA - Alfred Adams - Koyuk"
+  },
+  {
+    "value": "KKB",
+    "label": "KKB - Sea Plane Base - Kitoi Bay"
+  },
+  {
+    "value": "KKH",
+    "label": "KKH - Kongiganak Airport - Kongiganak"
+  },
+  {
+    "value": "KKI",
+    "label": "KKI - Akiachak Airport - Akiachak"
+  },
+  {
+    "value": "KKK",
+    "label": "KKK - Air Station - Kalakaket Creek"
+  },
+  {
+    "value": "KKL",
+    "label": "KKL - Sea Plane Base - Karluk Lake"
+  },
+  {
+    "value": "KKT",
+    "label": "KKT - Municipal - Kentland"
+  },
+  {
+    "value": "KKU",
+    "label": "KKU - Ekuk Airport - Ekuk"
+  },
+  {
+    "value": "KLG",
+    "label": "KLG - Kalskag Airport - Kalskag"
+  },
+  {
+    "value": "KLL",
+    "label": "KLL - Levelock Airport - Levelock"
+  },
+  {
+    "value": "KLN",
+    "label": "KLN - Larsen Bay Airport - Larsen Bay"
+  },
+  {
+    "value": "KLS",
+    "label": "KLS - SW Washington Regional - Kelso"
+  },
+  {
+    "value": "KLW",
+    "label": "KLW - Klawock Airport - Klawock"
+  },
+  {
+    "value": "KMO",
+    "label": "KMO - Manokotak Airport - Manokotak"
+  },
+  {
+    "value": "KNB",
+    "label": "KNB - Municipal - Kanab"
+  },
+  {
+    "value": "KNK",
+    "label": "KNK - Kokhanok Airport - Kokhanok"
+  },
+  {
+    "value": "KNT",
+    "label": "KNT - Memorial - Kennett"
+  },
+  {
+    "value": "KNW",
+    "label": "KNW - New Stuyahok Airport - New Stuyahok"
+  },
+  {
+    "value": "KOA",
+    "label": "KOA - Keahole - Kona"
+  },
+  {
+    "value": "KOT",
+    "label": "KOT - Kotlik Airport - Kotlik"
+  },
+  {
+    "value": "KOY",
+    "label": "KOY - Sea Plane Base - Olga Bay"
+  },
+  {
+    "value": "KPB",
+    "label": "KPB - Sea Plane Base - Point Baker"
+  },
+  {
+    "value": "KPC",
+    "label": "KPC - Coast Guard Station - Port Clarence"
+  },
+  {
+    "value": "KPN",
+    "label": "KPN - Kipnuk Airport - Kipnuk"
+  },
+  {
+    "value": "KPR",
+    "label": "KPR - Sea Plane Base - Port Williams"
+  },
+  {
+    "value": "KPT",
+    "label": "KPT - Hayden Field - Jackpot"
+  },
+  {
+    "value": "KPV",
+    "label": "KPV - Perryville Airport - Perryville"
+  },
+  {
+    "value": "KPY",
+    "label": "KPY - Sea Plane Base - Port Bailey"
+  },
+  {
+    "value": "KQA",
+    "label": "KQA - Akutan Airport - Akutan"
+  },
+  {
+    "value": "KSM",
+    "label": "KSM - St Mary's Airport - St Mary's"
+  },
+  {
+    "value": "KSR",
+    "label": "KSR - H. Aroeppala - Selayar Islands"
+  },
+  {
+    "value": "KTB",
+    "label": "KTB - Sea Plane Base - Thorne Bay"
+  },
+  {
+    "value": "KTH",
+    "label": "KTH - Tikchik Lodge SPB - Tikchik"
+  },
+  {
+    "value": "KTN",
+    "label": "KTN - Ketchikan Intl. - Ketchikan"
+  },
+  {
+    "value": "KTS",
+    "label": "KTS - Brevig Mission Airport - Brevig Mission"
+  },
+  {
+    "value": "KUK",
+    "label": "KUK - Kasigluk Airport - Kasigluk"
+  },
+  {
+    "value": "KVC",
+    "label": "KVC - King Cove Airport - King Cove"
+  },
+  {
+    "value": "KVL",
+    "label": "KVL - Kivalina Airport - Kivalina"
+  },
+  {
+    "value": "KWF",
+    "label": "KWF - Sea Plane Base - Waterfall"
+  },
+  {
+    "value": "KWK",
+    "label": "KWK - Kwigillingok Airport - Kwigillingok"
+  },
+  {
+    "value": "KWN",
+    "label": "KWN - Quinhagak Airport - Quinhagak"
+  },
+  {
+    "value": "KWP",
+    "label": "KWP - West Point Village SPB - West Point"
+  },
+  {
+    "value": "KWT",
+    "label": "KWT - Kwethluk Airport - Kwethluk"
+  },
+  {
+    "value": "KXA",
+    "label": "KXA - Sea Plane Base - Kasaan"
+  },
+  {
+    "value": "KYK",
+    "label": "KYK - Karluk Airport - Karluk"
+  },
+  {
+    "value": "KYO",
+    "label": "KYO - North Aero Park - Tampa"
+  },
+  {
+    "value": "KYU",
+    "label": "KYU - Koyukuk Airport - Koyukuk"
+  },
+  {
+    "value": "LAA",
+    "label": "LAA - Municipal - Lamar"
+  },
+  {
+    "value": "LAL",
+    "label": "LAL - Linder Regional - Lakeland"
+  },
+  {
+    "value": "LAM",
+    "label": "LAM - Los Alamos Airport - Los Alamos"
+  },
+  {
+    "value": "LAN",
+    "label": "LAN - Capital Region Intl - Lansing"
+  },
+  {
+    "value": "LAR",
+    "label": "LAR - Lar Airport - Lar"
+  },
+  {
+    "value": "LAS",
+    "label": "LAS - HARRY REID INTL - Las Vegas"
+  },
+  {
+    "value": "LAW",
+    "label": "LAW - Lawton/Fort Sill Reg. Airport - Lawton/Fort Sill"
+  },
+  {
+    "value": "LAX",
+    "label": "LAX - Los Angeles Intl. - Los Angeles"
+  },
+  {
+    "value": "LBB",
+    "label": "LBB - Preston Smith Intl - Lubbock"
+  },
+  {
+    "value": "LBE",
+    "label": "LBE - Arnold Palmer Regional - Latrobe"
+  },
+  {
+    "value": "LBF",
+    "label": "LBF - Regional(Lee Bird Fld) - North Platte"
+  },
+  {
+    "value": "LBL",
+    "label": "LBL - Mid-America Regional - Liberal"
+  },
+  {
+    "value": "LBT",
+    "label": "LBT - Municipal - Lumberton"
+  },
+  {
+    "value": "LCH",
+    "label": "LCH - Lake Charles Reg. Airport - Lake Charles"
+  },
+  {
+    "value": "LCI",
+    "label": "LCI - Municipal - Laconia"
+  },
+  {
+    "value": "LCK",
+    "label": "LCK - Rickenbacker Intl - Columbus"
+  },
+  {
+    "value": "LCQ",
+    "label": "LCQ - Lake City Gateway - Lake City"
+  },
+  {
+    "value": "LDJ",
+    "label": "LDJ - Linden Airport - Linden"
+  },
+  {
+    "value": "LDM",
+    "label": "LDM - Mason County - Ludington"
+  },
+  {
+    "value": "LEB",
+    "label": "LEB - Municipal - Lebanon"
+  },
+  {
+    "value": "LEE",
+    "label": "LEE - Leesburg Intl. - Leesburg"
+  },
+  {
+    "value": "LEM",
+    "label": "LEM - Municipal - Lemmon"
+  },
+  {
+    "value": "LEW",
+    "label": "LEW - Municipal - Lewiston/Auburn"
+  },
+  {
+    "value": "LEX",
+    "label": "LEX - Blue Grass - Lexington"
+  },
+  {
+    "value": "LFI",
+    "label": "LFI - Langley AFB - Hampton"
+  },
+  {
+    "value": "LFK",
+    "label": "LFK - Angelina County - Lufkin"
+  },
+  {
+    "value": "LFN",
+    "label": "LFN - Triangle North Exec. - Louisburg"
+  },
+  {
+    "value": "LFT",
+    "label": "LFT - Lafayette Reg. Airport - Lafayette"
+  },
+  {
+    "value": "LGA",
+    "label": "LGA - LaGuardia - New York"
+  },
+  {
+    "value": "LGB",
+    "label": "LGB - Daugherty Field - Long Beach"
+  },
+  {
+    "value": "LGC",
+    "label": "LGC - Callaway - La Grange"
+  },
+  {
+    "value": "LGD",
+    "label": "LGD - Union County - La Grande"
+  },
+  {
+    "value": "LGF",
+    "label": "LGF - Laguna AAF - Yuma"
+  },
+  {
+    "value": "LGU",
+    "label": "LGU - Logan-Cache - Logan"
+  },
+  {
+    "value": "LHV",
+    "label": "LHV - W T Piper Memorial - Lock Haven"
+  },
+  {
+    "value": "LIC",
+    "label": "LIC - Municipal - Limon"
+  },
+  {
+    "value": "LIH",
+    "label": "LIH - Lihue Airport - Lihue"
+  },
+  {
+    "value": "LIT",
+    "label": "LIT - B. & H. Clinton Natl - Little Rock"
+  },
+  {
+    "value": "LIV",
+    "label": "LIV - Livengood Camp - Livengood"
+  },
+  {
+    "value": "LIY",
+    "label": "LIY - MidCoast Regional - Hinesville/Ft Stewart"
+  },
+  {
+    "value": "LIZ",
+    "label": "LIZ - Loring Intl - Limestone"
+  }
+]

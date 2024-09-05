@@ -1,0 +1,434 @@
+{
+  "data": [
+    {
+      "2024-08-24-LXLX317-LX8024": {
+        "TravelClass": "Business",
+        "Origin": "LHR",
+        "OriginCityName": "London",
+        "Destination": "CUN",
+        "DestinationCityName": "Cancun",
+        "IsDirect": false,
+        "DepartureTime": "2024-08-24 08:40",
+        "ArrivalTime": "2024-08-24 17:00",
+        "FlightNumbers": [
+          "LX317",
+          "LX8024"
+        ],
+        "BaggageAmount": "32",
+        "BaggageType": "Kilograms",
+        "Cost": "$1518.16",
+        "CostFloat": 1518.16,
+        "PurchasingId": "AC_20240824_LHR_CUN_BUSINESS_LX317-LX8024",
+        "connections": [
+          "ZRH"
+        ],
+        "Legs": [
+          {
+            "Segments": [
+              {
+                "Origin": "LHR",
+                "Destination": "ZRH",
+                "DepartureTime": "2024-08-24 08:40:00",
+                "ArrivalTime": "2024-08-24 11:35:00",
+                "FlightNumber": "LX317"
+              },
+              {
+                "Origin": "ZRH",
+                "Destination": "CUN",
+                "DepartureTime": "2024-08-24 12:30:00",
+                "ArrivalTime": "2024-08-24 17:00:00",
+                "FlightNumber": "LX8024"
+              }
+            ]
+          }
+        ],
+        "CostBelowAverage": 1206.62
+      }
+    },
+    {
+      "2024-08-27-LHLH443-LH1028": {
+        "TravelClass": "Business",
+        "Origin": "DTW",
+        "OriginCityName": "Detroit",
+        "Destination": "CDG",
+        "DestinationCityName": "Paris",
+        "IsDirect": false,
+        "DepartureTime": "2024-08-27 16:05",
+        "ArrivalTime": "2024-08-28 09:50",
+        "FlightNumbers": [
+          "LH443",
+          "LH1028"
+        ],
+        "BaggageAmount": "32",
+        "BaggageType": "Kilograms",
+        "Cost": "$1218.52",
+        "CostFloat": 1218.52,
+        "PurchasingId": "AC_20240827_DTW_CDG_BUSINESS_LH443-LH1028",
+        "connections": [
+          "FRA"
+        ],
+        "Legs": [
+          {
+            "Segments": [
+              {
+                "Origin": "DTW",
+                "Destination": "FRA",
+                "DepartureTime": "2024-08-27 16:05:00",
+                "ArrivalTime": "2024-08-28 06:20:00",
+                "FlightNumber": "LH443"
+              },
+              {
+                "Origin": "FRA",
+                "Destination": "CDG",
+                "DepartureTime": "2024-08-28 08:35:00",
+                "ArrivalTime": "2024-08-28 09:50:00",
+                "FlightNumber": "LH1028"
+              }
+            ]
+          }
+        ],
+        "CostBelowAverage": 1146.88
+      }
+    },
+    {
+      "2024-08-29-ACAC736-AC1812": {
+        "TravelClass": "Business",
+        "Origin": "SFO",
+        "OriginCityName": "San Francisco",
+        "Destination": "CUN",
+        "DestinationCityName": "Cancun",
+        "IsDirect": false,
+        "DepartureTime": "2024-08-29 06:30",
+        "ArrivalTime": "2024-08-29 20:00",
+        "FlightNumbers": [
+          "AC736",
+          "AC1812"
+        ],
+        "BaggageAmount": "32",
+        "BaggageType": "Kilograms",
+        "Cost": "$1195.89",
+        "CostFloat": 1195.89,
+        "PurchasingId": "AC_20240829_SFO_CUN_BUSINESS_AC736-AC1812",
+        "connections": [
+          "YYZ"
+        ],
+        "Legs": [
+          {
+            "Segments": [
+              {
+                "Origin": "SFO",
+                "Destination": "YYZ",
+                "DepartureTime": "2024-08-29 06:30:00",
+                "ArrivalTime": "2024-08-29 14:21:00",
+                "FlightNumber": "AC736"
+              },
+              {
+                "Origin": "YYZ",
+                "Destination": "CUN",
+                "DepartureTime": "2024-08-29 17:00:00",
+                "ArrivalTime": "2024-08-29 20:00:00",
+                "FlightNumber": "AC1812"
+              }
+            ]
+          }
+        ],
+        "CostBelowAverage": 1187.29
+      }
+    },
+    {
+      "2024-08-25-UAUA231": {
+        "TravelClass": "Business",
+        "Origin": "LAX",
+        "OriginCityName": "Los Angeles",
+        "Destination": "LHR",
+        "DestinationCityName": "London",
+        "IsDirect": true,
+        "DepartureTime": "2024-08-25 13:00",
+        "ArrivalTime": "2024-08-26 07:25",
+        "FlightNumbers": [
+          "UA231"
+        ],
+        "BaggageAmount": "32",
+        "BaggageType": "Kilograms",
+        "Cost": "$1151.26",
+        "CostFloat": 1151.26,
+        "PurchasingId": "AC_20240825_LAX_LHR_BUSINESS_UA231",
+        "connections": [],
+        "Legs": [
+          {
+            "Segments": [
+              {
+                "Origin": "LAX",
+                "Destination": "LHR",
+                "DepartureTime": "2024-08-25 13:00:00",
+                "ArrivalTime": "2024-08-26 07:25:00",
+                "FlightNumber": "UA231"
+              }
+            ]
+          }
+        ],
+        "CostBelowAverage": 1137.87
+      }
+    },
+    {
+      "2024-08-26-LXLX8017-LX636": {
+        "TravelClass": "Business",
+        "Origin": "DEN",
+        "OriginCityName": "Denver",
+        "Destination": "CDG",
+        "DestinationCityName": "Paris",
+        "IsDirect": false,
+        "DepartureTime": "2024-08-26 17:55",
+        "ArrivalTime": "2024-08-27 18:00",
+        "FlightNumbers": [
+          "LX8017",
+          "LX636"
+        ],
+        "BaggageAmount": "32",
+        "BaggageType": "Kilograms",
+        "Cost": "$1172.08",
+        "CostFloat": 1172.08,
+        "PurchasingId": "AC_20240826_DEN_CDG_BUSINESS_LX8017-LX636",
+        "connections": [
+          "ZRH"
+        ],
+        "Legs": [
+          {
+            "Segments": [
+              {
+                "Origin": "DEN",
+                "Destination": "ZRH",
+                "DepartureTime": "2024-08-26 17:55:00",
+                "ArrivalTime": "2024-08-27 11:50:00",
+                "FlightNumber": "LX8017"
+              },
+              {
+                "Origin": "ZRH",
+                "Destination": "CDG",
+                "DepartureTime": "2024-08-27 16:30:00",
+                "ArrivalTime": "2024-08-27 18:00:00",
+                "FlightNumber": "LX636"
+              }
+            ]
+          }
+        ],
+        "CostBelowAverage": 1124.85
+      }
+    },
+    {
+      "2024-08-28-LX & LHLX1068-LH456": {
+        "TravelClass": "Business",
+        "Origin": "ZRH",
+        "OriginCityName": "Zurich",
+        "Destination": "LAX",
+        "DestinationCityName": "Los Angeles",
+        "IsDirect": false,
+        "DepartureTime": "2024-08-28 07:00",
+        "ArrivalTime": "2024-08-28 13:00",
+        "FlightNumbers": [
+          "LX1068",
+          "LH456"
+        ],
+        "BaggageAmount": "32",
+        "BaggageType": "Kilograms",
+        "Cost": "$1277.97",
+        "CostFloat": 1277.97,
+        "PurchasingId": "AC_20240828_ZRH_LAX_BUSINESS_LX1068-LH456",
+        "connections": [
+          "FRA"
+        ],
+        "Legs": [
+          {
+            "Segments": [
+              {
+                "Origin": "ZRH",
+                "Destination": "FRA",
+                "DepartureTime": "2024-08-28 07:00:00",
+                "ArrivalTime": "2024-08-28 08:05:00",
+                "FlightNumber": "LX1068"
+              },
+              {
+                "Origin": "FRA",
+                "Destination": "LAX",
+                "DepartureTime": "2024-08-28 10:30:00",
+                "ArrivalTime": "2024-08-28 13:00:00",
+                "FlightNumber": "LH456"
+              }
+            ]
+          }
+        ],
+        "CostBelowAverage": 1056.85
+      }
+    },
+    {
+      "2024-08-27-UAUA181": {
+        "TravelClass": "Business",
+        "Origin": "FRA",
+        "OriginCityName": "Frankfurt",
+        "Destination": "DEN",
+        "DestinationCityName": "Denver",
+        "IsDirect": true,
+        "DepartureTime": "2024-08-27 11:20",
+        "ArrivalTime": "2024-08-27 13:25",
+        "FlightNumbers": [
+          "UA181"
+        ],
+        "BaggageAmount": "32",
+        "BaggageType": "Kilograms",
+        "Cost": "$1317.09",
+        "CostFloat": 1317.09,
+        "PurchasingId": "AC_20240827_FRA_DEN_BUSINESS_UA181",
+        "connections": [],
+        "Legs": [
+          {
+            "Segments": [
+              {
+                "Origin": "FRA",
+                "Destination": "DEN",
+                "DepartureTime": "2024-08-27 11:20:00",
+                "ArrivalTime": "2024-08-27 13:25:00",
+                "FlightNumber": "UA181"
+              }
+            ]
+          }
+        ],
+        "CostBelowAverage": 1032.36
+      }
+    },
+    {
+      "2024-08-27-LXLX243-LX64": {
+        "TravelClass": "Business",
+        "Origin": "DXB",
+        "OriginCityName": "Dubai",
+        "Destination": "MIA",
+        "DestinationCityName": "Miami",
+        "IsDirect": false,
+        "DepartureTime": "2024-08-27 01:15",
+        "ArrivalTime": "2024-08-27 17:30",
+        "FlightNumbers": [
+          "LX243",
+          "LX64"
+        ],
+        "BaggageAmount": "32",
+        "BaggageType": "Kilograms",
+        "Cost": "$1558.46",
+        "CostFloat": 1558.46,
+        "PurchasingId": "AC_20240827_DXB_MIA_BUSINESS_LX243-LX64",
+        "connections": [
+          "ZRH"
+        ],
+        "Legs": [
+          {
+            "Segments": [
+              {
+                "Origin": "DXB",
+                "Destination": "ZRH",
+                "DepartureTime": "2024-08-27 01:15:00",
+                "ArrivalTime": "2024-08-27 06:10:00",
+                "FlightNumber": "LX243"
+              },
+              {
+                "Origin": "ZRH",
+                "Destination": "MIA",
+                "DepartureTime": "2024-08-27 13:10:00",
+                "ArrivalTime": "2024-08-27 17:30:00",
+                "FlightNumber": "LX64"
+              }
+            ]
+          }
+        ],
+        "CostBelowAverage": 1020.78
+      }
+    },
+    {
+      "2024-09-01-A3A3681-A3958": {
+        "TravelClass": "Business",
+        "Origin": "NAP",
+        "OriginCityName": "Naples",
+        "Destination": "DXB",
+        "DestinationCityName": "Dubai",
+        "IsDirect": false,
+        "DepartureTime": "2024-09-01 09:40",
+        "ArrivalTime": "2024-09-02 13:50",
+        "FlightNumbers": [
+          "A3681",
+          "A3958"
+        ],
+        "BaggageAmount": "32",
+        "BaggageType": "Kilograms",
+        "Cost": "$791.78",
+        "CostFloat": 791.78,
+        "PurchasingId": "AC_20240901_NAP_DXB_BUSINESS_A3681-A3958",
+        "connections": [
+          "ATH"
+        ],
+        "Legs": [
+          {
+            "Segments": [
+              {
+                "Origin": "NAP",
+                "Destination": "ATH",
+                "DepartureTime": "2024-09-01 09:40:00",
+                "ArrivalTime": "2024-09-01 12:20:00",
+                "FlightNumber": "A3681"
+              },
+              {
+                "Origin": "ATH",
+                "Destination": "DXB",
+                "DepartureTime": "2024-09-02 08:20:00",
+                "ArrivalTime": "2024-09-02 13:50:00",
+                "FlightNumber": "A3958"
+              }
+            ]
+          }
+        ],
+        "CostBelowAverage": 1040.34
+      }
+    },
+    {
+      "2024-08-24-AI & UKAI918-UK145": {
+        "TravelClass": "Business",
+        "Origin": "DXB",
+        "OriginCityName": "Dubai",
+        "Destination": "DPS",
+        "DestinationCityName": "Denpasar",
+        "IsDirect": false,
+        "DepartureTime": "2024-08-24 13:10",
+        "ArrivalTime": "2024-08-25 08:10",
+        "FlightNumbers": [
+          "AI918",
+          "UK145"
+        ],
+        "BaggageAmount": "32",
+        "BaggageType": "Kilograms",
+        "Cost": "$1003.26",
+        "CostFloat": 1003.26,
+        "PurchasingId": "AC_20240824_DXB_DPS_BUSINESS_AI918-UK145",
+        "connections": [
+          "DEL"
+        ],
+        "Legs": [
+          {
+            "Segments": [
+              {
+                "Origin": "DXB",
+                "Destination": "DEL",
+                "DepartureTime": "2024-08-24 13:10:00",
+                "ArrivalTime": "2024-08-24 18:00:00",
+                "FlightNumber": "AI918"
+              },
+              {
+                "Origin": "DEL",
+                "Destination": "DPS",
+                "DepartureTime": "2024-08-24 22:40:00",
+                "ArrivalTime": "2024-08-25 08:10:00",
+                "FlightNumber": "UK145"
+              }
+            ]
+          }
+        ],
+        "CostBelowAverage": 1015.9
+      }
+    }
+  ]
+}

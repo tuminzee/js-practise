@@ -1,0 +1,7163 @@
+[
+  {
+    "iata": "AAF",
+    "airport": "Apalachicola Reg. Airport",
+    "city": "Apalachicola",
+    "state": "Florida",
+    "label": "AAF - Apalachicola Reg. Airport - Apalachicola"
+  },
+  {
+    "iata": "ABE",
+    "airport": "Lehigh Valley International Airport",
+    "city": "Allentown",
+    "state": "Pennsylvania",
+    "label": "ABE - Lehigh Valley International Airport - Allentown"
+  },
+  {
+    "iata": "ABI",
+    "airport": "Southwest Georgia Regional Airport",
+    "city": "Albany",
+    "state": "Texas",
+    "label": "ABI - Southwest Georgia Regional Airport - Albany"
+  },
+  {
+    "iata": "ABL",
+    "airport": "Ambler Airport",
+    "city": "Ambler",
+    "state": "Alaska",
+    "label": "ABL - Ambler Airport - Ambler"
+  },
+  {
+    "iata": "ABQ",
+    "airport": "Albuquerque International Sunport",
+    "city": "Albuquerque",
+    "state": "New Mexico",
+    "label": "ABQ - Albuquerque International Sunport - Albuquerque"
+  },
+  {
+    "iata": "ABR",
+    "airport": "Aberdeen Regional Airport",
+    "city": "Aberdeen",
+    "state": "South Dakota",
+    "label": "ABR - Aberdeen Regional Airport - Aberdeen"
+  },
+  {
+    "iata": "ABY",
+    "airport": "Southwest Georgia Regional Airport",
+    "city": "Albany",
+    "state": "Georgia",
+    "label": "ABY - Southwest Georgia Regional Airport - Albany"
+  },
+  {
+    "iata": "ACB",
+    "airport": "Antrim County Airport",
+    "city": "Bellaire",
+    "state": "Michigan",
+    "label": "ACB - Antrim County Airport - Bellaire"
+  },
+  {
+    "iata": "ACK",
+    "airport": "Nantucket Memorial Airportorial Airport",
+    "city": "Nantucket",
+    "state": "Massachusetts",
+    "label": "ACK - Nantucket Memorial Airportorial Airport - Nantucket"
+  },
+  {
+    "iata": "ACT",
+    "airport": "Waco Regional Airport",
+    "city": "Waco",
+    "state": "Texas",
+    "label": "ACT - Waco Regional Airport - Waco"
+  },
+  {
+    "iata": "ACV",
+    "airport": "Arcata-Eureka Airport",
+    "city": "Arcata/Eureka",
+    "state": "California",
+    "label": "ACV - Arcata-Eureka Airport - Arcata/Eureka"
+  },
+  {
+    "iata": "ACY",
+    "airport": "Atlantic City International Airport",
+    "city": "Atlantic City",
+    "state": "New Jersey",
+    "label": "ACY - Atlantic City International Airport - Atlantic City"
+  },
+  {
+    "iata": "ADG",
+    "airport": "Lenawee County Airport",
+    "city": "Adrian",
+    "state": "Michigan",
+    "label": "ADG - Lenawee County Airport - Adrian"
+  },
+  {
+    "iata": "ADK",
+    "airport": "Adak Island Airport",
+    "city": "Adak Island",
+    "state": "Alaska",
+    "label": "ADK - Adak Island Airport - Adak Island"
+  },
+  {
+    "iata": "ADM",
+    "airport": "Ardmore Municipal Airport",
+    "city": "Ardmore",
+    "state": "Oklahoma",
+    "label": "ADM - Ardmore Municipal Airport - Ardmore"
+  },
+  {
+    "iata": "ADQ",
+    "airport": "Kodiak Airport",
+    "city": "Kodiak",
+    "state": "Alaska",
+    "label": "ADQ - Kodiak Airport - Kodiak"
+  },
+  {
+    "iata": "ADR",
+    "airport": "Robert F. Swinnie Airport",
+    "city": "Andrews",
+    "state": "South Carolina",
+    "label": "ADR - Robert F. Swinnie Airport - Andrews"
+  },
+  {
+    "iata": "ADS",
+    "airport": "Addison Airport",
+    "city": "Dallas",
+    "state": "Texas",
+    "label": "ADS - Addison Airport - Dallas"
+  },
+  {
+    "iata": "ADT",
+    "airport": "Ada Municipal Airport",
+    "city": "Ada",
+    "state": "Oklahoma",
+    "label": "ADT - Ada Municipal Airport - Ada"
+  },
+  {
+    "iata": "ADW",
+    "airport": "Andrews Air Force Base",
+    "city": "Camp Springs",
+    "state": "Maryland",
+    "label": "ADW - Andrews Air Force Base - Camp Springs"
+  },
+  {
+    "iata": "AEL",
+    "airport": "Albert Lea Municipal Airport",
+    "city": "Albert Lea",
+    "state": "Minnesota",
+    "label": "AEL - Albert Lea Municipal Airport - Albert Lea"
+  },
+  {
+    "iata": "AET",
+    "airport": "Allakaket Airport",
+    "city": "Allakaket",
+    "state": "Alaska",
+    "label": "AET - Allakaket Airport - Allakaket"
+  },
+  {
+    "iata": "AEX",
+    "airport": "Alexandria International Airport",
+    "city": "Alexandria",
+    "state": "Louisiana",
+    "label": "AEX - Alexandria International Airport - Alexandria"
+  },
+  {
+    "iata": "AFF",
+    "airport": "United States Air Force Academy Airfield",
+    "city": "Colorado Springs",
+    "state": "Colorado",
+    "label": "AFF - United States Air Force Academy Airfield - Colorado Springs"
+  },
+  {
+    "iata": "AFN",
+    "airport": "Silver Ranch",
+    "city": "Jaffrey",
+    "state": "New Hampshire",
+    "label": "AFN - Silver Ranch - Jaffrey"
+  },
+  {
+    "iata": "AFO",
+    "airport": "Afton Municipal Airport",
+    "city": "Afton",
+    "state": "Wyoming",
+    "label": "AFO - Afton Municipal Airport - Afton"
+  },
+  {
+    "iata": "AFW",
+    "airport": "Alliance",
+    "city": "Fort Worth",
+    "state": "Texas",
+    "label": "AFW - Alliance - Fort Worth"
+  },
+  {
+    "iata": "AGC",
+    "airport": "Allegheny County Airport",
+    "city": "Pittsburgh",
+    "state": "Pennsylvania",
+    "label": "AGC - Allegheny County Airport - Pittsburgh"
+  },
+  {
+    "iata": "AGN",
+    "airport": "Angoon Seaplane Base",
+    "city": "Angoon",
+    "state": "Alaska",
+    "label": "AGN - Angoon Seaplane Base - Angoon"
+  },
+  {
+    "iata": "AGO",
+    "airport": "Magnolia Municipal Airport",
+    "city": "Magnolia",
+    "state": "Arkansas",
+    "label": "AGO - Magnolia Municipal Airport - Magnolia"
+  },
+  {
+    "iata": "AGS",
+    "airport": "Augusta Regional Airport at Bush Field",
+    "city": "Augusta",
+    "state": "Georgia",
+    "label": "AGS - Augusta Regional Airport at Bush Field - Augusta"
+  },
+  {
+    "iata": "AHC",
+    "airport": "Amedee Army Airfield",
+    "city": "Herlong",
+    "state": "California",
+    "label": "AHC - Amedee Army Airfield - Herlong"
+  },
+  {
+    "iata": "AHH",
+    "airport": "Amery Municipal Airport",
+    "city": "Amery",
+    "state": "Wisconsin",
+    "label": "AHH - Amery Municipal Airport - Amery"
+  },
+  {
+    "iata": "AHM",
+    "airport": "Municipal Airport",
+    "city": "Ashland",
+    "state": "Oregon",
+    "label": "AHM - Municipal Airport - Ashland"
+  },
+  {
+    "iata": "AHN",
+    "airport": "Ben Epps",
+    "city": "Athens",
+    "state": "Georgia",
+    "label": "AHN - Ben Epps - Athens"
+  },
+  {
+    "iata": "AHT",
+    "airport": "Amchitka",
+    "city": "Beringovskiy",
+    "state": "Chukotskiy Avtonomnyy Okrug",
+    "label": "AHT - Amchitka - Beringovskiy"
+  },
+  {
+    "iata": "AIA",
+    "airport": "Alliance Municipal Airport",
+    "city": "Alliance",
+    "state": "Nebraska",
+    "label": "AIA - Alliance Municipal Airport - Alliance"
+  },
+  {
+    "iata": "AIK",
+    "airport": "Aiken Municipal Airport",
+    "city": "Aiken",
+    "state": "South Carolina",
+    "label": "AIK - Aiken Municipal Airport - Aiken"
+  },
+  {
+    "iata": "AIN",
+    "airport": "Wainwright Airport",
+    "city": "Wainwright",
+    "state": "Alaska",
+    "label": "AIN - Wainwright Airport - Wainwright"
+  },
+  {
+    "iata": "AIO",
+    "airport": "Atlantic Municipal Airport",
+    "city": "Atlantic",
+    "state": "Iowa",
+    "label": "AIO - Atlantic Municipal Airport - Atlantic"
+  },
+  {
+    "iata": "AIV",
+    "airport": "George Downer Airport",
+    "city": "Aliceville",
+    "state": "Alabama",
+    "label": "AIV - George Downer Airport - Aliceville"
+  },
+  {
+    "iata": "AIZ",
+    "airport": "Lee C. Fine Memorial Airport",
+    "city": "Kaiser/Lake Ozark",
+    "state": "",
+    "label": "AIZ - Lee C. Fine Memorial Airport - Kaiser/Lake Ozark"
+  },
+  {
+    "iata": "AKB",
+    "airport": "Atka Airport",
+    "city": "Atka",
+    "state": "Alaska",
+    "label": "AKB - Atka Airport - Atka"
+  },
+  {
+    "iata": "AKC",
+    "airport": "Akron Fulton International Airport",
+    "city": "Akron/Canton",
+    "state": "Ohio",
+    "label": "AKC - Akron Fulton International Airport - Akron/Canton"
+  },
+  {
+    "iata": "AKI",
+    "airport": "Akiak Airport",
+    "city": "Akiak",
+    "state": "Alaska",
+    "label": "AKI - Akiak Airport - Akiak"
+  },
+  {
+    "iata": "AKK",
+    "airport": "Akhiok Airport",
+    "city": "Akhiok",
+    "state": "Alaska",
+    "label": "AKK - Akhiok Airport - Akhiok"
+  },
+  {
+    "iata": "AKN",
+    "airport": "King Salmon Airport",
+    "city": "King Salmon",
+    "state": "Alaska",
+    "label": "AKN - King Salmon Airport - King Salmon"
+  },
+  {
+    "iata": "AKO",
+    "airport": "Colorado Plains Regional Airport",
+    "city": "Akron",
+    "state": "Colorado",
+    "label": "AKO - Colorado Plains Regional Airport - Akron"
+  },
+  {
+    "iata": "AKP",
+    "airport": "Anaktuvuk Pass Airport",
+    "city": "Anaktuvuk Pass",
+    "state": "Alaska",
+    "label": "AKP - Anaktuvuk Pass Airport - Anaktuvuk Pass"
+  },
+  {
+    "iata": "ALB",
+    "airport": "Albany International Airport",
+    "city": "Albany",
+    "state": "New York",
+    "label": "ALB - Albany International Airport - Albany"
+  },
+  {
+    "iata": "ALI",
+    "airport": "Alice International Airport",
+    "city": "Alice",
+    "state": "Texas",
+    "label": "ALI - Alice International Airport - Alice"
+  },
+  {
+    "iata": "ALM",
+    "airport": "Alamogordo-White Sands Regional Airport",
+    "city": "Alamogordo",
+    "state": "New Mexico",
+    "label": "ALM - Alamogordo-White Sands Regional Airport - Alamogordo"
+  },
+  {
+    "iata": "ALN",
+    "airport": "St. Louis Regional Airport",
+    "city": "Alton",
+    "state": "Illinois",
+    "label": "ALN - St. Louis Regional Airport - Alton"
+  },
+  {
+    "iata": "ALO",
+    "airport": "Waterloo Regional Airport",
+    "city": "Waterloo",
+    "state": "Iowa",
+    "label": "ALO - Waterloo Regional Airport - Waterloo"
+  },
+  {
+    "iata": "ALS",
+    "airport": "San Luis Valley Regional Airport",
+    "city": "Alamosa",
+    "state": "Colorado",
+    "label": "ALS - San Luis Valley Regional Airport - Alamosa"
+  },
+  {
+    "iata": "ALW",
+    "airport": "Walla Walla Regional Airport",
+    "city": "Walla Walla",
+    "state": "Washington",
+    "label": "ALW - Walla Walla Regional Airport - Walla Walla"
+  },
+  {
+    "iata": "ALX",
+    "airport": "Thomas C. Russell Field",
+    "city": "Alexander City",
+    "state": "Alabama",
+    "label": "ALX - Thomas C. Russell Field - Alexander City"
+  },
+  {
+    "iata": "AMA",
+    "airport": "Ama Airport",
+    "city": "Ama",
+    "state": "Texas",
+    "label": "AMA - Ama Airport - Ama"
+  },
+  {
+    "iata": "AMN",
+    "airport": "Gratiot Community Airport",
+    "city": "Alma",
+    "state": "Michigan",
+    "label": "AMN - Gratiot Community Airport - Alma"
+  },
+  {
+    "iata": "AMW",
+    "airport": "Ames Municipal Airport",
+    "city": "Ames",
+    "state": "Iowa",
+    "label": "AMW - Ames Municipal Airport - Ames"
+  },
+  {
+    "iata": "ANA",
+    "airport": "John Wayne International",
+    "city": "Maasai Mara",
+    "state": "California",
+    "label": "ANA - John Wayne International - Maasai Mara"
+  },
+  {
+    "iata": "ANB",
+    "airport": "Anniston Regional Airport",
+    "city": "Anniston",
+    "state": "Alabama",
+    "label": "ANB - Anniston Regional Airport - Anniston"
+  },
+  {
+    "iata": "ANC",
+    "airport": "Ted Stevens Anchorage International Airport",
+    "city": "Anchorage",
+    "state": "Alaska",
+    "label": "ANC - Ted Stevens Anchorage International Airport - Anchorage"
+  },
+  {
+    "iata": "AND",
+    "airport": "Anderson Regional Airport",
+    "city": "Anderson",
+    "state": "South Carolina",
+    "label": "AND - Anderson Regional Airport - Anderson"
+  },
+  {
+    "iata": "ANI",
+    "airport": "Aniak Airport",
+    "city": "Aniak",
+    "state": "Alaska",
+    "label": "ANI - Aniak Airport - Aniak"
+  },
+  {
+    "iata": "ANN",
+    "airport": "Annette Island Airport",
+    "city": "Ann",
+    "state": "",
+    "label": "ANN - Annette Island Airport - Ann"
+  },
+  {
+    "iata": "ANP",
+    "airport": "Lee Airport",
+    "city": "Annapolis",
+    "state": "Maryland",
+    "label": "ANP - Lee Airport - Annapolis"
+  },
+  {
+    "iata": "ANV",
+    "airport": "Anvik Airport",
+    "city": "Anvik",
+    "state": "Alaska",
+    "label": "ANV - Anvik Airport - Anvik"
+  },
+  {
+    "iata": "ANW",
+    "airport": "Ainsworth Regional Airport",
+    "city": "Ainsworth",
+    "state": "Nebraska",
+    "label": "ANW - Ainsworth Regional Airport - Ainsworth"
+  },
+  {
+    "iata": "ANY",
+    "airport": "Anthony Municipal Airport",
+    "city": "Anthony",
+    "state": "Kansas",
+    "label": "ANY - Anthony Municipal Airport - Anthony"
+  },
+  {
+    "iata": "AOH",
+    "airport": "Lima Allen County Airport",
+    "city": "Lima",
+    "state": "Ohio",
+    "label": "AOH - Lima Allen County Airport - Lima"
+  },
+  {
+    "iata": "AOO",
+    "airport": "Altoona-Blair County Airport",
+    "city": "Altoona",
+    "state": "Pennsylvania",
+    "label": "AOO - Altoona-Blair County Airport - Altoona"
+  },
+  {
+    "iata": "AOS",
+    "airport": "Amook",
+    "city": "Amook Bay",
+    "state": "Alaska",
+    "label": "AOS - Amook - Amook Bay"
+  },
+  {
+    "iata": "APA",
+    "airport": "Centennial Airport",
+    "city": "Denver",
+    "state": "Colorado",
+    "label": "APA - Centennial Airport - Denver"
+  },
+  {
+    "iata": "APC",
+    "airport": "Napa County Airport",
+    "city": "Napa",
+    "state": "California",
+    "label": "APC - Napa County Airport - Napa"
+  },
+  {
+    "iata": "APF",
+    "airport": "Naples Municipal Airport",
+    "city": "Naples",
+    "state": "Florida",
+    "label": "APF - Naples Municipal Airport - Naples"
+  },
+  {
+    "iata": "APG",
+    "airport": "Phillips AAF",
+    "city": "Aberdeen",
+    "state": "Maryland",
+    "label": "APG - Phillips AAF - Aberdeen"
+  },
+  {
+    "iata": "APH",
+    "airport": "A.P. Hill AAF",
+    "city": "Bowling Green",
+    "state": "Virginia",
+    "label": "APH - A.P. Hill AAF - Bowling Green"
+  },
+  {
+    "iata": "APN",
+    "airport": "Alpena County Regional Airport",
+    "city": "Alpena",
+    "state": "Michigan",
+    "label": "APN - Alpena County Regional Airport - Alpena"
+  },
+  {
+    "iata": "APT",
+    "airport": "Marion County Airport (Brown Field)",
+    "city": "Jasper",
+    "state": "Tennessee",
+    "label": "APT - Marion County Airport (Brown Field) - Jasper"
+  },
+  {
+    "iata": "APV",
+    "airport": "Apple Valley Airport",
+    "city": "Apple Valley",
+    "state": "California",
+    "label": "APV - Apple Valley Airport - Apple Valley"
+  },
+  {
+    "iata": "ARA",
+    "airport": "Acadiana Regional Airport",
+    "city": "New Iberia",
+    "state": "Louisiana",
+    "label": "ARA - Acadiana Regional Airport - New Iberia"
+  },
+  {
+    "iata": "ARB",
+    "airport": "Ann Arbor Municipal Airport",
+    "city": "Ann Arbor",
+    "state": "Michigan",
+    "label": "ARB - Ann Arbor Municipal Airport - Ann Arbor"
+  },
+  {
+    "iata": "ARC",
+    "airport": "Arctic Village Airport",
+    "city": "Arctic Village",
+    "state": "Alaska",
+    "label": "ARC - Arctic Village Airport - Arctic Village"
+  },
+  {
+    "iata": "ARE",
+    "airport": "Antonio (Nery) Juarbe Pol Airport",
+    "city": "Arecibo",
+    "state": "Arecibo",
+    "label": "ARE - Antonio (Nery) Juarbe Pol Airport - Arecibo"
+  },
+  {
+    "iata": "ARG",
+    "airport": "Walnut Ridge Regional Airport",
+    "city": "Walnut Ridge",
+    "state": "Arkansas",
+    "label": "ARG - Walnut Ridge Regional Airport - Walnut Ridge"
+  },
+  {
+    "iata": "ART",
+    "airport": "Watertown Intl.",
+    "city": "Watertown",
+    "state": "New York",
+    "label": "ART - Watertown Intl. - Watertown"
+  },
+  {
+    "iata": "ARV",
+    "airport": "Lakeland",
+    "city": "Minocqua/Woodruff",
+    "state": "Wisconsin",
+    "label": "ARV - Lakeland - Minocqua/Woodruff"
+  },
+  {
+    "iata": "ASE",
+    "airport": "Pitkin County",
+    "city": "Aspen",
+    "state": "Colorado",
+    "label": "ASE - Pitkin County - Aspen"
+  },
+  {
+    "iata": "ASH",
+    "airport": "Boire Field",
+    "city": "Nashua",
+    "state": "New Hampshire",
+    "label": "ASH - Boire Field - Nashua"
+  },
+  {
+    "iata": "ASL",
+    "airport": "Harrison County Airport",
+    "city": "Marshall",
+    "state": "Texas",
+    "label": "ASL - Harrison County Airport - Marshall"
+  },
+  {
+    "iata": "ASN",
+    "airport": "Talladega Municipal Airport",
+    "city": "Talladega",
+    "state": "Alabama",
+    "label": "ASN - Talladega Municipal Airport - Talladega"
+  },
+  {
+    "iata": "ASQ",
+    "airport": "Austin Airport",
+    "city": "Austin",
+    "state": "",
+    "label": "ASQ - Austin Airport - Austin"
+  },
+  {
+    "iata": "AST",
+    "airport": "Astoria Regional Airport",
+    "city": "Astoria",
+    "state": "Oregon",
+    "label": "AST - Astoria Regional Airport - Astoria"
+  },
+  {
+    "iata": "ASX",
+    "airport": "John F. Kennedy Memorial Airport",
+    "city": "Ashland",
+    "state": "Wisconsin",
+    "label": "ASX - John F. Kennedy Memorial Airport - Ashland"
+  },
+  {
+    "iata": "ASY",
+    "airport": "Ashley Municipal Airport",
+    "city": "Ashley",
+    "state": "North Dakota",
+    "label": "ASY - Ashley Municipal Airport - Ashley"
+  },
+  {
+    "iata": "ATE",
+    "airport": "Antlers Municipal Airport",
+    "city": "Antlers",
+    "state": "Oklahoma",
+    "label": "ATE - Antlers Municipal Airport - Antlers"
+  },
+  {
+    "iata": "ATK",
+    "airport": "E.Burnell Sr Memorial Airportorial",
+    "city": "Atqasuk",
+    "state": "Alaska",
+    "label": "ATK - E.Burnell Sr Memorial Airportorial - Atqasuk"
+  },
+  {
+    "iata": "ATL",
+    "airport": "Hartsfield-Jackson Atlanta International Airport",
+    "city": "Atlanta",
+    "state": "Georgia",
+    "label": "ATL - Hartsfield-Jackson Atlanta International Airport - Atlanta"
+  },
+  {
+    "iata": "ATO",
+    "airport": "Ohio University Airport",
+    "city": "Athens",
+    "state": "Ohio",
+    "label": "ATO - Ohio University Airport - Athens"
+  },
+  {
+    "iata": "ATS",
+    "airport": "Artesia Municipal Airport",
+    "city": "Artesia",
+    "state": "New Mexico",
+    "label": "ATS - Artesia Municipal Airport - Artesia"
+  },
+  {
+    "iata": "ATU",
+    "airport": "Casco Cove Coast Guard Station",
+    "city": "Attu Island",
+    "state": "",
+    "label": "ATU - Casco Cove Coast Guard Station - Attu Island"
+  },
+  {
+    "iata": "ATW",
+    "airport": "Appleton Intl.",
+    "city": "Appleton",
+    "state": "Wisconsin",
+    "label": "ATW - Appleton Intl. - Appleton"
+  },
+  {
+    "iata": "ATY",
+    "airport": "Watertown Regional Airport",
+    "city": "Watertown",
+    "state": "South Dakota",
+    "label": "ATY - Watertown Regional Airport - Watertown"
+  },
+  {
+    "iata": "AUG",
+    "airport": "Augusta State Airport",
+    "city": "Augusta",
+    "state": "Maine",
+    "label": "AUG - Augusta State Airport - Augusta"
+  },
+  {
+    "iata": "AUK",
+    "airport": "Alakanuk Airport",
+    "city": "Alakanuk",
+    "state": "Alaska",
+    "label": "AUK - Alakanuk Airport - Alakanuk"
+  },
+  {
+    "iata": "AUM",
+    "airport": "Austin Municipal Airport",
+    "city": "Austin",
+    "state": "Minnesota",
+    "label": "AUM - Austin Municipal Airport - Austin"
+  },
+  {
+    "iata": "AUN",
+    "airport": "Auburn Municipal Airport",
+    "city": "Auburn",
+    "state": "California",
+    "label": "AUN - Auburn Municipal Airport - Auburn"
+  },
+  {
+    "iata": "AUO",
+    "airport": "Auburn University Rgnl",
+    "city": "Auburn",
+    "state": "Alabama",
+    "label": "AUO - Auburn University Rgnl - Auburn"
+  },
+  {
+    "iata": "AUS",
+    "airport": "Metropolitan Area",
+    "city": "Austin",
+    "state": "Texas",
+    "label": "AUS - Metropolitan Area - Austin"
+  },
+  {
+    "iata": "AUW",
+    "airport": "Wausau Downtown Airport",
+    "city": "Wausau",
+    "state": "Wisconsin",
+    "label": "AUW - Wausau Downtown Airport - Wausau"
+  },
+  {
+    "iata": "AUZ",
+    "airport": "Aurora Municipal Airport",
+    "city": "Aurora",
+    "state": "Illinois",
+    "label": "AUZ - Aurora Municipal Airport - Aurora"
+  },
+  {
+    "iata": "AVL",
+    "airport": "Asheville Regional Airport",
+    "city": "Asheville/Hendersonv.",
+    "state": "North Carolina",
+    "label": "AVL - Asheville Regional Airport - Asheville/Hendersonv."
+  },
+  {
+    "iata": "AVO",
+    "airport": "Avon Park Executive Airport",
+    "city": "Avon Park",
+    "state": "Florida",
+    "label": "AVO - Avon Park Executive Airport - Avon Park"
+  },
+  {
+    "iata": "AVP",
+    "airport": "Wilkes-Barre/Scranton Intl.",
+    "city": "Wilkes-Barre/Scranton",
+    "state": "Pennsylvania",
+    "label": "AVP - Wilkes-Barre/Scranton Intl. - Wilkes-Barre/Scranton"
+  },
+  {
+    "iata": "AVW",
+    "airport": "Marana Regional Airport",
+    "city": "Tucson",
+    "state": "Arizona",
+    "label": "AVW - Marana Regional Airport - Tucson"
+  },
+  {
+    "iata": "AVX",
+    "airport": "Catalina Airport",
+    "city": "Avalon",
+    "state": "",
+    "label": "AVX - Catalina Airport - Avalon"
+  },
+  {
+    "iata": "AWM",
+    "airport": "West Memphis Municipal Airport",
+    "city": "West Memphis",
+    "state": "Arkansas",
+    "label": "AWM - West Memphis Municipal Airport - West Memphis"
+  },
+  {
+    "iata": "AXB",
+    "airport": "Maxson Airfield",
+    "city": "Alexandria Bay",
+    "state": "New York",
+    "label": "AXB - Maxson Airfield - Alexandria Bay"
+  },
+  {
+    "iata": "AXG",
+    "airport": "Algona Municipal Airport",
+    "city": "Algona",
+    "state": "Iowa",
+    "label": "AXG - Algona Municipal Airport - Algona"
+  },
+  {
+    "iata": "AXN",
+    "airport": "Chandler Field",
+    "city": "Alexandria",
+    "state": "Minnesota",
+    "label": "AXN - Chandler Field - Alexandria"
+  },
+  {
+    "iata": "AXS",
+    "airport": "Altus/Quartz Mountain Regional Airport",
+    "city": "Altus",
+    "state": "",
+    "label": "AXS - Altus/Quartz Mountain Regional Airport - Altus"
+  },
+  {
+    "iata": "AXV",
+    "airport": "Neil Armstrong Airport",
+    "city": "Wapakoneta",
+    "state": "Ohio",
+    "label": "AXV - Neil Armstrong Airport - Wapakoneta"
+  },
+  {
+    "iata": "AXX",
+    "airport": "Angel Fire Airport",
+    "city": "Angel Fire",
+    "state": "New Mexico",
+    "label": "AXX - Angel Fire Airport - Angel Fire"
+  },
+  {
+    "iata": "AYS",
+    "airport": "Ware County",
+    "city": "Waycross",
+    "state": "Georgia",
+    "label": "AYS - Ware County - Waycross"
+  },
+  {
+    "iata": "AZA",
+    "airport": "Mesa Gateway",
+    "city": "Phoenix",
+    "state": "Arizona",
+    "label": "AZA - Mesa Gateway - Phoenix"
+  },
+  {
+    "iata": "AZO",
+    "airport": "Kalamazoo/Battle Creek Intl.",
+    "city": "Kalamazoo/Battle Creek",
+    "state": "Michigan",
+    "label": "AZO - Kalamazoo/Battle Creek Intl. - Kalamazoo/Battle Creek"
+  },
+  {
+    "iata": "BAB",
+    "airport": "Beale AFB",
+    "city": "Marysville",
+    "state": "California",
+    "label": "BAB - Beale AFB - Marysville"
+  },
+  {
+    "iata": "BAD",
+    "airport": "Barksdale AFB",
+    "city": "Shreveport",
+    "state": "Louisiana",
+    "label": "BAD - Barksdale AFB - Shreveport"
+  },
+  {
+    "iata": "BAF",
+    "airport": "Westfield-Barnes Rgnl",
+    "city": "Springfield",
+    "state": "Massachusetts",
+    "label": "BAF - Westfield-Barnes Rgnl - Springfield"
+  },
+  {
+    "iata": "BAM",
+    "airport": "Battle Mountain Airport",
+    "city": "Battle Mountain",
+    "state": "Nevada",
+    "label": "BAM - Battle Mountain Airport - Battle Mountain"
+  },
+  {
+    "iata": "BAR",
+    "airport": "Bo'ao",
+    "city": "Qionghai",
+    "state": "",
+    "label": "BAR - Bo'ao - Qionghai"
+  },
+  {
+    "iata": "BBB",
+    "airport": "Benson Municipal Airport",
+    "city": "Benson",
+    "state": "Minnesota",
+    "label": "BBB - Benson Municipal Airport - Benson"
+  },
+  {
+    "iata": "BBC",
+    "airport": "Bay City Municipal Airport",
+    "city": "Bay City",
+    "state": "Texas",
+    "label": "BBC - Bay City Municipal Airport - Bay City"
+  },
+  {
+    "iata": "BBD",
+    "airport": "Curtis Field",
+    "city": "Brady",
+    "state": "Texas",
+    "label": "BBD - Curtis Field - Brady"
+  },
+  {
+    "iata": "BBW",
+    "airport": "Broken Bow Municipal Airport",
+    "city": "Broken Bow",
+    "state": "Nebraska",
+    "label": "BBW - Broken Bow Municipal Airport - Broken Bow"
+  },
+  {
+    "iata": "BBX",
+    "airport": "Wings Field",
+    "city": "Philadelphia",
+    "state": "Pennsylvania",
+    "label": "BBX - Wings Field - Philadelphia"
+  },
+  {
+    "iata": "BCB",
+    "airport": "Virginia Tech Montgomery Executive Airport",
+    "city": "Blacksburg",
+    "state": "Virginia",
+    "label": "BCB - Virginia Tech Montgomery Executive Airport - Blacksburg"
+  },
+  {
+    "iata": "BCC",
+    "airport": "Bear Creek 3",
+    "city": "Bear Creek",
+    "state": "Montana",
+    "label": "BCC - Bear Creek 3 - Bear Creek"
+  },
+  {
+    "iata": "BCE",
+    "airport": "Bryce Canyon Airport",
+    "city": "Bryce Canyon",
+    "state": "",
+    "label": "BCE - Bryce Canyon Airport - Bryce Canyon"
+  },
+  {
+    "iata": "BCS",
+    "airport": "Southern Seaplane Apt",
+    "city": "Belle Chasse",
+    "state": "",
+    "label": "BCS - Southern Seaplane Apt - Belle Chasse"
+  },
+  {
+    "iata": "BCT",
+    "airport": "Boca Raton Airport",
+    "city": "Boca Raton",
+    "state": "Florida",
+    "label": "BCT - Boca Raton Airport - Boca Raton"
+  },
+  {
+    "iata": "BDE",
+    "airport": "Baudette Intl.",
+    "city": "Baudette",
+    "state": "",
+    "label": "BDE - Baudette Intl. - Baudette"
+  },
+  {
+    "iata": "BDF",
+    "airport": "Rinkenberger",
+    "city": "Bradford",
+    "state": "Illinois",
+    "label": "BDF - Rinkenberger - Bradford"
+  },
+  {
+    "iata": "BDG",
+    "airport": "Blanding Municipal Airport",
+    "city": "Blanding",
+    "state": "Utah",
+    "label": "BDG - Blanding Municipal Airport - Blanding"
+  },
+  {
+    "iata": "BDL",
+    "airport": "Bradley International Airport",
+    "city": "Hartford",
+    "state": "Connecticut",
+    "label": "BDL - Bradley International Airport - Hartford"
+  },
+  {
+    "iata": "BDR",
+    "airport": "Igor I. Sikorsky Memorial Airport",
+    "city": "Bridgeport",
+    "state": "Connecticut",
+    "label": "BDR - Igor I. Sikorsky Memorial Airport - Bridgeport"
+  },
+  {
+    "iata": "BDX",
+    "airport": "Broadus Airport",
+    "city": "Broadus",
+    "state": "Montana",
+    "label": "BDX - Broadus Airport - Broadus"
+  },
+  {
+    "iata": "BDY",
+    "airport": "State",
+    "city": "Bandon",
+    "state": "Oregon",
+    "label": "BDY - State - Bandon"
+  },
+  {
+    "iata": "BEC",
+    "airport": "Beech Factory Airport",
+    "city": "Wichita",
+    "state": "",
+    "label": "BEC - Beech Factory Airport - Wichita"
+  },
+  {
+    "iata": "BED",
+    "airport": "Laurence G. Hanscom Field",
+    "city": "Bedford",
+    "state": "Massachusetts",
+    "label": "BED - Laurence G. Hanscom Field - Bedford"
+  },
+  {
+    "iata": "BEH",
+    "airport": "Southwest Michigan Regional Airport",
+    "city": "Benton Harbor",
+    "state": "Michigan",
+    "label": "BEH - Southwest Michigan Regional Airport - Benton Harbor"
+  },
+  {
+    "iata": "BET",
+    "airport": "Bethel Airport",
+    "city": "Bethel",
+    "state": "Alaska",
+    "label": "BET - Bethel Airport - Bethel"
+  },
+  {
+    "iata": "BFD",
+    "airport": "Bradford Regional Airport",
+    "city": "Bradford",
+    "state": "Pennsylvania",
+    "label": "BFD - Bradford Regional Airport - Bradford"
+  },
+  {
+    "iata": "BFF",
+    "airport": "Western Nebraska Rgnl",
+    "city": "Scottsbluff",
+    "state": "Nebraska",
+    "label": "BFF - Western Nebraska Rgnl - Scottsbluff"
+  },
+  {
+    "iata": "BFG",
+    "airport": "Bullfrog Basin",
+    "city": "Glen Canyon",
+    "state": "",
+    "label": "BFG - Bullfrog Basin - Glen Canyon"
+  },
+  {
+    "iata": "BFI",
+    "airport": "Boeing Field/King County International Airport",
+    "city": "Seattle",
+    "state": "Washington",
+    "label": "BFI - Boeing Field/King County International Airport - Seattle"
+  },
+  {
+    "iata": "BFK",
+    "airport": "Aurora/Buckley AFB",
+    "city": "Denver",
+    "state": "Colorado",
+    "label": "BFK - Aurora/Buckley AFB - Denver"
+  },
+  {
+    "iata": "BFL",
+    "airport": "Meadows Field Airport",
+    "city": "Bakersfield",
+    "state": "California",
+    "label": "BFL - Meadows Field Airport - Bakersfield"
+  },
+  {
+    "iata": "BFM",
+    "airport": "Mobile Downtown Airport",
+    "city": "Mobile",
+    "state": "",
+    "label": "BFM - Mobile Downtown Airport - Mobile"
+  },
+  {
+    "iata": "BFP",
+    "airport": "Beaver County Airport",
+    "city": "Beaver Falls",
+    "state": "Pennsylvania",
+    "label": "BFP - Beaver County Airport - Beaver Falls"
+  },
+  {
+    "iata": "BFT",
+    "airport": "Beaufort County Airport",
+    "city": "Beaufort",
+    "state": "South Carolina",
+    "label": "BFT - Beaufort County Airport - Beaufort"
+  },
+  {
+    "iata": "BGD",
+    "airport": "Hutchinson County Airport",
+    "city": "Borger",
+    "state": "Texas",
+    "label": "BGD - Hutchinson County Airport - Borger"
+  },
+  {
+    "iata": "BGE",
+    "airport": "Decatur County Industrial Air Park",
+    "city": "Bainbridge",
+    "state": "Georgia",
+    "label": "BGE - Decatur County Industrial Air Park - Bainbridge"
+  },
+  {
+    "iata": "BGM",
+    "airport": "Greater Binghamton",
+    "city": "Binghamton",
+    "state": "New York",
+    "label": "BGM - Greater Binghamton - Binghamton"
+  },
+  {
+    "iata": "BGQ",
+    "airport": "Big Lake Airport",
+    "city": "Big Lake",
+    "state": "Alaska",
+    "label": "BGQ - Big Lake Airport - Big Lake"
+  },
+  {
+    "iata": "BGR",
+    "airport": "Bangor Intl.",
+    "city": "Bangor",
+    "state": "Maine",
+    "label": "BGR - Bangor Intl. - Bangor"
+  },
+  {
+    "iata": "BGT",
+    "airport": "Bagdad Airport",
+    "city": "Bagdad",
+    "state": "Arizona",
+    "label": "BGT - Bagdad Airport - Bagdad"
+  },
+  {
+    "iata": "BHB",
+    "airport": "Hancock County-Bar Harbor Airport",
+    "city": "Bar Harbor",
+    "state": "Maine",
+    "label": "BHB - Hancock County-Bar Harbor Airport - Bar Harbor"
+  },
+  {
+    "iata": "BHM",
+    "airport": "Birmingham-Shuttlesworth International Airport",
+    "city": "Birmingham",
+    "state": "Alabama",
+    "label": "BHM - Birmingham-Shuttlesworth International Airport - Birmingham"
+  },
+  {
+    "iata": "BID",
+    "airport": "Block Island State Airport",
+    "city": "Block Island",
+    "state": "Rhode Island",
+    "label": "BID - Block Island State Airport - Block Island"
+  },
+  {
+    "iata": "BIE",
+    "airport": "Beatrice Municipal Airport",
+    "city": "Beatrice",
+    "state": "Nebraska",
+    "label": "BIE - Beatrice Municipal Airport - Beatrice"
+  },
+  {
+    "iata": "BIF",
+    "airport": "Biggs AAF",
+    "city": "El Paso",
+    "state": "Texas",
+    "label": "BIF - Biggs AAF - El Paso"
+  },
+  {
+    "iata": "BIG",
+    "airport": "Allen AAF",
+    "city": "Delta Junction",
+    "state": "",
+    "label": "BIG - Allen AAF - Delta Junction"
+  },
+  {
+    "iata": "BIH",
+    "airport": "Eastern Sierra Rgnl",
+    "city": "Bishop",
+    "state": "California",
+    "label": "BIH - Eastern Sierra Rgnl - Bishop"
+  },
+  {
+    "iata": "BIL",
+    "airport": "Billings Logan International Airport",
+    "city": "Billings",
+    "state": "Montana",
+    "label": "BIL - Billings Logan International Airport - Billings"
+  },
+  {
+    "iata": "BIS",
+    "airport": "Bismarck Municipal Airport",
+    "city": "Bismarck",
+    "state": "North Dakota",
+    "label": "BIS - Bismarck Municipal Airport - Bismarck"
+  },
+  {
+    "iata": "BIX",
+    "airport": "Keesler AFB",
+    "city": "Gulfport/Biloxi",
+    "state": "Mississippi",
+    "label": "BIX - Keesler AFB - Gulfport/Biloxi"
+  },
+  {
+    "iata": "BJC",
+    "airport": "Rocky Mountain Metropolitan Airport",
+    "city": "Denver",
+    "state": "Colorado",
+    "label": "BJC - Rocky Mountain Metropolitan Airport - Denver"
+  },
+  {
+    "iata": "BJI",
+    "airport": "Bemidji Regional Airport",
+    "city": "Bemidji",
+    "state": "Minnesota",
+    "label": "BJI - Bemidji Regional Airport - Bemidji"
+  },
+  {
+    "iata": "BJJ",
+    "airport": "Wayne County Airport",
+    "city": "Wooster",
+    "state": "Ohio",
+    "label": "BJJ - Wayne County Airport - Wooster"
+  },
+  {
+    "iata": "BKC",
+    "airport": "Buckland Airport",
+    "city": "Buckland",
+    "state": "Alaska",
+    "label": "BKC - Buckland Airport - Buckland"
+  },
+  {
+    "iata": "BKD",
+    "airport": "Stephens County Airport",
+    "city": "Breckenridge",
+    "state": "Texas",
+    "label": "BKD - Stephens County Airport - Breckenridge"
+  },
+  {
+    "iata": "BKE",
+    "airport": "Baker City Municipal Airport",
+    "city": "Baker City",
+    "state": "Oregon",
+    "label": "BKE - Baker City Municipal Airport - Baker City"
+  },
+  {
+    "iata": "BKF",
+    "airport": "Lake Brooks Seaplane Base",
+    "city": "Katmai National Park",
+    "state": "",
+    "label": "BKF - Lake Brooks Seaplane Base - Katmai National Park"
+  },
+  {
+    "iata": "BKG",
+    "airport": "Branson Airport",
+    "city": "Branson",
+    "state": "Missouri",
+    "label": "BKG - Branson Airport - Branson"
+  },
+  {
+    "iata": "BKH",
+    "airport": "Barking Sands",
+    "city": "Kekaha",
+    "state": "",
+    "label": "BKH - Barking Sands - Kekaha"
+  },
+  {
+    "iata": "BKL",
+    "airport": "Burke Lakefront",
+    "city": "Cleveland",
+    "state": "Ohio",
+    "label": "BKL - Burke Lakefront - Cleveland"
+  },
+  {
+    "iata": "BKT",
+    "airport": "Blackstone Army Airfield",
+    "city": "Blackstone/Ft Pickett",
+    "state": "Virginia",
+    "label": "BKT - Blackstone Army Airfield - Blackstone/Ft Pickett"
+  },
+  {
+    "iata": "BKW",
+    "airport": "Raleigh County Memorial Airportorial Airport",
+    "city": "Beckley",
+    "state": "West Virginia",
+    "label": "BKW - Raleigh County Memorial Airportorial Airport - Beckley"
+  },
+  {
+    "iata": "BKX",
+    "airport": "Brookings Regional Airport",
+    "city": "Brookings",
+    "state": "South Dakota",
+    "label": "BKX - Brookings Regional Airport - Brookings"
+  },
+  {
+    "iata": "BLD",
+    "airport": "Boulder City Municipal Airport",
+    "city": "Las Vegas",
+    "state": "Nevada",
+    "label": "BLD - Boulder City Municipal Airport - Las Vegas"
+  },
+  {
+    "iata": "BLF",
+    "airport": "Bailing",
+    "city": "Bluefield/Princeton",
+    "state": "West Virginia",
+    "label": "BLF - Bailing - Bluefield/Princeton"
+  },
+  {
+    "iata": "BLH",
+    "airport": "Blythe Airport",
+    "city": "Blythe",
+    "state": "California",
+    "label": "BLH - Blythe Airport - Blythe"
+  },
+  {
+    "iata": "BLI",
+    "airport": "Bellingham International Airport",
+    "city": "Bellingham",
+    "state": "Washington",
+    "label": "BLI - Bellingham International Airport - Bellingham"
+  },
+  {
+    "iata": "BLM",
+    "airport": "Monmouth Executive Airport",
+    "city": "Belmar/Farmingdale",
+    "state": "New Jersey",
+    "label": "BLM - Monmouth Executive Airport - Belmar/Farmingdale"
+  },
+  {
+    "iata": "BLU",
+    "airport": "Blue Canyon-Nyack Airport",
+    "city": "Emigrant Gap",
+    "state": "California",
+    "label": "BLU - Blue Canyon-Nyack Airport - Emigrant Gap"
+  },
+  {
+    "iata": "BLV",
+    "airport": "MidAmerica St. Louis Airport",
+    "city": "Belleville",
+    "state": "Illinois",
+    "label": "BLV - MidAmerica St. Louis Airport - Belleville"
+  },
+  {
+    "iata": "BLW",
+    "airport": "Beletwene Airport",
+    "city": "Beletwene",
+    "state": "Hawaii",
+    "label": "BLW - Beletwene Airport - Beletwene"
+  },
+  {
+    "iata": "BMC",
+    "airport": "Brigham City Airport",
+    "city": "Brigham City",
+    "state": "Utah",
+    "label": "BMC - Brigham City Airport - Brigham City"
+  },
+  {
+    "iata": "BMI",
+    "airport": "Central Illinois Regional Airport",
+    "city": "Bloomington/Normal",
+    "state": "Illinois",
+    "label": "BMI - Central Illinois Regional Airport - Bloomington/Normal"
+  },
+  {
+    "iata": "BML",
+    "airport": "Berlin Regional Airport",
+    "city": "Berlin",
+    "state": "",
+    "label": "BML - Berlin Regional Airport - Berlin"
+  },
+  {
+    "iata": "BMT",
+    "airport": "Beaumont Municipal Airport",
+    "city": "Beaumont/Port Arthur",
+    "state": "Texas",
+    "label": "BMT - Beaumont Municipal Airport - Beaumont/Port Arthur"
+  },
+  {
+    "iata": "BMX",
+    "airport": "Big Mountain Airport",
+    "city": "Big Mountain",
+    "state": "",
+    "label": "BMX - Big Mountain Airport - Big Mountain"
+  },
+  {
+    "iata": "BNA",
+    "airport": "Nashville International Airport",
+    "city": "Nashville",
+    "state": "Tennessee",
+    "label": "BNA - Nashville International Airport - Nashville"
+  },
+  {
+    "iata": "BNG",
+    "airport": "Banning Municipal Airport",
+    "city": "Banning",
+    "state": "California",
+    "label": "BNG - Banning Municipal Airport - Banning"
+  },
+  {
+    "iata": "BNH",
+    "airport": "Barnes",
+    "city": "Boston",
+    "state": "",
+    "label": "BNH - Barnes - Boston"
+  },
+  {
+    "iata": "BNL",
+    "airport": "Barnwell Regional Airport",
+    "city": "Barnwell",
+    "state": "South Carolina",
+    "label": "BNL - Barnwell Regional Airport - Barnwell"
+  },
+  {
+    "iata": "BNO",
+    "airport": "Burns Municipal Airport",
+    "city": "Burns",
+    "state": "Oregon",
+    "label": "BNO - Burns Municipal Airport - Burns"
+  },
+  {
+    "iata": "BNW",
+    "airport": "Boone Municipal Airport",
+    "city": "Boone",
+    "state": "Iowa",
+    "label": "BNW - Boone Municipal Airport - Boone"
+  },
+  {
+    "iata": "BOI",
+    "airport": "Air Term. (Gowen Fld)",
+    "city": "Boise",
+    "state": "Idaho",
+    "label": "BOI - Air Term. (Gowen Fld) - Boise"
+  },
+  {
+    "iata": "BOK",
+    "airport": "Brookings Airport",
+    "city": "Brookings",
+    "state": "Oregon",
+    "label": "BOK - Brookings Airport - Brookings"
+  },
+  {
+    "iata": "BOS",
+    "airport": "Logan International Airport",
+    "city": "Boston",
+    "state": "Massachusetts",
+    "label": "BOS - Logan International Airport - Boston"
+  },
+  {
+    "iata": "BOW",
+    "airport": "Bartow Municipal Airport",
+    "city": "Bartow",
+    "state": "Florida",
+    "label": "BOW - Bartow Municipal Airport - Bartow"
+  },
+  {
+    "iata": "BPI",
+    "airport": "Miley Memorial Airportorial Field",
+    "city": "Big Piney/Marbleton",
+    "state": "Wyoming",
+    "label": "BPI - Miley Memorial Airportorial Field - Big Piney/Marbleton"
+  },
+  {
+    "iata": "BPT",
+    "airport": "Jack Brooks Regional Airport",
+    "city": "Beaumont/Port Arthur",
+    "state": "Texas",
+    "label": "BPT - Jack Brooks Regional Airport - Beaumont/Port Arthur"
+  },
+  {
+    "iata": "BQK",
+    "airport": "Golden Isles",
+    "city": "Brunswick",
+    "state": "Georgia",
+    "label": "BQK - Golden Isles - Brunswick"
+  },
+  {
+    "iata": "BQN",
+    "airport": "Rafael Hernandez Airport",
+    "city": "Aguadilla",
+    "state": "Aguadilla",
+    "label": "BQN - Rafael Hernandez Airport - Aguadilla"
+  },
+  {
+    "iata": "BQV",
+    "airport": "Bartlett Cove Seaplane Base",
+    "city": "Gustavus",
+    "state": "",
+    "label": "BQV - Bartlett Cove Seaplane Base - Gustavus"
+  },
+  {
+    "iata": "BRD",
+    "airport": "Brainerd Lakes Regional Airport",
+    "city": "Brainerd",
+    "state": "Minnesota",
+    "label": "BRD - Brainerd Lakes Regional Airport - Brainerd"
+  },
+  {
+    "iata": "BRL",
+    "airport": "Southeast Iowa Regional Airport",
+    "city": "Burlington",
+    "state": "Iowa",
+    "label": "BRL - Southeast Iowa Regional Airport - Burlington"
+  },
+  {
+    "iata": "BRO",
+    "airport": "South Padre Is. International Airport",
+    "city": "Brownsville",
+    "state": "Texas",
+    "label": "BRO - South Padre Is. International Airport - Brownsville"
+  },
+  {
+    "iata": "BRW",
+    "airport": "Wiley Post-Will Rogers Memorial Airport",
+    "city": "Utqiagvik Barrow",
+    "state": "Alaska",
+    "label": "BRW - Wiley Post-Will Rogers Memorial Airport - Utqiagvik Barrow"
+  },
+  {
+    "iata": "BRY",
+    "airport": "Samuels Field",
+    "city": "Bardstown",
+    "state": "Kentucky",
+    "label": "BRY - Samuels Field - Bardstown"
+  },
+  {
+    "iata": "BSF",
+    "airport": "Bradshaw Army Airfield",
+    "city": "Pohakuloa",
+    "state": "Hawaii",
+    "label": "BSF - Bradshaw Army Airfield - Pohakuloa"
+  },
+  {
+    "iata": "BSQ",
+    "airport": "Bisbee Municipal Airport",
+    "city": "Douglas/Bisbee",
+    "state": "Arizona",
+    "label": "BSQ - Bisbee Municipal Airport - Douglas/Bisbee"
+  },
+  {
+    "iata": "BSW",
+    "airport": "Boswell Bay Airport",
+    "city": "Boswell Bay",
+    "state": "",
+    "label": "BSW - Boswell Bay Airport - Boswell Bay"
+  },
+  {
+    "iata": "BTF",
+    "airport": "Skypark Airport",
+    "city": "Bountiful",
+    "state": "Utah",
+    "label": "BTF - Skypark Airport - Bountiful"
+  },
+  {
+    "iata": "BTI",
+    "airport": "Barter Island Airport",
+    "city": "Barter Island",
+    "state": "Alaska",
+    "label": "BTI - Barter Island Airport - Barter Island"
+  },
+  {
+    "iata": "BTL",
+    "airport": "W.K. Kellogg Regional",
+    "city": "Kalamazoo/Battle Creek",
+    "state": "Michigan",
+    "label": "BTL - W.K. Kellogg Regional - Kalamazoo/Battle Creek"
+  },
+  {
+    "iata": "BTM",
+    "airport": "Bert Mooney Airport",
+    "city": "Butte",
+    "state": "Montana",
+    "label": "BTM - Bert Mooney Airport - Butte"
+  },
+  {
+    "iata": "BTN",
+    "airport": "Marlboro Co. Jetport",
+    "city": "Bennettsville",
+    "state": "South Carolina",
+    "label": "BTN - Marlboro Co. Jetport - Bennettsville"
+  },
+  {
+    "iata": "BTP",
+    "airport": "Butler County Airport",
+    "city": "Butler",
+    "state": "Pennsylvania",
+    "label": "BTP - Butler County Airport - Butler"
+  },
+  {
+    "iata": "BTR",
+    "airport": "Metropolitan-Ryan Field",
+    "city": "Baton Rouge",
+    "state": "Louisiana",
+    "label": "BTR - Metropolitan-Ryan Field - Baton Rouge"
+  },
+  {
+    "iata": "BTT",
+    "airport": "Bettles Airport",
+    "city": "Bettles",
+    "state": "Alaska",
+    "label": "BTT - Bettles Airport - Bettles"
+  },
+  {
+    "iata": "BTV",
+    "airport": "Burlington International Airport",
+    "city": "Burlington",
+    "state": "Vermont",
+    "label": "BTV - Burlington International Airport - Burlington"
+  },
+  {
+    "iata": "BTY",
+    "airport": "Beatty Airport",
+    "city": "Beatty",
+    "state": "",
+    "label": "BTY - Beatty Airport - Beatty"
+  },
+  {
+    "iata": "BUB",
+    "airport": "Cram Field",
+    "city": "Burwell",
+    "state": "Nebraska",
+    "label": "BUB - Cram Field - Burwell"
+  },
+  {
+    "iata": "BUF",
+    "airport": "Niagara International",
+    "city": "Buffalo",
+    "state": "New York",
+    "label": "BUF - Niagara International - Buffalo"
+  },
+  {
+    "iata": "BUM",
+    "airport": "Butler Memorial Airport",
+    "city": "Butler",
+    "state": "Missouri",
+    "label": "BUM - Butler Memorial Airport - Butler"
+  },
+  {
+    "iata": "BUR",
+    "airport": "Bob Hope Airport",
+    "city": "Burbank",
+    "state": "California",
+    "label": "BUR - Bob Hope Airport - Burbank"
+  },
+  {
+    "iata": "BVO",
+    "airport": "Bartlesville Municipal Airport",
+    "city": "Bartlesville",
+    "state": "Oklahoma",
+    "label": "BVO - Bartlesville Municipal Airport - Bartlesville"
+  },
+  {
+    "iata": "BVU",
+    "airport": "Beluga Airport",
+    "city": "Beluga",
+    "state": "",
+    "label": "BVU - Beluga Airport - Beluga"
+  },
+  {
+    "iata": "BVX",
+    "airport": "Batesville Regional Airport",
+    "city": "Batesville",
+    "state": "Arkansas",
+    "label": "BVX - Batesville Regional Airport - Batesville"
+  },
+  {
+    "iata": "BVY",
+    "airport": "Beverly Municipal Airport",
+    "city": "Beverly",
+    "state": "Massachusetts",
+    "label": "BVY - Beverly Municipal Airport - Beverly"
+  },
+  {
+    "iata": "BWC",
+    "airport": "Brawley Municipal Airport",
+    "city": "Brawley",
+    "state": "California",
+    "label": "BWC - Brawley Municipal Airport - Brawley"
+  },
+  {
+    "iata": "BWD",
+    "airport": "Brownwood Regional Airport",
+    "city": "Brownwood",
+    "state": "Texas",
+    "label": "BWD - Brownwood Regional Airport - Brownwood"
+  },
+  {
+    "iata": "BWG",
+    "airport": "Bowling Green-Warren County Regional Airport",
+    "city": "Bowling Green",
+    "state": "Kentucky",
+    "label": "BWG - Bowling Green-Warren County Regional Airport - Bowling Green"
+  },
+  {
+    "iata": "BWI",
+    "airport": "Baltimore/Wash. Intl",
+    "city": "Washington",
+    "state": "Maryland",
+    "label": "BWI - Baltimore/Wash. Intl - Washington"
+  },
+  {
+    "iata": "BWL",
+    "airport": "Blackwell",
+    "city": "Blackwell",
+    "state": "Oklahoma",
+    "label": "BWL - Blackwell - Blackwell"
+  },
+  {
+    "iata": "BWM",
+    "airport": "Bowman Municipal Airport",
+    "city": "Bowman",
+    "state": "",
+    "label": "BWM - Bowman Municipal Airport - Bowman"
+  },
+  {
+    "iata": "BXA",
+    "airport": "George R. Carr Memorial Air Field",
+    "city": "Bogalusa",
+    "state": "Louisiana",
+    "label": "BXA - George R. Carr Memorial Air Field - Bogalusa"
+  },
+  {
+    "iata": "BXK",
+    "airport": "Buckeye Municipal Airport",
+    "city": "Buckeye",
+    "state": "Arizona",
+    "label": "BXK - Buckeye Municipal Airport - Buckeye"
+  },
+  {
+    "iata": "BXS",
+    "airport": "Borrego Valley Airport",
+    "city": "Borrego Springs",
+    "state": "California",
+    "label": "BXS - Borrego Valley Airport - Borrego Springs"
+  },
+  {
+    "iata": "BYA",
+    "airport": "Boundary Airport",
+    "city": "Boundary",
+    "state": "",
+    "label": "BYA - Boundary Airport - Boundary"
+  },
+  {
+    "iata": "BYG",
+    "airport": "Johnson County Airport",
+    "city": "Buffalo",
+    "state": "Wyoming",
+    "label": "BYG - Johnson County Airport - Buffalo"
+  },
+  {
+    "iata": "BYH",
+    "airport": "Arkansas International Airport",
+    "city": "Blytheville",
+    "state": "",
+    "label": "BYH - Arkansas International Airport - Blytheville"
+  },
+  {
+    "iata": "BYI",
+    "airport": "Burley Municipal Airport",
+    "city": "Burley/Rupert",
+    "state": "Idaho",
+    "label": "BYI - Burley Municipal Airport - Burley/Rupert"
+  },
+  {
+    "iata": "BYS",
+    "airport": "Bicycle Lake Army Airfield",
+    "city": "Fort Irwin/Barstow",
+    "state": "California",
+    "label": "BYS - Bicycle Lake Army Airfield - Fort Irwin/Barstow"
+  },
+  {
+    "iata": "BYW",
+    "airport": "Blakely Island Airport",
+    "city": "Blakely Island",
+    "state": "",
+    "label": "BYW - Blakely Island Airport - Blakely Island"
+  },
+  {
+    "iata": "BZF",
+    "airport": "Benton Field",
+    "city": "Redding",
+    "state": "California",
+    "label": "BZF - Benton Field - Redding"
+  },
+  {
+    "iata": "BZN",
+    "airport": "Bozeman Yellowstone International Airport",
+    "city": "Bozeman",
+    "state": "Montana",
+    "label": "BZN - Bozeman Yellowstone International Airport - Bozeman"
+  },
+  {
+    "iata": "BZT",
+    "airport": "Eagle Air Park",
+    "city": "Brazoria",
+    "state": "Texas",
+    "label": "BZT - Eagle Air Park - Brazoria"
+  },
+  {
+    "iata": "CAD",
+    "airport": "Wexford County Airport",
+    "city": "Cadillac",
+    "state": "Michigan",
+    "label": "CAD - Wexford County Airport - Cadillac"
+  },
+  {
+    "iata": "CAE",
+    "airport": "Columbia Metropolitan Airport",
+    "city": "Columbia",
+    "state": "South Carolina",
+    "label": "CAE - Columbia Metropolitan Airport - Columbia"
+  },
+  {
+    "iata": "CAK",
+    "airport": "Akron/Canton Reg. Airport",
+    "city": "Akron/Canton",
+    "state": "Ohio",
+    "label": "CAK - Akron/Canton Reg. Airport - Akron/Canton"
+  },
+  {
+    "iata": "CAO",
+    "airport": "Clayton Municipal Airpark",
+    "city": "Clayton",
+    "state": "New Mexico",
+    "label": "CAO - Clayton Municipal Airpark - Clayton"
+  },
+  {
+    "iata": "CAR",
+    "airport": "Caribou Municipal Airport",
+    "city": "Caribou",
+    "state": "Maine",
+    "label": "CAR - Caribou Municipal Airport - Caribou"
+  },
+  {
+    "iata": "CBE",
+    "airport": "Greater Cumberland Regional Airport",
+    "city": "Cumberland",
+    "state": "West Virginia",
+    "label": "CBE - Greater Cumberland Regional Airport - Cumberland"
+  },
+  {
+    "iata": "CBF",
+    "airport": "Council Bluffs Municipal Airport",
+    "city": "Council Bluffs",
+    "state": "Iowa",
+    "label": "CBF - Council Bluffs Municipal Airport - Council Bluffs"
+  },
+  {
+    "iata": "CBK",
+    "airport": "Shalz Field",
+    "city": "Colby",
+    "state": "Kansas",
+    "label": "CBK - Shalz Field - Colby"
+  },
+  {
+    "iata": "CBM",
+    "airport": "Columbus Air Force Base",
+    "city": "Columbus",
+    "state": "",
+    "label": "CBM - Columbus Air Force Base - Columbus"
+  },
+  {
+    "iata": "CCA",
+    "airport": "Chimore Airport",
+    "city": "Chimore",
+    "state": "",
+    "label": "CCA - Chimore Airport - Chimore"
+  },
+  {
+    "iata": "CCB",
+    "airport": "Cable Airport",
+    "city": "Upland",
+    "state": "California",
+    "label": "CCB - Cable Airport - Upland"
+  },
+  {
+    "iata": "CCG",
+    "airport": "Crane County Airport",
+    "city": "Crane",
+    "state": "Texas",
+    "label": "CCG - Crane County Airport - Crane"
+  },
+  {
+    "iata": "CCR",
+    "airport": "Buchanan Field Airport",
+    "city": "Concord",
+    "state": "California",
+    "label": "CCR - Buchanan Field Airport - Concord"
+  },
+  {
+    "iata": "CCY",
+    "airport": "Northeast Iowa Rgnl",
+    "city": "Charles City",
+    "state": "Iowa",
+    "label": "CCY - Northeast Iowa Rgnl - Charles City"
+  },
+  {
+    "iata": "CDB",
+    "airport": "Cold Bay Airport",
+    "city": "Cold Bay",
+    "state": "Alaska",
+    "label": "CDB - Cold Bay Airport - Cold Bay"
+  },
+  {
+    "iata": "CDC",
+    "airport": "Cedar City Regional Airport",
+    "city": "Cedar City",
+    "state": "Utah",
+    "label": "CDC - Cedar City Regional Airport - Cedar City"
+  },
+  {
+    "iata": "CDH",
+    "airport": "Harrell Field",
+    "city": "Camden",
+    "state": "Arkansas",
+    "label": "CDH - Harrell Field - Camden"
+  },
+  {
+    "iata": "CDK",
+    "airport": "George T. Lewis Airport",
+    "city": "Cedar Key",
+    "state": "",
+    "label": "CDK - George T. Lewis Airport - Cedar Key"
+  },
+  {
+    "iata": "CDL",
+    "airport": "Candle Airport",
+    "city": "Candle",
+    "state": "",
+    "label": "CDL - Candle Airport - Candle"
+  },
+  {
+    "iata": "CDN",
+    "airport": "Woodward Field",
+    "city": "Camden",
+    "state": "South Carolina",
+    "label": "CDN - Woodward Field - Camden"
+  },
+  {
+    "iata": "CDR",
+    "airport": "Chadron Municipal Airport",
+    "city": "Chadron",
+    "state": "Nebraska",
+    "label": "CDR - Chadron Municipal Airport - Chadron"
+  },
+  {
+    "iata": "CDS",
+    "airport": "Childress Municipal Airport",
+    "city": "Childress",
+    "state": "Kansas",
+    "label": "CDS - Childress Municipal Airport - Childress"
+  },
+  {
+    "iata": "CDV",
+    "airport": "Merle K. (Mudhole) Smith Airport",
+    "city": "Cordova",
+    "state": "Alaska",
+    "label": "CDV - Merle K. (Mudhole) Smith Airport - Cordova"
+  },
+  {
+    "iata": "CDW",
+    "airport": "Essex County Airport",
+    "city": "Caldwell",
+    "state": "New Jersey",
+    "label": "CDW - Essex County Airport - Caldwell"
+  },
+  {
+    "iata": "CEA",
+    "airport": "Cessna Aircraft Field",
+    "city": "Wichita",
+    "state": "",
+    "label": "CEA - Cessna Aircraft Field - Wichita"
+  },
+  {
+    "iata": "CEC",
+    "airport": "Del Norte County Rgnl",
+    "city": "Crescent City",
+    "state": "California",
+    "label": "CEC - Del Norte County Rgnl - Crescent City"
+  },
+  {
+    "iata": "CEF",
+    "airport": "Westover Metropolitan",
+    "city": "Springfield",
+    "state": "Massachusetts",
+    "label": "CEF - Westover Metropolitan - Springfield"
+  },
+  {
+    "iata": "CEM",
+    "airport": "Central Airport",
+    "city": "Central",
+    "state": "Alaska",
+    "label": "CEM - Central Airport - Central"
+  },
+  {
+    "iata": "CEU",
+    "airport": "Oconee County Regional Airport",
+    "city": "Clemson",
+    "state": "South Carolina",
+    "label": "CEU - Oconee County Regional Airport - Clemson"
+  },
+  {
+    "iata": "CEW",
+    "airport": "Bob Sikes Airport",
+    "city": "Crestview",
+    "state": "Florida",
+    "label": "CEW - Bob Sikes Airport - Crestview"
+  },
+  {
+    "iata": "CEX",
+    "airport": "Chena Hot Springs Airport",
+    "city": "Chena Hot Springs",
+    "state": "",
+    "label": "CEX - Chena Hot Springs Airport - Chena Hot Springs"
+  },
+  {
+    "iata": "CEY",
+    "airport": "Murray-Calloway County Airport",
+    "city": "Murray",
+    "state": "Kentucky",
+    "label": "CEY - Murray-Calloway County Airport - Murray"
+  },
+  {
+    "iata": "CEZ",
+    "airport": "Cortez Municipal Airport",
+    "city": "Cortez",
+    "state": "Colorado",
+    "label": "CEZ - Cortez Municipal Airport - Cortez"
+  },
+  {
+    "iata": "CFD",
+    "airport": "Coulter Field",
+    "city": "Bryan",
+    "state": "Texas",
+    "label": "CFD - Coulter Field - Bryan"
+  },
+  {
+    "iata": "CFT",
+    "airport": "Greenlee County Airport",
+    "city": "Clifton/Morenci",
+    "state": "Arizona",
+    "label": "CFT - Greenlee County Airport - Clifton/Morenci"
+  },
+  {
+    "iata": "CFV",
+    "airport": "Coffeyville Municipal Airport",
+    "city": "Coffeyville",
+    "state": "Kansas",
+    "label": "CFV - Coffeyville Municipal Airport - Coffeyville"
+  },
+  {
+    "iata": "CGA",
+    "airport": "Sea Plane Base",
+    "city": "Craig",
+    "state": "Alaska",
+    "label": "CGA - Sea Plane Base - Craig"
+  },
+  {
+    "iata": "CGE",
+    "airport": "Cambridge-Dorchester Airport",
+    "city": "Cambridge",
+    "state": "Maryland",
+    "label": "CGE - Cambridge-Dorchester Airport - Cambridge"
+  },
+  {
+    "iata": "CGF",
+    "airport": "Cuyahoga County Airport",
+    "city": "Cleveland",
+    "state": "Ohio",
+    "label": "CGF - Cuyahoga County Airport - Cleveland"
+  },
+  {
+    "iata": "CGI",
+    "airport": "Cape Girardeau Regional Airport",
+    "city": "Cape Girardeau",
+    "state": "Missouri",
+    "label": "CGI - Cape Girardeau Regional Airport - Cape Girardeau"
+  },
+  {
+    "iata": "CGS",
+    "airport": "College Park Airport",
+    "city": "College Park",
+    "state": "",
+    "label": "CGS - College Park Airport - College Park"
+  },
+  {
+    "iata": "CGZ",
+    "airport": "Casa Grande Municipal Airport",
+    "city": "Casa Grande",
+    "state": "Arizona",
+    "label": "CGZ - Casa Grande Municipal Airport - Casa Grande"
+  },
+  {
+    "iata": "CHA",
+    "airport": "Metropolitan Apt",
+    "city": "Chattanooga",
+    "state": "Tennessee",
+    "label": "CHA - Metropolitan Apt - Chattanooga"
+  },
+  {
+    "iata": "CHK",
+    "airport": "Chickasha Municipal Airport",
+    "city": "Chickasha",
+    "state": "Oklahoma",
+    "label": "CHK - Chickasha Municipal Airport - Chickasha"
+  },
+  {
+    "iata": "CHL",
+    "airport": "Challis Airport",
+    "city": "Challis",
+    "state": "Idaho",
+    "label": "CHL - Challis Airport - Challis"
+  },
+  {
+    "iata": "CHO",
+    "airport": "Charlottesville-Albemarle Airport",
+    "city": "Charlottesville",
+    "state": "Virginia",
+    "label": "CHO - Charlottesville-Albemarle Airport - Charlottesville"
+  },
+  {
+    "iata": "CHP",
+    "airport": "Circle Hot Springs Airport",
+    "city": "Circle Hot Springs",
+    "state": "",
+    "label": "CHP - Circle Hot Springs Airport - Circle Hot Springs"
+  },
+  {
+    "iata": "CHS",
+    "airport": "International/AFB",
+    "city": "Charleston",
+    "state": "South Carolina",
+    "label": "CHS - International/AFB - Charleston"
+  },
+  {
+    "iata": "CHZ",
+    "airport": "State",
+    "city": "Chiloquin",
+    "state": "Oregon",
+    "label": "CHZ - State - Chiloquin"
+  },
+  {
+    "iata": "CIC",
+    "airport": "Chico Municipal Airport",
+    "city": "Chico",
+    "state": "California",
+    "label": "CIC - Chico Municipal Airport - Chico"
+  },
+  {
+    "iata": "CID",
+    "airport": "The Eastern Iowa Airport",
+    "city": "Cedar Rapids",
+    "state": "Iowa",
+    "label": "CID - The Eastern Iowa Airport - Cedar Rapids"
+  },
+  {
+    "iata": "CIG",
+    "airport": "Craig-Moffat Airport",
+    "city": "Craig",
+    "state": "Colorado",
+    "label": "CIG - Craig-Moffat Airport - Craig"
+  },
+  {
+    "iata": "CIK",
+    "airport": "Chalkyitsik Airport",
+    "city": "Chalkyitsik",
+    "state": "Alaska",
+    "label": "CIK - Chalkyitsik Airport - Chalkyitsik"
+  },
+  {
+    "iata": "CIL",
+    "airport": "Council Airport",
+    "city": "Council",
+    "state": "",
+    "label": "CIL - Council Airport - Council"
+  },
+  {
+    "iata": "CIN",
+    "airport": "Arthur N. Neu Airport",
+    "city": "Carroll",
+    "state": "Iowa",
+    "label": "CIN - Arthur N. Neu Airport - Carroll"
+  },
+  {
+    "iata": "CIR",
+    "airport": "Cairo Regional Airport",
+    "city": "Cairo",
+    "state": "Illinois",
+    "label": "CIR - Cairo Regional Airport - Cairo"
+  },
+  {
+    "iata": "CIU",
+    "airport": "Chippewa County International Airport",
+    "city": "Sault Ste Marie",
+    "state": "Michigan",
+    "label": "CIU - Chippewa County International Airport - Sault Ste Marie"
+  },
+  {
+    "iata": "CKA",
+    "airport": "Kegelman Air Force Auxiliary Field",
+    "city": "Cherokee",
+    "state": "Oklahoma",
+    "label": "CKA - Kegelman Air Force Auxiliary Field - Cherokee"
+  },
+  {
+    "iata": "CKB",
+    "airport": "North Central West Virginia Airport",
+    "city": "Clarksburg",
+    "state": "West Virginia",
+    "label": "CKB - North Central West Virginia Airport - Clarksburg"
+  },
+  {
+    "iata": "CKD",
+    "airport": "Crooked Creek Airport",
+    "city": "Crooked Creek",
+    "state": "Alaska",
+    "label": "CKD - Crooked Creek Airport - Crooked Creek"
+  },
+  {
+    "iata": "CKE",
+    "airport": "Lampson Field",
+    "city": "Lakeport",
+    "state": "California",
+    "label": "CKE - Lampson Field - Lakeport"
+  },
+  {
+    "iata": "CKK",
+    "airport": "Sharp County Regional Airport",
+    "city": "Ash Flat",
+    "state": "Arkansas",
+    "label": "CKK - Sharp County Regional Airport - Ash Flat"
+  },
+  {
+    "iata": "CKM",
+    "airport": "Fletcher Field",
+    "city": "Clarksdale",
+    "state": "Mississippi",
+    "label": "CKM - Fletcher Field - Clarksdale"
+  },
+  {
+    "iata": "CKN",
+    "airport": "Crookston Municipal Airport",
+    "city": "Crookston",
+    "state": "Minnesota",
+    "label": "CKN - Crookston Municipal Airport - Crookston"
+  },
+  {
+    "iata": "CKU",
+    "airport": "Cordova Municipal Airport",
+    "city": "Cordova",
+    "state": "",
+    "label": "CKU - Cordova Municipal Airport - Cordova"
+  },
+  {
+    "iata": "CKV",
+    "airport": "Montgomery County Regional Airport",
+    "city": "Clarksville",
+    "state": "Kentucky",
+    "label": "CKV - Montgomery County Regional Airport - Clarksville"
+  },
+  {
+    "iata": "CKX",
+    "airport": "Chicken Airport",
+    "city": "Chicken",
+    "state": "Alaska",
+    "label": "CKX - Chicken Airport - Chicken"
+  },
+  {
+    "iata": "CLD",
+    "airport": "McClellan-Palomar Airport",
+    "city": "San Diego",
+    "state": "California",
+    "label": "CLD - McClellan-Palomar Airport - San Diego"
+  },
+  {
+    "iata": "CLE",
+    "airport": "Hopkins International",
+    "city": "Cleveland",
+    "state": "Ohio",
+    "label": "CLE - Hopkins International - Cleveland"
+  },
+  {
+    "iata": "CLI",
+    "airport": "Clintonville Municipal Airport",
+    "city": "Clintonville",
+    "state": "Wisconsin",
+    "label": "CLI - Clintonville Municipal Airport - Clintonville"
+  },
+  {
+    "iata": "CLK",
+    "airport": "Clinton Regional Airport",
+    "city": "Clinton",
+    "state": "Oklahoma",
+    "label": "CLK - Clinton Regional Airport - Clinton"
+  },
+  {
+    "iata": "CLL",
+    "airport": "Easterwood Field",
+    "city": "College Station",
+    "state": "Texas",
+    "label": "CLL - Easterwood Field - College Station"
+  },
+  {
+    "iata": "CLM",
+    "airport": "William R. Fairchild International Airport",
+    "city": "Port Angeles",
+    "state": "Washington",
+    "label": "CLM - William R. Fairchild International Airport - Port Angeles"
+  },
+  {
+    "iata": "CLP",
+    "airport": "Clarks Point Airport",
+    "city": "Clarks Point",
+    "state": "Alaska",
+    "label": "CLP - Clarks Point Airport - Clarks Point"
+  },
+  {
+    "iata": "CLR",
+    "airport": "Cliff Hatfield Memorial Airport",
+    "city": "Calipatria",
+    "state": "California",
+    "label": "CLR - Cliff Hatfield Memorial Airport - Calipatria"
+  },
+  {
+    "iata": "CLS",
+    "airport": "Chehalis-Centralia Airport",
+    "city": "Chehalis",
+    "state": "Washington",
+    "label": "CLS - Chehalis-Centralia Airport - Chehalis"
+  },
+  {
+    "iata": "CLT",
+    "airport": "Charlotte Douglas International Airport",
+    "city": "Charlotte",
+    "state": "North Carolina",
+    "label": "CLT - Charlotte Douglas International Airport - Charlotte"
+  },
+  {
+    "iata": "CLW",
+    "airport": "Clearwater Air Park",
+    "city": "Tampa",
+    "state": "Florida",
+    "label": "CLW - Clearwater Air Park - Tampa"
+  },
+  {
+    "iata": "CMH",
+    "airport": "John Glenn Columbus International Airport",
+    "city": "Columbus",
+    "state": "Ohio",
+    "label": "CMH - John Glenn Columbus International Airport - Columbus"
+  },
+  {
+    "iata": "CMI",
+    "airport": "University of Illinois Willard Airport",
+    "city": "Champaign/Urbana",
+    "state": "Illinois",
+    "label": "CMI - University of Illinois Willard Airport - Champaign/Urbana"
+  },
+  {
+    "iata": "CMX",
+    "airport": "Houghton County Memorial Airport",
+    "city": "Hancock",
+    "state": "Michigan",
+    "label": "CMX - Houghton County Memorial Airport - Hancock"
+  },
+  {
+    "iata": "CMY",
+    "airport": "Sparta/Fort McCoy Airport",
+    "city": "Sparta",
+    "state": "Wisconsin",
+    "label": "CMY - Sparta/Fort McCoy Airport - Sparta"
+  },
+  {
+    "iata": "CNE",
+    "airport": "Fremont County",
+    "city": "Canon City",
+    "state": "Colorado",
+    "label": "CNE - Fremont County - Canon City"
+  },
+  {
+    "iata": "CNH",
+    "airport": "Claremont Municipal Airport",
+    "city": "Claremont",
+    "state": "New Hampshire",
+    "label": "CNH - Claremont Municipal Airport - Claremont"
+  },
+  {
+    "iata": "CNK",
+    "airport": "Blosser Municipal Airport",
+    "city": "Concordia",
+    "state": "Kansas",
+    "label": "CNK - Blosser Municipal Airport - Concordia"
+  },
+  {
+    "iata": "CNM",
+    "airport": "Cavern City Air Term.",
+    "city": "Carlsbad",
+    "state": "New Mexico",
+    "label": "CNM - Cavern City Air Term. - Carlsbad"
+  },
+  {
+    "iata": "CNO",
+    "airport": "Chino Airport",
+    "city": "Chino",
+    "state": "California",
+    "label": "CNO - Chino Airport - Chino"
+  },
+  {
+    "iata": "CNU",
+    "airport": "Chanute Martin Johnson Airport",
+    "city": "Chanute",
+    "state": "Kansas",
+    "label": "CNU - Chanute Martin Johnson Airport - Chanute"
+  },
+  {
+    "iata": "CNW",
+    "airport": "TSTC Waco Airport",
+    "city": "Waco",
+    "state": "Texas",
+    "label": "CNW - TSTC Waco Airport - Waco"
+  },
+  {
+    "iata": "CNY",
+    "airport": "Canyonlands Field",
+    "city": "Moab",
+    "state": "Utah",
+    "label": "CNY - Canyonlands Field - Moab"
+  },
+  {
+    "iata": "COA",
+    "airport": "Columbia Airport",
+    "city": "Columbia",
+    "state": "California",
+    "label": "COA - Columbia Airport - Columbia"
+  },
+  {
+    "iata": "COD",
+    "airport": "Yellowstone Regional Airport",
+    "city": "Cody",
+    "state": "Wyoming",
+    "label": "COD - Yellowstone Regional Airport - Cody"
+  },
+  {
+    "iata": "COE",
+    "airport": "Pappy Boyington Field",
+    "city": "Coeur d'Alene",
+    "state": "Idaho",
+    "label": "COE - Pappy Boyington Field - Coeur d'Alene"
+  },
+  {
+    "iata": "COF",
+    "airport": "Patrick Air Force Base",
+    "city": "Cocoa Beach",
+    "state": "Florida",
+    "label": "COF - Patrick Air Force Base - Cocoa Beach"
+  },
+  {
+    "iata": "COI",
+    "airport": "Merritt Island Airport",
+    "city": "Merritt Island",
+    "state": "Florida",
+    "label": "COI - Merritt Island Airport - Merritt Island"
+  },
+  {
+    "iata": "COM",
+    "airport": "Coleman Municipal Airport",
+    "city": "Coleman",
+    "state": "Texas",
+    "label": "COM - Coleman Municipal Airport - Coleman"
+  },
+  {
+    "iata": "CON",
+    "airport": "Concord Municipal Airport",
+    "city": "Concord",
+    "state": "New Hampshire",
+    "label": "CON - Concord Municipal Airport - Concord"
+  },
+  {
+    "iata": "COP",
+    "airport": "Westville",
+    "city": "Cooperstown",
+    "state": "New York",
+    "label": "COP - Westville - Cooperstown"
+  },
+  {
+    "iata": "COS",
+    "airport": "Colorado Springs Airport",
+    "city": "Colorado Springs",
+    "state": "Colorado",
+    "label": "COS - Colorado Springs Airport - Colorado Springs"
+  },
+  {
+    "iata": "COT",
+    "airport": "Cotulla-La Salle County Airport",
+    "city": "Cotulla",
+    "state": "Texas",
+    "label": "COT - Cotulla-La Salle County Airport - Cotulla"
+  },
+  {
+    "iata": "COU",
+    "airport": "Columbia Regional Airport",
+    "city": "Columbia",
+    "state": "Missouri",
+    "label": "COU - Columbia Regional Airport - Columbia"
+  },
+  {
+    "iata": "CPM",
+    "airport": "Compton/Woodley Airport",
+    "city": "Compton",
+    "state": "California",
+    "label": "CPM - Compton/Woodley Airport - Compton"
+  },
+  {
+    "iata": "CPR",
+    "airport": "Casper-Natrona County International Airport",
+    "city": "Casper",
+    "state": "Wyoming",
+    "label": "CPR - Casper-Natrona County International Airport - Casper"
+  },
+  {
+    "iata": "CPS",
+    "airport": "St. Louis Downtown Airport",
+    "city": "St Louis",
+    "state": "Illinois",
+    "label": "CPS - St. Louis Downtown Airport - St Louis"
+  },
+  {
+    "iata": "CPX",
+    "airport": "Benjamin Rivera Noriega Airport",
+    "city": "Culebra",
+    "state": "Culebra",
+    "label": "CPX - Benjamin Rivera Noriega Airport - Culebra"
+  },
+  {
+    "iata": "CRE",
+    "airport": "Grand Strand Airport",
+    "city": "Myrtle Beach",
+    "state": "South Carolina",
+    "label": "CRE - Grand Strand Airport - Myrtle Beach"
+  },
+  {
+    "iata": "CRG",
+    "airport": "Jacksonville Executive at Craig Airport",
+    "city": "Jacksonville",
+    "state": "",
+    "label": "CRG - Jacksonville Executive at Craig Airport - Jacksonville"
+  },
+  {
+    "iata": "CRO",
+    "airport": "Corcoran Airport",
+    "city": "Corcoran",
+    "state": "",
+    "label": "CRO - Corcoran Airport - Corcoran"
+  },
+  {
+    "iata": "CRP",
+    "airport": "Corpus Christi Intl.",
+    "city": "Corpus Christi",
+    "state": "Texas",
+    "label": "CRP - Corpus Christi Intl. - Corpus Christi"
+  },
+  {
+    "iata": "CRS",
+    "airport": "C. David Campbell Fld",
+    "city": "Corsicana",
+    "state": "Texas",
+    "label": "CRS - C. David Campbell Fld - Corsicana"
+  },
+  {
+    "iata": "CRT",
+    "airport": "Z. M. Jack Stell Field",
+    "city": "Crossett",
+    "state": "Arkansas",
+    "label": "CRT - Z. M. Jack Stell Field - Crossett"
+  },
+  {
+    "iata": "CRW",
+    "airport": "Yeager Airport",
+    "city": "Charleston",
+    "state": "West Virginia",
+    "label": "CRW - Yeager Airport - Charleston"
+  },
+  {
+    "iata": "CRX",
+    "airport": "Roscoe Turner Airport",
+    "city": "Corinth",
+    "state": "Mississippi",
+    "label": "CRX - Roscoe Turner Airport - Corinth"
+  },
+  {
+    "iata": "CSE",
+    "airport": "Buckhorn Ranch",
+    "city": "Crested Butte",
+    "state": "Colorado",
+    "label": "CSE - Buckhorn Ranch - Crested Butte"
+  },
+  {
+    "iata": "CSG",
+    "airport": "Columbus Airport",
+    "city": "Columbus",
+    "state": "Georgia",
+    "label": "CSG - Columbus Airport - Columbus"
+  },
+  {
+    "iata": "CSM",
+    "airport": "Clinton-Sherman Airport",
+    "city": "Clinton",
+    "state": "Oklahoma",
+    "label": "CSM - Clinton-Sherman Airport - Clinton"
+  },
+  {
+    "iata": "CSN",
+    "airport": "Carson Airport",
+    "city": "Carson City",
+    "state": "Nevada",
+    "label": "CSN - Carson Airport - Carson City"
+  },
+  {
+    "iata": "CSQ",
+    "airport": "Creston Municipal Airport",
+    "city": "Creston",
+    "state": "Iowa",
+    "label": "CSQ - Creston Municipal Airport - Creston"
+  },
+  {
+    "iata": "CSV",
+    "airport": "Crossville Memorial-Whitson Field",
+    "city": "Crossville",
+    "state": "Tennessee",
+    "label": "CSV - Crossville Memorial-Whitson Field - Crossville"
+  },
+  {
+    "iata": "CTB",
+    "airport": "Cut Bank Municipal Airport",
+    "city": "Cut Bank",
+    "state": "Montana",
+    "label": "CTB - Cut Bank Municipal Airport - Cut Bank"
+  },
+  {
+    "iata": "CTH",
+    "airport": "Chester County G. O. Carlson Airport",
+    "city": "Coatesville",
+    "state": "Pennsylvania",
+    "label": "CTH - Chester County G. O. Carlson Airport - Coatesville"
+  },
+  {
+    "iata": "CTO",
+    "airport": "Executive Airpark",
+    "city": "Calverton",
+    "state": "Virginia",
+    "label": "CTO - Executive Airpark - Calverton"
+  },
+  {
+    "iata": "CTX",
+    "airport": "Cortland County",
+    "city": "Cortland",
+    "state": "New York",
+    "label": "CTX - Cortland County - Cortland"
+  },
+  {
+    "iata": "CTY",
+    "airport": "Cross City Airport",
+    "city": "Cross City",
+    "state": "Florida",
+    "label": "CTY - Cross City Airport - Cross City"
+  },
+  {
+    "iata": "CTZ",
+    "airport": "Clinton-Sampson County Airport",
+    "city": "Clinton",
+    "state": "North Carolina",
+    "label": "CTZ - Clinton-Sampson County Airport - Clinton"
+  },
+  {
+    "iata": "CUB",
+    "airport": "Jim Hamilton-L.B. Owens Airport",
+    "city": "Columbia",
+    "state": "",
+    "label": "CUB - Jim Hamilton-L.B. Owens Airport - Columbia"
+  },
+  {
+    "iata": "CUH",
+    "airport": "Municipal",
+    "city": "Cushing",
+    "state": "Oklahoma",
+    "label": "CUH - Municipal - Cushing"
+  },
+  {
+    "iata": "CVG",
+    "airport": "Cincinnati/Northern Kentucky International Airport",
+    "city": "Cincinnati",
+    "state": "Kentucky",
+    "label": "CVG - Cincinnati/Northern Kentucky International Airport - Cincinnati"
+  },
+  {
+    "iata": "CVN",
+    "airport": "Municipal",
+    "city": "Clovis",
+    "state": "New Mexico",
+    "label": "CVN - Municipal - Clovis"
+  },
+  {
+    "iata": "CVO",
+    "airport": "Corvallis Municipal",
+    "city": "Corvallis/Albany",
+    "state": "Oregon",
+    "label": "CVO - Corvallis Municipal - Corvallis/Albany"
+  },
+  {
+    "iata": "CVS",
+    "airport": "Cannon AFB",
+    "city": "Clovis",
+    "state": "New Mexico",
+    "label": "CVS - Cannon AFB - Clovis"
+  },
+  {
+    "iata": "CWA",
+    "airport": "Central Wisconsin Airport",
+    "city": "Wausau",
+    "state": "Wisconsin",
+    "label": "CWA - Central Wisconsin Airport - Wausau"
+  },
+  {
+    "iata": "CWF",
+    "airport": "Chennault Intl",
+    "city": "Lake Charles",
+    "state": "Louisiana",
+    "label": "CWF - Chennault Intl - Lake Charles"
+  },
+  {
+    "iata": "CWI",
+    "airport": "Municipal",
+    "city": "Clinton",
+    "state": "Iowa",
+    "label": "CWI - Municipal - Clinton"
+  },
+  {
+    "iata": "CWS",
+    "airport": "Center Island Airport",
+    "city": "Center Island",
+    "state": "",
+    "label": "CWS - Center Island Airport - Center Island"
+  },
+  {
+    "iata": "CWX",
+    "airport": "Cochise County Airport",
+    "city": "Willcox",
+    "state": "Arizona",
+    "label": "CWX - Cochise County Airport - Willcox"
+  },
+  {
+    "iata": "CXC",
+    "airport": "Chitina Airport",
+    "city": "Chitina",
+    "state": "",
+    "label": "CXC - Chitina Airport - Chitina"
+  },
+  {
+    "iata": "CXF",
+    "airport": "Coldfoot Airport",
+    "city": "Coldfoot",
+    "state": "",
+    "label": "CXF - Coldfoot Airport - Coldfoot"
+  },
+  {
+    "iata": "CXL",
+    "airport": "Calexico Intl.",
+    "city": "Calexico",
+    "state": "California",
+    "label": "CXL - Calexico Intl. - Calexico"
+  },
+  {
+    "iata": "CXO",
+    "airport": "Lone Star Executive Airport",
+    "city": "Houston",
+    "state": "Texas",
+    "label": "CXO - Lone Star Executive Airport - Houston"
+  },
+  {
+    "iata": "CYF",
+    "airport": "Chefornak Airport",
+    "city": "Chefornak",
+    "state": "Alaska",
+    "label": "CYF - Chefornak Airport - Chefornak"
+  },
+  {
+    "iata": "CYM",
+    "airport": "Sea Plane Base",
+    "city": "Chatham",
+    "state": "",
+    "label": "CYM - Sea Plane Base - Chatham"
+  },
+  {
+    "iata": "CYS",
+    "airport": "Cheyenne Reg. Airport",
+    "city": "Cheyenne",
+    "state": "Wyoming",
+    "label": "CYS - Cheyenne Reg. Airport - Cheyenne"
+  },
+  {
+    "iata": "CYT",
+    "airport": "Yakataga Airport",
+    "city": "Yakataga",
+    "state": "",
+    "label": "CYT - Yakataga Airport - Yakataga"
+  },
+  {
+    "iata": "CZC",
+    "airport": "Copper Center 2",
+    "city": "Copper Center",
+    "state": "",
+    "label": "CZC - Copper Center 2 - Copper Center"
+  },
+  {
+    "iata": "CZF",
+    "airport": "Cape Romanzof LRRS Airport",
+    "city": "Cape Romanzof",
+    "state": "",
+    "label": "CZF - Cape Romanzof LRRS Airport - Cape Romanzof"
+  },
+  {
+    "iata": "CZK",
+    "airport": "Cascade Locks State Airport",
+    "city": "Cascade Locks",
+    "state": "Oregon",
+    "label": "CZK - Cascade Locks State Airport - Cascade Locks"
+  },
+  {
+    "iata": "CZN",
+    "airport": "Chisana Airport",
+    "city": "Chisana",
+    "state": "Alaska",
+    "label": "CZN - Chisana Airport - Chisana"
+  },
+  {
+    "iata": "CZO",
+    "airport": "Chistochina Airport",
+    "city": "Chistochina",
+    "state": "",
+    "label": "CZO - Chistochina Airport - Chistochina"
+  },
+  {
+    "iata": "CZP",
+    "airport": "Sea Plane Base",
+    "city": "Cape Pole",
+    "state": "",
+    "label": "CZP - Sea Plane Base - Cape Pole"
+  },
+  {
+    "iata": "CZT",
+    "airport": "Dimmit County Airport",
+    "city": "Carrizo Springs",
+    "state": "Texas",
+    "label": "CZT - Dimmit County Airport - Carrizo Springs"
+  },
+  {
+    "iata": "DAA",
+    "airport": "Davison AAF",
+    "city": "Fort Belvoir",
+    "state": "Virginia",
+    "label": "DAA - Davison AAF - Fort Belvoir"
+  },
+  {
+    "iata": "DAB",
+    "airport": "Daytona Beach Intl.",
+    "city": "Daytona Beach",
+    "state": "Florida",
+    "label": "DAB - Daytona Beach Intl. - Daytona Beach"
+  },
+  {
+    "iata": "DAG",
+    "airport": "Barstow-Daggett Airport",
+    "city": "Daggett",
+    "state": "California",
+    "label": "DAG - Barstow-Daggett Airport - Daggett"
+  },
+  {
+    "iata": "DAL",
+    "airport": "Dallas Love Field",
+    "city": "Dallas",
+    "state": "Texas",
+    "label": "DAL - Dallas Love Field - Dallas"
+  },
+  {
+    "iata": "DAN",
+    "airport": "Danville Regional Airport",
+    "city": "Danville",
+    "state": "Virginia",
+    "label": "DAN - Danville Regional Airport - Danville"
+  },
+  {
+    "iata": "DAY",
+    "airport": "Dayton International Airport",
+    "city": "Dayton",
+    "state": "Ohio",
+    "label": "DAY - Dayton International Airport - Dayton"
+  },
+  {
+    "iata": "DBN",
+    "airport": "W. H. 'Bud' Barron Airport",
+    "city": "Dublin",
+    "state": "Georgia",
+    "label": "DBN - W. H. 'Bud' Barron Airport - Dublin"
+  },
+  {
+    "iata": "DBQ",
+    "airport": "Dubuque Regional Airport",
+    "city": "Dubuque",
+    "state": "Iowa",
+    "label": "DBQ - Dubuque Regional Airport - Dubuque"
+  },
+  {
+    "iata": "DBS",
+    "airport": "Municipal",
+    "city": "Dubois",
+    "state": "Idaho",
+    "label": "DBS - Municipal - Dubois"
+  },
+  {
+    "iata": "DCA",
+    "airport": "Ronald Reagan Washington National Airport",
+    "city": "Washington",
+    "state": "Virginia",
+    "label": "DCA - Ronald Reagan Washington National Airport - Washington"
+  },
+  {
+    "iata": "DCK",
+    "airport": "Dahl Creek Airport",
+    "city": "Dahl Creek",
+    "state": "",
+    "label": "DCK - Dahl Creek Airport - Dahl Creek"
+  },
+  {
+    "iata": "DCU",
+    "airport": "Pryor Field Regional",
+    "city": "Decatur",
+    "state": "Alabama",
+    "label": "DCU - Pryor Field Regional - Decatur"
+  },
+  {
+    "iata": "DDC",
+    "airport": "Dodge City Reg. Airport",
+    "city": "Dodge City",
+    "state": "Kansas",
+    "label": "DDC - Dodge City Reg. Airport - Dodge City"
+  },
+  {
+    "iata": "DEC",
+    "airport": "Decatur Airport",
+    "city": "Decatur",
+    "state": "Illinois",
+    "label": "DEC - Decatur Airport - Decatur"
+  },
+  {
+    "iata": "DEH",
+    "airport": "Municipal",
+    "city": "Decorah",
+    "state": "Iowa",
+    "label": "DEH - Municipal - Decorah"
+  },
+  {
+    "iata": "DEN",
+    "airport": "Denver Intl.",
+    "city": "Denver",
+    "state": "Colorado",
+    "label": "DEN - Denver Intl. - Denver"
+  },
+  {
+    "iata": "DET",
+    "airport": "Coleman A. Young Muni",
+    "city": "Detroit",
+    "state": "Michigan",
+    "label": "DET - Coleman A. Young Muni - Detroit"
+  },
+  {
+    "iata": "DFI",
+    "airport": "Memorial",
+    "city": "Defiance",
+    "state": "Ohio",
+    "label": "DFI - Memorial - Defiance"
+  },
+  {
+    "iata": "DFW",
+    "airport": "Metropolitan Area",
+    "city": "Dallas",
+    "state": "Texas",
+    "label": "DFW - Metropolitan Area - Dallas"
+  },
+  {
+    "iata": "DGL",
+    "airport": "Douglas Municipal",
+    "city": "Douglas/Bisbee",
+    "state": "",
+    "label": "DGL - Douglas Municipal - Douglas/Bisbee"
+  },
+  {
+    "iata": "DGN",
+    "airport": "NSWC",
+    "city": "Dahlgren",
+    "state": "Illinois",
+    "label": "DGN - NSWC - Dahlgren"
+  },
+  {
+    "iata": "DGW",
+    "airport": "Converse County",
+    "city": "Douglas",
+    "state": "Wyoming",
+    "label": "DGW - Converse County - Douglas"
+  },
+  {
+    "iata": "DHN",
+    "airport": "Dothan Reg. Airport",
+    "city": "Dothan",
+    "state": "Alabama",
+    "label": "DHN - Dothan Reg. Airport - Dothan"
+  },
+  {
+    "iata": "DHT",
+    "airport": "Municipal",
+    "city": "Dalhart",
+    "state": "Texas",
+    "label": "DHT - Municipal - Dalhart"
+  },
+  {
+    "iata": "DIK",
+    "airport": "T.Roosevelt Regional",
+    "city": "Dickinson",
+    "state": "North Dakota",
+    "label": "DIK - T.Roosevelt Regional - Dickinson"
+  },
+  {
+    "iata": "DJN",
+    "airport": "Delta Junction Airport",
+    "city": "Delta Junction",
+    "state": "",
+    "label": "DJN - Delta Junction Airport - Delta Junction"
+  },
+  {
+    "iata": "DKK",
+    "airport": "Chautauqua County",
+    "city": "Dunkirk",
+    "state": "New York",
+    "label": "DKK - Chautauqua County - Dunkirk"
+  },
+  {
+    "iata": "DLF",
+    "airport": "Laughlin AFB",
+    "city": "Del Rio",
+    "state": "Texas",
+    "label": "DLF - Laughlin AFB - Del Rio"
+  },
+  {
+    "iata": "DLG",
+    "airport": "Dillingham Airport",
+    "city": "Dillingham",
+    "state": "Alaska",
+    "label": "DLG - Dillingham Airport - Dillingham"
+  },
+  {
+    "iata": "DLH",
+    "airport": "Duluth Intl.",
+    "city": "Duluth",
+    "state": "Minnesota",
+    "label": "DLH - Duluth Intl. - Duluth"
+  },
+  {
+    "iata": "DLL",
+    "airport": "Dillon County",
+    "city": "Dillon",
+    "state": "South Carolina",
+    "label": "DLL - Dillon County - Dillon"
+  },
+  {
+    "iata": "DLN",
+    "airport": "Dillon Airport",
+    "city": "Dillon",
+    "state": "Montana",
+    "label": "DLN - Dillon Airport - Dillon"
+  },
+  {
+    "iata": "DLS",
+    "airport": "Columbia Gorge Rgnl",
+    "city": "The Dalles",
+    "state": "Oregon",
+    "label": "DLS - Columbia Gorge Rgnl - The Dalles"
+  },
+  {
+    "iata": "DMA",
+    "airport": "Davis-Monthan AFB",
+    "city": "Tucson",
+    "state": "Arizona",
+    "label": "DMA - Davis-Monthan AFB - Tucson"
+  },
+  {
+    "iata": "DMN",
+    "airport": "Municipal",
+    "city": "Deming",
+    "state": "New Mexico",
+    "label": "DMN - Municipal - Deming"
+  },
+  {
+    "iata": "DMO",
+    "airport": "Sedalia Reg. Airport",
+    "city": "Sedalia",
+    "state": "Missouri",
+    "label": "DMO - Sedalia Reg. Airport - Sedalia"
+  },
+  {
+    "iata": "DNL",
+    "airport": "Daniel Field",
+    "city": "Augusta",
+    "state": "Georgia",
+    "label": "DNL - Daniel Field - Augusta"
+  },
+  {
+    "iata": "DNN",
+    "airport": "Municipal",
+    "city": "Dalton",
+    "state": "",
+    "label": "DNN - Municipal - Dalton"
+  },
+  {
+    "iata": "DNS",
+    "airport": "Municipal",
+    "city": "Denison",
+    "state": "Iowa",
+    "label": "DNS - Municipal - Denison"
+  },
+  {
+    "iata": "DNV",
+    "airport": "Vermilion Regional",
+    "city": "Danville",
+    "state": "Illinois",
+    "label": "DNV - Vermilion Regional - Danville"
+  },
+  {
+    "iata": "DOV",
+    "airport": "Dover AFB",
+    "city": "Dover",
+    "state": "Delaware",
+    "label": "DOV - Dover AFB - Dover"
+  },
+  {
+    "iata": "DPA",
+    "airport": "DuPage",
+    "city": "Chicago",
+    "state": "Illinois",
+    "label": "DPA - DuPage - Chicago"
+  },
+  {
+    "iata": "DPG",
+    "airport": "Michael AAF",
+    "city": "Dugway",
+    "state": "Utah",
+    "label": "DPG - Michael AAF - Dugway"
+  },
+  {
+    "iata": "DRA",
+    "airport": "Desert Rock",
+    "city": "Mercury",
+    "state": "",
+    "label": "DRA - Desert Rock - Mercury"
+  },
+  {
+    "iata": "DRE",
+    "airport": "Drummond Island Airport",
+    "city": "Drummond Island",
+    "state": "",
+    "label": "DRE - Drummond Island Airport - Drummond Island"
+  },
+  {
+    "iata": "DRF",
+    "airport": "Drift River Airport",
+    "city": "Drift River",
+    "state": "",
+    "label": "DRF - Drift River Airport - Drift River"
+  },
+  {
+    "iata": "DRG",
+    "airport": "Deering Airport",
+    "city": "Deering",
+    "state": "Alaska",
+    "label": "DRG - Deering Airport - Deering"
+  },
+  {
+    "iata": "DRI",
+    "airport": "Beauregard Regional",
+    "city": "DeRidder",
+    "state": "Louisiana",
+    "label": "DRI - Beauregard Regional - DeRidder"
+  },
+  {
+    "iata": "DRO",
+    "airport": "La Plata County",
+    "city": "Durango",
+    "state": "Colorado",
+    "label": "DRO - La Plata County - Durango"
+  },
+  {
+    "iata": "DRT",
+    "airport": "Del Rio Intl.",
+    "city": "Del Rio",
+    "state": "Coahuila",
+    "label": "DRT - Del Rio Intl. - Del Rio"
+  },
+  {
+    "iata": "DRU",
+    "airport": "Drummond Airport",
+    "city": "Drummond",
+    "state": "Montana",
+    "label": "DRU - Drummond Airport - Drummond"
+  },
+  {
+    "iata": "DSI",
+    "airport": "Destin Executive",
+    "city": "Destin/Ft Walton Beach",
+    "state": "Florida",
+    "label": "DSI - Destin Executive - Destin/Ft Walton Beach"
+  },
+  {
+    "iata": "DSM",
+    "airport": "Des Moines Intl.",
+    "city": "Des Moines",
+    "state": "Iowa",
+    "label": "DSM - Des Moines Intl. - Des Moines"
+  },
+  {
+    "iata": "DSV",
+    "airport": "Municipal",
+    "city": "Dansville",
+    "state": "New York",
+    "label": "DSV - Municipal - Dansville"
+  },
+  {
+    "iata": "DTA",
+    "airport": "Municipal",
+    "city": "Delta",
+    "state": "Utah",
+    "label": "DTA - Municipal - Delta"
+  },
+  {
+    "iata": "DTL",
+    "airport": "Wething Field",
+    "city": "Detroit Lakes",
+    "state": "Minnesota",
+    "label": "DTL - Wething Field - Detroit Lakes"
+  },
+  {
+    "iata": "DTN",
+    "airport": "Downtown Apt",
+    "city": "Shreveport",
+    "state": "",
+    "label": "DTN - Downtown Apt - Shreveport"
+  },
+  {
+    "iata": "DTR",
+    "airport": "Decatur Shores",
+    "city": "Decatur Island",
+    "state": "",
+    "label": "DTR - Decatur Shores - Decatur Island"
+  },
+  {
+    "iata": "DTW",
+    "airport": "Metropolitan Wayne Co.",
+    "city": "Detroit",
+    "state": "Michigan",
+    "label": "DTW - Metropolitan Wayne Co. - Detroit"
+  },
+  {
+    "iata": "DUA",
+    "airport": "Regional - Eaker Field",
+    "city": "Durant",
+    "state": "Oklahoma",
+    "label": "DUA - Regional - Eaker Field - Durant"
+  },
+  {
+    "iata": "DUC",
+    "airport": "Halliburton Field",
+    "city": "Duncan",
+    "state": "Oklahoma",
+    "label": "DUC - Halliburton Field - Duncan"
+  },
+  {
+    "iata": "DUF",
+    "airport": "Pine Island",
+    "city": "Corolla",
+    "state": "North Carolina",
+    "label": "DUF - Pine Island - Corolla"
+  },
+  {
+    "iata": "DUG",
+    "airport": "Bisbee-Douglas Intl",
+    "city": "Douglas/Bisbee",
+    "state": "Arizona",
+    "label": "DUG - Bisbee-Douglas Intl - Douglas/Bisbee"
+  },
+  {
+    "iata": "DUJ",
+    "airport": "DuBois Reg. Airport",
+    "city": "DuBois",
+    "state": "Pennsylvania",
+    "label": "DUJ - DuBois Reg. Airport - DuBois"
+  },
+  {
+    "iata": "DUT",
+    "airport": "Driftwood Bay AFS",
+    "city": "Dutch Harbor",
+    "state": "Alaska",
+    "label": "DUT - Driftwood Bay AFS - Dutch Harbor"
+  },
+  {
+    "iata": "DVL",
+    "airport": "Devils Lake Reg. Airport",
+    "city": "Devils Lake",
+    "state": "North Dakota",
+    "label": "DVL - Devils Lake Reg. Airport - Devils Lake"
+  },
+  {
+    "iata": "DVN",
+    "airport": "Municipal",
+    "city": "Davenport",
+    "state": "Iowa",
+    "label": "DVN - Municipal - Davenport"
+  },
+  {
+    "iata": "DVT",
+    "airport": "Deer Valley",
+    "city": "Phoenix",
+    "state": "Arizona",
+    "label": "DVT - Deer Valley - Phoenix"
+  },
+  {
+    "iata": "DWH",
+    "airport": "David Wayne Hooks Mem.",
+    "city": "Houston",
+    "state": "",
+    "label": "DWH - David Wayne Hooks Mem. - Houston"
+  },
+  {
+    "iata": "DXE",
+    "airport": "Bruce Campbell Field",
+    "city": "Madison",
+    "state": "Mississippi",
+    "label": "DXE - Bruce Campbell Field - Madison"
+  },
+  {
+    "iata": "DXR",
+    "airport": "Municipal",
+    "city": "Danbury",
+    "state": "Connecticut",
+    "label": "DXR - Municipal - Danbury"
+  },
+  {
+    "iata": "DYL",
+    "airport": "Doylestown Airport",
+    "city": "Doylestown",
+    "state": "Pennsylvania",
+    "label": "DYL - Doylestown Airport - Doylestown"
+  },
+  {
+    "iata": "DYS",
+    "airport": "Dyess AFB",
+    "city": "Abilene",
+    "state": "Texas",
+    "label": "DYS - Dyess AFB - Abilene"
+  },
+  {
+    "iata": "EAA",
+    "airport": "Eagle Airport",
+    "city": "Eagle",
+    "state": "Alaska",
+    "label": "EAA - Eagle Airport - Eagle"
+  },
+  {
+    "iata": "EAN",
+    "airport": "Phifer Airfield",
+    "city": "Wheatland",
+    "state": "Wyoming",
+    "label": "EAN - Phifer Airfield - Wheatland"
+  },
+  {
+    "iata": "EAR",
+    "airport": "Kearney Reg. Airport",
+    "city": "Kearney",
+    "state": "Nebraska",
+    "label": "EAR - Kearney Reg. Airport - Kearney"
+  },
+  {
+    "iata": "EAT",
+    "airport": "Pangborn Memorial",
+    "city": "Wenatchee",
+    "state": "Washington",
+    "label": "EAT - Pangborn Memorial - Wenatchee"
+  },
+  {
+    "iata": "EAU",
+    "airport": "Chippewa Valley Rgnl",
+    "city": "Eau Claire",
+    "state": "Wisconsin",
+    "label": "EAU - Chippewa Valley Rgnl - Eau Claire"
+  },
+  {
+    "iata": "EBS",
+    "airport": "Municipal",
+    "city": "Webster City",
+    "state": "Iowa",
+    "label": "EBS - Municipal - Webster City"
+  },
+  {
+    "iata": "ECG",
+    "airport": "Elizabeth City Reg. Airport",
+    "city": "Elizabeth City",
+    "state": "North Carolina",
+    "label": "ECG - Elizabeth City Reg. Airport - Elizabeth City"
+  },
+  {
+    "iata": "ECP",
+    "airport": "NW Florida Beaches Int",
+    "city": "Panama City",
+    "state": "Florida",
+    "label": "ECP - NW Florida Beaches Int - Panama City"
+  },
+  {
+    "iata": "ECS",
+    "airport": "Mondell Field",
+    "city": "Newcastle",
+    "state": "Wyoming",
+    "label": "ECS - Mondell Field - Newcastle"
+  },
+  {
+    "iata": "EDE",
+    "airport": "Northeastern Regional",
+    "city": "Edenton",
+    "state": "North Carolina",
+    "label": "EDE - Northeastern Regional - Edenton"
+  },
+  {
+    "iata": "EDF",
+    "airport": "Elmendorf AFB",
+    "city": "Anchorage",
+    "state": "",
+    "label": "EDF - Elmendorf AFB - Anchorage"
+  },
+  {
+    "iata": "EDK",
+    "airport": "Capt. Jack Thomas Mem.",
+    "city": "El Dorado",
+    "state": "Kansas",
+    "label": "EDK - Capt. Jack Thomas Mem. - El Dorado"
+  },
+  {
+    "iata": "EDN",
+    "airport": "Yedinka Airport",
+    "city": "Yedinka",
+    "state": "",
+    "label": "EDN - Yedinka Airport - Yedinka"
+  },
+  {
+    "iata": "EDW",
+    "airport": "Edwards AFB",
+    "city": "Edwards",
+    "state": "California",
+    "label": "EDW - Edwards AFB - Edwards"
+  },
+  {
+    "iata": "EED",
+    "airport": "Needles Airport",
+    "city": "Needles",
+    "state": "California",
+    "label": "EED - Needles Airport - Needles"
+  },
+  {
+    "iata": "EEK",
+    "airport": "Eek Airport",
+    "city": "Eek",
+    "state": "Alaska",
+    "label": "EEK - Eek Airport - Eek"
+  },
+  {
+    "iata": "EEN",
+    "airport": "Dillant-Hopkins",
+    "city": "Keene",
+    "state": "New Hampshire",
+    "label": "EEN - Dillant-Hopkins - Keene"
+  },
+  {
+    "iata": "EFD",
+    "airport": "Ellington",
+    "city": "Houston",
+    "state": "Texas",
+    "label": "EFD - Ellington - Houston"
+  },
+  {
+    "iata": "EFK",
+    "airport": "State",
+    "city": "Newport",
+    "state": "",
+    "label": "EFK - State - Newport"
+  },
+  {
+    "iata": "EFW",
+    "airport": "Municipal",
+    "city": "Jefferson",
+    "state": "Iowa",
+    "label": "EFW - Municipal - Jefferson"
+  },
+  {
+    "iata": "EGE",
+    "airport": "Eagle County Regional",
+    "city": "Vail/Eagle",
+    "state": "Colorado",
+    "label": "EGE - Eagle County Regional - Vail/Eagle"
+  },
+  {
+    "iata": "EGI",
+    "airport": "Duke Field",
+    "city": "Crestview",
+    "state": "Florida",
+    "label": "EGI - Duke Field - Crestview"
+  },
+  {
+    "iata": "EGP",
+    "airport": "Maverick Co. Mem. Intl",
+    "city": "Eagle Pass",
+    "state": "Texas",
+    "label": "EGP - Maverick Co. Mem. Intl - Eagle Pass"
+  },
+  {
+    "iata": "EGV",
+    "airport": "Union",
+    "city": "Eagle River",
+    "state": "Wisconsin",
+    "label": "EGV - Union - Eagle River"
+  },
+  {
+    "iata": "EGX",
+    "airport": "Egegik Airport",
+    "city": "Egegik",
+    "state": "Alaska",
+    "label": "EGX - Egegik Airport - Egegik"
+  },
+  {
+    "iata": "EHM",
+    "airport": "Cape Newenham Airport",
+    "city": "Cape Newenham",
+    "state": "",
+    "label": "EHM - Cape Newenham Airport - Cape Newenham"
+  },
+  {
+    "iata": "EIL",
+    "airport": "Eil Airport",
+    "city": "Eil",
+    "state": "",
+    "label": "EIL - Eil Airport - Eil"
+  },
+  {
+    "iata": "EKA",
+    "airport": "Murray Field",
+    "city": "Arcata/Eureka",
+    "state": "California",
+    "label": "EKA - Murray Field - Arcata/Eureka"
+  },
+  {
+    "iata": "EKN",
+    "airport": "Randolph County",
+    "city": "Elkins",
+    "state": "West Virginia",
+    "label": "EKN - Randolph County - Elkins"
+  },
+  {
+    "iata": "EKO",
+    "airport": "Elko Reg. Airport",
+    "city": "Elko",
+    "state": "Nevada",
+    "label": "EKO - Elko Reg. Airport - Elko"
+  },
+  {
+    "iata": "EKX",
+    "airport": "Regional-Addington Fld",
+    "city": "Elizabethtown",
+    "state": "Kentucky",
+    "label": "EKX - Regional-Addington Fld - Elizabethtown"
+  },
+  {
+    "iata": "ELA",
+    "airport": "Eagle Lake Airport",
+    "city": "Eagle Lake",
+    "state": "Texas",
+    "label": "ELA - Eagle Lake Airport - Eagle Lake"
+  },
+  {
+    "iata": "ELD",
+    "airport": "South Arkansas Rgnl",
+    "city": "El Dorado",
+    "state": "Arkansas",
+    "label": "ELD - South Arkansas Rgnl - El Dorado"
+  },
+  {
+    "iata": "ELI",
+    "airport": "Municipal",
+    "city": "Ely",
+    "state": "Alaska",
+    "label": "ELI - Municipal - Ely"
+  },
+  {
+    "iata": "ELK",
+    "airport": "Regional Business",
+    "city": "Elk City",
+    "state": "Oklahoma",
+    "label": "ELK - Regional Business - Elk City"
+  },
+  {
+    "iata": "ELM",
+    "airport": "Regional",
+    "city": "Elmira/Corning",
+    "state": "New York",
+    "label": "ELM - Regional - Elmira/Corning"
+  },
+  {
+    "iata": "ELN",
+    "airport": "Bowers Field",
+    "city": "Ellensburg",
+    "state": "Washington",
+    "label": "ELN - Bowers Field - Ellensburg"
+  },
+  {
+    "iata": "ELP",
+    "airport": "Metropolitan Area",
+    "city": "El Paso",
+    "state": "Texas",
+    "label": "ELP - Metropolitan Area - El Paso"
+  },
+  {
+    "iata": "ELV",
+    "airport": "Sea Plane Base",
+    "city": "Elfin Cove",
+    "state": "Alaska",
+    "label": "ELV - Sea Plane Base - Elfin Cove"
+  },
+  {
+    "iata": "ELY",
+    "airport": "Yelland Field",
+    "city": "Ely",
+    "state": "Nevada",
+    "label": "ELY - Yelland Field - Ely"
+  },
+  {
+    "iata": "ELZ",
+    "airport": "Municipal",
+    "city": "Wellsville",
+    "state": "New York",
+    "label": "ELZ - Municipal - Wellsville"
+  },
+  {
+    "iata": "EMK",
+    "airport": "Emmonak Airport",
+    "city": "Emmonak",
+    "state": "Alaska",
+    "label": "EMK - Emmonak Airport - Emmonak"
+  },
+  {
+    "iata": "EMM",
+    "airport": "Municipal",
+    "city": "Kemmerer",
+    "state": "Wyoming",
+    "label": "EMM - Municipal - Kemmerer"
+  },
+  {
+    "iata": "EMP",
+    "airport": "Municipal",
+    "city": "Emporia",
+    "state": "Kansas",
+    "label": "EMP - Municipal - Emporia"
+  },
+  {
+    "iata": "EMT",
+    "airport": "San Gabriel Valley",
+    "city": "El Monte",
+    "state": "California",
+    "label": "EMT - San Gabriel Valley - El Monte"
+  },
+  {
+    "iata": "ENA",
+    "airport": "Municipal",
+    "city": "Kenai",
+    "state": "Alaska",
+    "label": "ENA - Municipal - Kenai"
+  },
+  {
+    "iata": "END",
+    "airport": "Vance AFB",
+    "city": "Enid",
+    "state": "",
+    "label": "END - Vance AFB - Enid"
+  },
+  {
+    "iata": "ENL",
+    "airport": "Municipal",
+    "city": "Centralia",
+    "state": "Illinois",
+    "label": "ENL - Municipal - Centralia"
+  },
+  {
+    "iata": "ENN",
+    "airport": "Municipal",
+    "city": "Nenana",
+    "state": "",
+    "label": "ENN - Municipal - Nenana"
+  },
+  {
+    "iata": "ENV",
+    "airport": "Wendover Airport",
+    "city": "Wendover",
+    "state": "Utah",
+    "label": "ENV - Wendover Airport - Wendover"
+  },
+  {
+    "iata": "ENW",
+    "airport": "Kenosha Reg. Airport",
+    "city": "Kenosha",
+    "state": "Wisconsin",
+    "label": "ENW - Kenosha Reg. Airport - Kenosha"
+  },
+  {
+    "iata": "EOK",
+    "airport": "Municipal",
+    "city": "Keokuk",
+    "state": "Iowa",
+    "label": "EOK - Municipal - Keokuk"
+  },
+  {
+    "iata": "EOS",
+    "airport": "Hugh Robinson",
+    "city": "Neosho",
+    "state": "",
+    "label": "EOS - Hugh Robinson - Neosho"
+  },
+  {
+    "iata": "EPG",
+    "airport": "Browns",
+    "city": "Weeping Water",
+    "state": "Nebraska",
+    "label": "EPG - Browns - Weeping Water"
+  },
+  {
+    "iata": "EPH",
+    "airport": "Municipal",
+    "city": "Ephrata",
+    "state": "Washington",
+    "label": "EPH - Municipal - Ephrata"
+  },
+  {
+    "iata": "ERI",
+    "airport": "Erie Intl.",
+    "city": "Erie",
+    "state": "Pennsylvania",
+    "label": "ERI - Erie Intl. - Erie"
+  },
+  {
+    "iata": "ERR",
+    "airport": "Errol Airport",
+    "city": "Errol",
+    "state": "New Hampshire",
+    "label": "ERR - Errol Airport - Errol"
+  },
+  {
+    "iata": "ERV",
+    "airport": "Municipal",
+    "city": "Kerrville",
+    "state": "Texas",
+    "label": "ERV - Municipal - Kerrville"
+  },
+  {
+    "iata": "ESC",
+    "airport": "Delta County",
+    "city": "Escanaba",
+    "state": "Michigan",
+    "label": "ESC - Delta County - Escanaba"
+  },
+  {
+    "iata": "ESD",
+    "airport": "Orcas Island",
+    "city": "Eastsound",
+    "state": "Washington",
+    "label": "ESD - Orcas Island - Eastsound"
+  },
+  {
+    "iata": "ESF",
+    "airport": "Esler Regional",
+    "city": "Alexandria",
+    "state": "Louisiana",
+    "label": "ESF - Esler Regional - Alexandria"
+  },
+  {
+    "iata": "ESN",
+    "airport": "Newnam Field",
+    "city": "Easton",
+    "state": "Maryland",
+    "label": "ESN - Newnam Field - Easton"
+  },
+  {
+    "iata": "ESO",
+    "airport": "Ohkay Owingeh",
+    "city": "Espanola",
+    "state": "New Mexico",
+    "label": "ESO - Ohkay Owingeh - Espanola"
+  },
+  {
+    "iata": "ESP",
+    "airport": "Stroudsburg-Pocono",
+    "city": "East Stroudsburg",
+    "state": "Pennsylvania",
+    "label": "ESP - Stroudsburg-Pocono - East Stroudsburg"
+  },
+  {
+    "iata": "EST",
+    "airport": "Municipal",
+    "city": "Estherville",
+    "state": "Iowa",
+    "label": "EST - Municipal - Estherville"
+  },
+  {
+    "iata": "ESW",
+    "airport": "State",
+    "city": "Easton",
+    "state": "Washington",
+    "label": "ESW - State - Easton"
+  },
+  {
+    "iata": "ETB",
+    "airport": "Municipal",
+    "city": "West Bend",
+    "state": "Wisconsin",
+    "label": "ETB - Municipal - West Bend"
+  },
+  {
+    "iata": "ETN",
+    "airport": "Municipal",
+    "city": "Eastland",
+    "state": "Texas",
+    "label": "ETN - Municipal - Eastland"
+  },
+  {
+    "iata": "ETS",
+    "airport": "Municipal",
+    "city": "Enterprise",
+    "state": "Alabama",
+    "label": "ETS - Municipal - Enterprise"
+  },
+  {
+    "iata": "EUE",
+    "airport": "Eureka Airport",
+    "city": "Eureka",
+    "state": "Nevada",
+    "label": "EUE - Eureka Airport - Eureka"
+  },
+  {
+    "iata": "EUF",
+    "airport": "Weedon Field",
+    "city": "Eufaula",
+    "state": "Alabama",
+    "label": "EUF - Weedon Field - Eufaula"
+  },
+  {
+    "iata": "EUG",
+    "airport": "Mahlon Sweet Field",
+    "city": "Eugene",
+    "state": "Oregon",
+    "label": "EUG - Mahlon Sweet Field - Eugene"
+  },
+  {
+    "iata": "EVA",
+    "airport": "Ben Bruce Mem. Airpark",
+    "city": "Evadale",
+    "state": "Texas",
+    "label": "EVA - Ben Bruce Mem. Airpark - Evadale"
+  },
+  {
+    "iata": "EVM",
+    "airport": "Eveleth-Virginia Muni",
+    "city": "Eveleth",
+    "state": "Minnesota",
+    "label": "EVM - Eveleth-Virginia Muni - Eveleth"
+  },
+  {
+    "iata": "EVW",
+    "airport": "Uinta County",
+    "city": "Evanston",
+    "state": "Wyoming",
+    "label": "EVW - Uinta County - Evanston"
+  },
+  {
+    "iata": "EWB",
+    "airport": "New Bedford Regional",
+    "city": "New Bedford/Fall River",
+    "state": "Massachusetts",
+    "label": "EWB - New Bedford Regional - New Bedford/Fall River"
+  },
+  {
+    "iata": "EWK",
+    "airport": "City-County",
+    "city": "Newton",
+    "state": "Kansas",
+    "label": "EWK - City-County - Newton"
+  },
+  {
+    "iata": "EWN",
+    "airport": "Coastal Carolina Rgnl",
+    "city": "New Bern",
+    "state": "North Carolina",
+    "label": "EWN - Coastal Carolina Rgnl - New Bern"
+  },
+  {
+    "iata": "EWR",
+    "airport": "Newark Liberty Intl",
+    "city": "New York",
+    "state": "New Jersey",
+    "label": "EWR - Newark Liberty Intl - New York"
+  },
+  {
+    "iata": "EYR",
+    "airport": "Municipal",
+    "city": "Yerington",
+    "state": "Nevada",
+    "label": "EYR - Municipal - Yerington"
+  },
+  {
+    "iata": "EYW",
+    "airport": "Key West Intl.",
+    "city": "Key West",
+    "state": "Florida",
+    "label": "EYW - Key West Intl. - Key West"
+  },
+  {
+    "iata": "FAF",
+    "airport": "Felker AAF",
+    "city": "Fort Eustis",
+    "state": "",
+    "label": "FAF - Felker AAF - Fort Eustis"
+  },
+  {
+    "iata": "FAI",
+    "airport": "Regional (Grannis Fld)",
+    "city": "Fayetteville",
+    "state": "Alaska",
+    "label": "FAI - Regional (Grannis Fld) - Fayetteville"
+  },
+  {
+    "iata": "FAJ",
+    "airport": "Diego Jimenez Torres",
+    "city": "Fajardo",
+    "state": "Fajardo",
+    "label": "FAJ - Diego Jimenez Torres - Fajardo"
+  },
+  {
+    "iata": "FAK",
+    "airport": "Sea Plane Base",
+    "city": "False Island",
+    "state": "",
+    "label": "FAK - Sea Plane Base - False Island"
+  },
+  {
+    "iata": "FAM",
+    "airport": "Farmington Reg. Airport",
+    "city": "Farmington",
+    "state": "Missouri",
+    "label": "FAM - Farmington Reg. Airport - Farmington"
+  },
+  {
+    "iata": "FAR",
+    "airport": "Hector Intl",
+    "city": "Fargo",
+    "state": "Minnesota",
+    "label": "FAR - Hector Intl - Fargo"
+  },
+  {
+    "iata": "FAT",
+    "airport": "Yosemite Intl",
+    "city": "Fresno",
+    "state": "California",
+    "label": "FAT - Yosemite Intl - Fresno"
+  },
+  {
+    "iata": "FAY",
+    "airport": "Regional (Grannis Fld)",
+    "city": "Fayetteville",
+    "state": "North Carolina",
+    "label": "FAY - Regional (Grannis Fld) - Fayetteville"
+  },
+  {
+    "iata": "FBG",
+    "airport": "Simmons AAF",
+    "city": "Fort Bragg",
+    "state": "North Carolina",
+    "label": "FBG - Simmons AAF - Fort Bragg"
+  },
+  {
+    "iata": "FBK",
+    "airport": "Ladd AAF",
+    "city": "Fairbanks",
+    "state": "",
+    "label": "FBK - Ladd AAF - Fairbanks"
+  },
+  {
+    "iata": "FBL",
+    "airport": "Municipal",
+    "city": "Faribault",
+    "state": "Minnesota",
+    "label": "FBL - Municipal - Faribault"
+  },
+  {
+    "iata": "FBR",
+    "airport": "Fort Bridger Airport",
+    "city": "Fort Bridger",
+    "state": "Wyoming",
+    "label": "FBR - Fort Bridger Airport - Fort Bridger"
+  },
+  {
+    "iata": "FBS",
+    "airport": "Sea Plane Base",
+    "city": "Friday Harbor",
+    "state": "",
+    "label": "FBS - Sea Plane Base - Friday Harbor"
+  },
+  {
+    "iata": "FBY",
+    "airport": "Municipal",
+    "city": "Fairbury",
+    "state": "Nebraska",
+    "label": "FBY - Municipal - Fairbury"
+  },
+  {
+    "iata": "FCA",
+    "airport": "Glacier Park Intl",
+    "city": "Kalispell",
+    "state": "Montana",
+    "label": "FCA - Glacier Park Intl - Kalispell"
+  },
+  {
+    "iata": "FCH",
+    "airport": "Chandler Executive",
+    "city": "Fresno",
+    "state": "California",
+    "label": "FCH - Chandler Executive - Fresno"
+  },
+  {
+    "iata": "FCM",
+    "airport": "Flying Cloud",
+    "city": "Minneapolis/St Paul",
+    "state": "",
+    "label": "FCM - Flying Cloud - Minneapolis/St Paul"
+  },
+  {
+    "iata": "FCS",
+    "airport": "Fort Carson/Butts AAF",
+    "city": "Colorado Springs",
+    "state": "Colorado",
+    "label": "FCS - Fort Carson/Butts AAF - Colorado Springs"
+  },
+  {
+    "iata": "FCY",
+    "airport": "Municipal",
+    "city": "Forrest City",
+    "state": "Arkansas",
+    "label": "FCY - Municipal - Forrest City"
+  },
+  {
+    "iata": "FDK",
+    "airport": "Municipal",
+    "city": "Frederick",
+    "state": "Maryland",
+    "label": "FDK - Municipal - Frederick"
+  },
+  {
+    "iata": "FDR",
+    "airport": "Frederick Reg. Airport",
+    "city": "Frederick",
+    "state": "Oklahoma",
+    "label": "FDR - Frederick Reg. Airport - Frederick"
+  },
+  {
+    "iata": "FDY",
+    "airport": "Findlay Airport",
+    "city": "Findlay",
+    "state": "Ohio",
+    "label": "FDY - Findlay Airport - Findlay"
+  },
+  {
+    "iata": "FEP",
+    "airport": "Albertus",
+    "city": "Freeport",
+    "state": "Illinois",
+    "label": "FEP - Albertus - Freeport"
+  },
+  {
+    "iata": "FET",
+    "airport": "Municipal",
+    "city": "Fremont",
+    "state": "Nebraska",
+    "label": "FET - Municipal - Fremont"
+  },
+  {
+    "iata": "FFA",
+    "airport": "First Flight",
+    "city": "Kill Devil Hills",
+    "state": "North Carolina",
+    "label": "FFA - First Flight - Kill Devil Hills"
+  },
+  {
+    "iata": "FFL",
+    "airport": "Municipal",
+    "city": "Fairfield",
+    "state": "Iowa",
+    "label": "FFL - Municipal - Fairfield"
+  },
+  {
+    "iata": "FFM",
+    "airport": "Municipal",
+    "city": "Fergus Falls",
+    "state": "Minnesota",
+    "label": "FFM - Municipal - Fergus Falls"
+  },
+  {
+    "iata": "FFO",
+    "airport": "Wright-Patterson AFB",
+    "city": "Dayton",
+    "state": "Ohio",
+    "label": "FFO - Wright-Patterson AFB - Dayton"
+  },
+  {
+    "iata": "FFT",
+    "airport": "Capital City",
+    "city": "Frankfort",
+    "state": "Kentucky",
+    "label": "FFT - Capital City - Frankfort"
+  },
+  {
+    "iata": "FHU",
+    "airport": "Municipal/Libby AAF",
+    "city": "Sierra Vista",
+    "state": "Arizona",
+    "label": "FHU - Municipal/Libby AAF - Sierra Vista"
+  },
+  {
+    "iata": "FID",
+    "airport": "Elizabeth Field",
+    "city": "Fishers Island",
+    "state": "",
+    "label": "FID - Elizabeth Field - Fishers Island"
+  },
+  {
+    "iata": "FIL",
+    "airport": "Municipal",
+    "city": "Fillmore",
+    "state": "Utah",
+    "label": "FIL - Municipal - Fillmore"
+  },
+  {
+    "iata": "FKL",
+    "airport": "Venango Regional",
+    "city": "Franklin",
+    "state": "Pennsylvania",
+    "label": "FKL - Venango Regional - Franklin"
+  },
+  {
+    "iata": "FKN",
+    "airport": "Municipal-John B. Rose",
+    "city": "Franklin",
+    "state": "Virginia",
+    "label": "FKN - Municipal-John B. Rose - Franklin"
+  },
+  {
+    "iata": "FLD",
+    "airport": "Fond du Lac County",
+    "city": "Fond du Lac",
+    "state": "Wisconsin",
+    "label": "FLD - Fond du Lac County - Fond du Lac"
+  },
+  {
+    "iata": "FLG",
+    "airport": "Flagstaff Pulliam",
+    "city": "Grand Canyon",
+    "state": "Arizona",
+    "label": "FLG - Flagstaff Pulliam - Grand Canyon"
+  },
+  {
+    "iata": "FLL",
+    "airport": "Fort Lauderdale Intl.",
+    "city": "Fort Lauderdale",
+    "state": "Florida",
+    "label": "FLL - Fort Lauderdale Intl. - Fort Lauderdale"
+  },
+  {
+    "iata": "FLO",
+    "airport": "Florence Reg. Airport",
+    "city": "Florence",
+    "state": "South Carolina",
+    "label": "FLO - Florence Reg. Airport - Florence"
+  },
+  {
+    "iata": "FLP",
+    "airport": "Marion County Regional",
+    "city": "Flippin",
+    "state": "Arkansas",
+    "label": "FLP - Marion County Regional - Flippin"
+  },
+  {
+    "iata": "FLT",
+    "airport": "Flat Airport",
+    "city": "Flat",
+    "state": "",
+    "label": "FLT - Flat Airport - Flat"
+  },
+  {
+    "iata": "FLV",
+    "airport": "Sherman AAF",
+    "city": "Fort Leavenworth",
+    "state": "Missouri",
+    "label": "FLV - Sherman AAF - Fort Leavenworth"
+  },
+  {
+    "iata": "FLX",
+    "airport": "Municipal",
+    "city": "Fallon",
+    "state": "",
+    "label": "FLX - Municipal - Fallon"
+  },
+  {
+    "iata": "FME",
+    "airport": "Tipton",
+    "city": "Fort Meade/Odenton",
+    "state": "Maryland",
+    "label": "FME - Tipton - Fort Meade/Odenton"
+  },
+  {
+    "iata": "FMH",
+    "airport": "Cape Cod Coast Guard",
+    "city": "Falmouth",
+    "state": "Massachusetts",
+    "label": "FMH - Cape Cod Coast Guard - Falmouth"
+  },
+  {
+    "iata": "FMN",
+    "airport": "Four Corners Regional",
+    "city": "Farmington",
+    "state": "New Mexico",
+    "label": "FMN - Four Corners Regional - Farmington"
+  },
+  {
+    "iata": "FMS",
+    "airport": "Municipal",
+    "city": "Fort Madison",
+    "state": "Iowa",
+    "label": "FMS - Municipal - Fort Madison"
+  },
+  {
+    "iata": "FMY",
+    "airport": "Page Field",
+    "city": "Fort Myers",
+    "state": "Florida",
+    "label": "FMY - Page Field - Fort Myers"
+  },
+  {
+    "iata": "FNL",
+    "airport": "Municipal",
+    "city": "Fort Collins/Loveland",
+    "state": "Colorado",
+    "label": "FNL - Municipal - Fort Collins/Loveland"
+  },
+  {
+    "iata": "FNR",
+    "airport": "Sea Plane Base",
+    "city": "Funter Bay",
+    "state": "",
+    "label": "FNR - Sea Plane Base - Funter Bay"
+  },
+  {
+    "iata": "FNT",
+    "airport": "Bishop Intl",
+    "city": "Flint",
+    "state": "Michigan",
+    "label": "FNT - Bishop Intl - Flint"
+  },
+  {
+    "iata": "FOB",
+    "airport": "Fort Bragg Airport",
+    "city": "Fort Bragg",
+    "state": "California",
+    "label": "FOB - Fort Bragg Airport - Fort Bragg"
+  },
+  {
+    "iata": "FOD",
+    "airport": "Fort Dodge Reg. Airport",
+    "city": "Fort Dodge",
+    "state": "Iowa",
+    "label": "FOD - Fort Dodge Reg. Airport - Fort Dodge"
+  },
+  {
+    "iata": "FOE",
+    "airport": "Forbes Field",
+    "city": "Topeka",
+    "state": "",
+    "label": "FOE - Forbes Field - Topeka"
+  },
+  {
+    "iata": "FOK",
+    "airport": "Francis S. Gabreski",
+    "city": "Westhampton Beach",
+    "state": "New York",
+    "label": "FOK - Francis S. Gabreski - Westhampton Beach"
+  },
+  {
+    "iata": "FPR",
+    "airport": "St Lucie County Intl",
+    "city": "Fort Pierce",
+    "state": "Florida",
+    "label": "FPR - St Lucie County Intl - Fort Pierce"
+  },
+  {
+    "iata": "FPY",
+    "airport": "Perry-Foley",
+    "city": "Perry",
+    "state": "Florida",
+    "label": "FPY - Perry-Foley - Perry"
+  },
+  {
+    "iata": "FRD",
+    "airport": "Friday Harbor Airport",
+    "city": "Friday Harbor",
+    "state": "Washington",
+    "label": "FRD - Friday Harbor Airport - Friday Harbor"
+  },
+  {
+    "iata": "FRG",
+    "airport": "Republic",
+    "city": "Farmingdale",
+    "state": "New York",
+    "label": "FRG - Republic - Farmingdale"
+  },
+  {
+    "iata": "FRI",
+    "airport": "Marshall AAF",
+    "city": "Fort Riley",
+    "state": "Kansas",
+    "label": "FRI - Marshall AAF - Fort Riley"
+  },
+  {
+    "iata": "FRM",
+    "airport": "Municipal",
+    "city": "Fairmont",
+    "state": "Minnesota",
+    "label": "FRM - Municipal - Fairmont"
+  },
+  {
+    "iata": "FRN",
+    "airport": "Bryant AAF",
+    "city": "Anchorage",
+    "state": "Alaska",
+    "label": "FRN - Bryant AAF - Anchorage"
+  },
+  {
+    "iata": "FRR",
+    "airport": "Warren County",
+    "city": "Front Royal",
+    "state": "Virginia",
+    "label": "FRR - Warren County - Front Royal"
+  },
+  {
+    "iata": "FRY",
+    "airport": "Eastern Slopes Rgnl",
+    "city": "Fryeburg",
+    "state": "Maine",
+    "label": "FRY - Eastern Slopes Rgnl - Fryeburg"
+  },
+  {
+    "iata": "FSD",
+    "airport": "Joe Foss Field",
+    "city": "Sioux Falls",
+    "state": "South Dakota",
+    "label": "FSD - Joe Foss Field - Sioux Falls"
+  },
+  {
+    "iata": "FSI",
+    "airport": "Henry Post AAF",
+    "city": "Lawton/Fort Sill",
+    "state": "",
+    "label": "FSI - Henry Post AAF - Lawton/Fort Sill"
+  },
+  {
+    "iata": "FSK",
+    "airport": "Municipal",
+    "city": "Fort Scott",
+    "state": "Kansas",
+    "label": "FSK - Municipal - Fort Scott"
+  },
+  {
+    "iata": "FSM",
+    "airport": "Fort Smith Reg. Airport",
+    "city": "Fort Smith",
+    "state": "Arkansas",
+    "label": "FSM - Fort Smith Reg. Airport - Fort Smith"
+  },
+  {
+    "iata": "FST",
+    "airport": "Pecos County",
+    "city": "Fort Stockton",
+    "state": "Texas",
+    "label": "FST - Pecos County - Fort Stockton"
+  },
+  {
+    "iata": "FSU",
+    "airport": "Municipal",
+    "city": "Fort Sumner",
+    "state": "New Mexico",
+    "label": "FSU - Municipal - Fort Sumner"
+  },
+  {
+    "iata": "FTI",
+    "airport": "Fitiuta Airport",
+    "city": "Fitiuta",
+    "state": "",
+    "label": "FTI - Fitiuta Airport - Fitiuta"
+  },
+  {
+    "iata": "FTK",
+    "airport": "Godman AAF",
+    "city": "Fort Knox",
+    "state": "Kentucky",
+    "label": "FTK - Godman AAF - Fort Knox"
+  },
+  {
+    "iata": "FTW",
+    "airport": "Meacham International",
+    "city": "Fort Worth",
+    "state": "",
+    "label": "FTW - Meacham International - Fort Worth"
+  },
+  {
+    "iata": "FTY",
+    "airport": "Fulton County",
+    "city": "Atlanta",
+    "state": "Georgia",
+    "label": "FTY - Fulton County - Atlanta"
+  },
+  {
+    "iata": "FUL",
+    "airport": "Municipal",
+    "city": "Fullerton",
+    "state": "California",
+    "label": "FUL - Municipal - Fullerton"
+  },
+  {
+    "iata": "FWH",
+    "airport": "NAS JRB",
+    "city": "Fort Worth",
+    "state": "",
+    "label": "FWH - NAS JRB - Fort Worth"
+  },
+  {
+    "iata": "FWL",
+    "airport": "Farewell Airport",
+    "city": "Farewell",
+    "state": "",
+    "label": "FWL - Farewell Airport - Farewell"
+  },
+  {
+    "iata": "FXE",
+    "airport": "Executive",
+    "city": "Fort Lauderdale",
+    "state": "Florida",
+    "label": "FXE - Executive - Fort Lauderdale"
+  },
+  {
+    "iata": "FXY",
+    "airport": "Municipal",
+    "city": "Forest City",
+    "state": "Iowa",
+    "label": "FXY - Municipal - Forest City"
+  },
+  {
+    "iata": "FYM",
+    "airport": "Municipal",
+    "city": "Fayetteville",
+    "state": "Tennessee",
+    "label": "FYM - Municipal - Fayetteville"
+  },
+  {
+    "iata": "FYU",
+    "airport": "Fort Yukon Airport",
+    "city": "Fort Yukon",
+    "state": "Alaska",
+    "label": "FYU - Fort Yukon Airport - Fort Yukon"
+  },
+  {
+    "iata": "FYV",
+    "airport": "Drake Field",
+    "city": "Fayetteville/Springd.",
+    "state": "Arkansas",
+    "label": "FYV - Drake Field - Fayetteville/Springd."
+  },
+  {
+    "iata": "GAB",
+    "airport": "Gabbs Airport",
+    "city": "Gabbs",
+    "state": "",
+    "label": "GAB - Gabbs Airport - Gabbs"
+  },
+  {
+    "iata": "GAD",
+    "airport": "Northeast Alabama Rgnl",
+    "city": "Gadsden",
+    "state": "Alabama",
+    "label": "GAD - Northeast Alabama Rgnl - Gadsden"
+  },
+  {
+    "iata": "GAG",
+    "airport": "Gage Airport",
+    "city": "Gage",
+    "state": "Oklahoma",
+    "label": "GAG - Gage Airport - Gage"
+  },
+  {
+    "iata": "GAI",
+    "airport": "Montgomery Co Airpark",
+    "city": "Gaithersburg",
+    "state": "Maryland",
+    "label": "GAI - Montgomery Co Airpark - Gaithersburg"
+  },
+  {
+    "iata": "GAL",
+    "airport": "Edward G. Pitka Sr.",
+    "city": "Galena",
+    "state": "Alaska",
+    "label": "GAL - Edward G. Pitka Sr. - Galena"
+  },
+  {
+    "iata": "GAM",
+    "airport": "Gambell Airport",
+    "city": "Gambell",
+    "state": "Alaska",
+    "label": "GAM - Gambell Airport - Gambell"
+  },
+  {
+    "iata": "GBD",
+    "airport": "Municipal",
+    "city": "Great Bend",
+    "state": "Kansas",
+    "label": "GBD - Municipal - Great Bend"
+  },
+  {
+    "iata": "GBG",
+    "airport": "Municipal",
+    "city": "Galesburg",
+    "state": "Illinois",
+    "label": "GBG - Municipal - Galesburg"
+  },
+  {
+    "iata": "GBH",
+    "airport": "Galbraith Lake Airport",
+    "city": "Galbraith Lake",
+    "state": "",
+    "label": "GBH - Galbraith Lake Airport - Galbraith Lake"
+  },
+  {
+    "iata": "GBR",
+    "airport": "Walter J. Koladza",
+    "city": "Great Barrington",
+    "state": "Massachusetts",
+    "label": "GBR - Walter J. Koladza - Great Barrington"
+  },
+  {
+    "iata": "GCC",
+    "airport": "Campbell County",
+    "city": "Gillette",
+    "state": "Wyoming",
+    "label": "GCC - Campbell County - Gillette"
+  },
+  {
+    "iata": "GCD",
+    "airport": "Grand Coulee Dam",
+    "city": "Electric City",
+    "state": "Washington",
+    "label": "GCD - Grand Coulee Dam - Electric City"
+  },
+  {
+    "iata": "GCK",
+    "airport": "Garden City Reg. Airport",
+    "city": "Garden City",
+    "state": "Kansas",
+    "label": "GCK - Garden City Reg. Airport - Garden City"
+  },
+  {
+    "iata": "GCN",
+    "airport": "National Park",
+    "city": "Grand Canyon",
+    "state": "",
+    "label": "GCN - National Park - Grand Canyon"
+  },
+  {
+    "iata": "GCW",
+    "airport": "Grand Canyon West Airport",
+    "city": "Grand Canyon West",
+    "state": "Arizona",
+    "label": "GCW - Grand Canyon West Airport - Grand Canyon West"
+  },
+  {
+    "iata": "GCY",
+    "airport": "Greene County Muni",
+    "city": "Greeneville",
+    "state": "Tennessee",
+    "label": "GCY - Greene County Muni - Greeneville"
+  },
+  {
+    "iata": "GDC",
+    "airport": "Donaldson Field",
+    "city": "Greenville/Spartanburg",
+    "state": "South Carolina",
+    "label": "GDC - Donaldson Field - Greenville/Spartanburg"
+  },
+  {
+    "iata": "GDH",
+    "airport": "Golden Horn Lodge SPB",
+    "city": "Golden Horn",
+    "state": "",
+    "label": "GDH - Golden Horn Lodge SPB - Golden Horn"
+  },
+  {
+    "iata": "GDM",
+    "airport": "Municipal",
+    "city": "Gardner",
+    "state": "Massachusetts",
+    "label": "GDM - Municipal - Gardner"
+  },
+  {
+    "iata": "GDV",
+    "airport": "Dawson Community",
+    "city": "Glendive",
+    "state": "Montana",
+    "label": "GDV - Dawson Community - Glendive"
+  },
+  {
+    "iata": "GDW",
+    "airport": "Zettel Memorial",
+    "city": "Gladwin",
+    "state": "Michigan",
+    "label": "GDW - Zettel Memorial - Gladwin"
+  },
+  {
+    "iata": "GED",
+    "airport": "Sussex County",
+    "city": "Georgetown",
+    "state": "Delaware",
+    "label": "GED - Sussex County - Georgetown"
+  },
+  {
+    "iata": "GEG",
+    "airport": "Spokane Intl.",
+    "city": "Spokane",
+    "state": "Washington",
+    "label": "GEG - Spokane Intl. - Spokane"
+  },
+  {
+    "iata": "GEY",
+    "airport": "South Big Horn County",
+    "city": "Greybull",
+    "state": "Wyoming",
+    "label": "GEY - South Big Horn County - Greybull"
+  },
+  {
+    "iata": "GFK",
+    "airport": "Grand Forks Intl.",
+    "city": "Grand Forks",
+    "state": "North Dakota",
+    "label": "GFK - Grand Forks Intl. - Grand Forks"
+  },
+  {
+    "iata": "GFL",
+    "airport": "Floyd Bennett Memorial",
+    "city": "Glens Falls",
+    "state": "New York",
+    "label": "GFL - Floyd Bennett Memorial - Glens Falls"
+  },
+  {
+    "iata": "GGE",
+    "airport": "Georgetown County",
+    "city": "Georgetown",
+    "state": "South Carolina",
+    "label": "GGE - Georgetown County - Georgetown"
+  },
+  {
+    "iata": "GGG",
+    "airport": "East Texas Regional",
+    "city": "Longview",
+    "state": "Texas",
+    "label": "GGG - East Texas Regional - Longview"
+  },
+  {
+    "iata": "GGW",
+    "airport": "Glasgow Intl.",
+    "city": "Glasgow",
+    "state": "Montana",
+    "label": "GGW - Glasgow Intl. - Glasgow"
+  },
+  {
+    "iata": "GHM",
+    "airport": "Municipal",
+    "city": "Centerville",
+    "state": "Tennessee",
+    "label": "GHM - Municipal - Centerville"
+  },
+  {
+    "iata": "GIF",
+    "airport": "Winter Haven's Gilbert",
+    "city": "Winter Haven",
+    "state": "Florida",
+    "label": "GIF - Winter Haven's Gilbert - Winter Haven"
+  },
+  {
+    "iata": "GJT",
+    "airport": "Grand Junction Reg. Airport",
+    "city": "Grand Junction",
+    "state": "Colorado",
+    "label": "GJT - Grand Junction Reg. Airport - Grand Junction"
+  },
+  {
+    "iata": "GKN",
+    "airport": "Gulkana Airport",
+    "city": "Gulkana",
+    "state": "",
+    "label": "GKN - Gulkana Airport - Gulkana"
+  },
+  {
+    "iata": "GKT",
+    "airport": "Gatlinburg",
+    "city": "Sevierville",
+    "state": "Tennessee",
+    "label": "GKT - Gatlinburg - Sevierville"
+  },
+  {
+    "iata": "GLB",
+    "airport": "San Carlos Apache",
+    "city": "Globe",
+    "state": "",
+    "label": "GLB - San Carlos Apache - Globe"
+  },
+  {
+    "iata": "GLD",
+    "airport": "Renner Field",
+    "city": "Goodland",
+    "state": "Kansas",
+    "label": "GLD - Renner Field - Goodland"
+  },
+  {
+    "iata": "GLE",
+    "airport": "Municipal",
+    "city": "Gainesville",
+    "state": "Texas",
+    "label": "GLE - Municipal - Gainesville"
+  },
+  {
+    "iata": "GLH",
+    "airport": "Mid-Delta",
+    "city": "Greenville",
+    "state": "Mississippi",
+    "label": "GLH - Mid-Delta - Greenville"
+  },
+  {
+    "iata": "GLR",
+    "airport": "Gaylord Reg. Airport",
+    "city": "Gaylord",
+    "state": "Michigan",
+    "label": "GLR - Gaylord Reg. Airport - Gaylord"
+  },
+  {
+    "iata": "GLS",
+    "airport": "Sholes Intl",
+    "city": "Galveston",
+    "state": "Texas",
+    "label": "GLS - Sholes Intl - Galveston"
+  },
+  {
+    "iata": "GLV",
+    "airport": "Golovin Airport",
+    "city": "Golovin",
+    "state": "Alaska",
+    "label": "GLV - Golovin Airport - Golovin"
+  },
+  {
+    "iata": "GLW",
+    "airport": "Municipal",
+    "city": "Glasgow",
+    "state": "Kentucky",
+    "label": "GLW - Municipal - Glasgow"
+  },
+  {
+    "iata": "GMT",
+    "airport": "Air Station",
+    "city": "Granite Mountain",
+    "state": "",
+    "label": "GMT - Air Station - Granite Mountain"
+  },
+  {
+    "iata": "GMU",
+    "airport": "Greenville Downtown Ap",
+    "city": "Greenville/Spartanburg",
+    "state": "South Carolina",
+    "label": "GMU - Greenville Downtown Ap - Greenville/Spartanburg"
+  },
+  {
+    "iata": "GMV",
+    "airport": "Monument Valley Airport",
+    "city": "Monument Valley",
+    "state": "",
+    "label": "GMV - Monument Valley Airport - Monument Valley"
+  },
+  {
+    "iata": "GNG",
+    "airport": "Municipal",
+    "city": "Gooding",
+    "state": "Idaho",
+    "label": "GNG - Municipal - Gooding"
+  },
+  {
+    "iata": "GNT",
+    "airport": "Grants-Milan Municipal",
+    "city": "Grants",
+    "state": "New Mexico",
+    "label": "GNT - Grants-Milan Municipal - Grants"
+  },
+  {
+    "iata": "GNU",
+    "airport": "Goodnews Bay Airport",
+    "city": "Goodnews Bay",
+    "state": "Alaska",
+    "label": "GNU - Goodnews Bay Airport - Goodnews Bay"
+  },
+  {
+    "iata": "GNV",
+    "airport": "Gainesville Reg. Airport",
+    "city": "Gainesville",
+    "state": "Florida",
+    "label": "GNV - Gainesville Reg. Airport - Gainesville"
+  },
+  {
+    "iata": "GOK",
+    "airport": "Guthrie-Edmond Rgnl",
+    "city": "Guthrie",
+    "state": "Oklahoma",
+    "label": "GOK - Guthrie-Edmond Rgnl - Guthrie"
+  },
+  {
+    "iata": "GOL",
+    "airport": "Klanten",
+    "city": "Gol",
+    "state": "Oregon",
+    "label": "GOL - Klanten - Gol"
+  },
+  {
+    "iata": "GON",
+    "airport": "Groton/New London Airport",
+    "city": "Groton/New London",
+    "state": "Connecticut",
+    "label": "GON - Groton/New London Airport - Groton/New London"
+  },
+  {
+    "iata": "GPT",
+    "airport": "Gulfport/Biloxi Intl.",
+    "city": "Gulfport/Biloxi",
+    "state": "Mississippi",
+    "label": "GPT - Gulfport/Biloxi Intl. - Gulfport/Biloxi"
+  },
+  {
+    "iata": "GPZ",
+    "airport": "Itasca County",
+    "city": "Grand Rapids",
+    "state": "Minnesota",
+    "label": "GPZ - Itasca County - Grand Rapids"
+  },
+  {
+    "iata": "GQQ",
+    "airport": "Municipal",
+    "city": "Galion",
+    "state": "Ohio",
+    "label": "GQQ - Municipal - Galion"
+  },
+  {
+    "iata": "GRB",
+    "airport": "Austin Straubel Intl",
+    "city": "Green Bay",
+    "state": "Wisconsin",
+    "label": "GRB - Austin Straubel Intl - Green Bay"
+  },
+  {
+    "iata": "GRD",
+    "airport": "Greenwood County",
+    "city": "Greenwood",
+    "state": "South Carolina",
+    "label": "GRD - Greenwood County - Greenwood"
+  },
+  {
+    "iata": "GRE",
+    "airport": "Greenville Airport",
+    "city": "Greenville",
+    "state": "Illinois",
+    "label": "GRE - Greenville Airport - Greenville"
+  },
+  {
+    "iata": "GRF",
+    "airport": "Gray AAF",
+    "city": "Tacoma",
+    "state": "Washington",
+    "label": "GRF - Gray AAF - Tacoma"
+  },
+  {
+    "iata": "GRI",
+    "airport": "Central Nebraska Rgnl",
+    "city": "Grand Island",
+    "state": "Nebraska",
+    "label": "GRI - Central Nebraska Rgnl - Grand Island"
+  },
+  {
+    "iata": "GRK",
+    "airport": "Regional/R.Gray AAF",
+    "city": "Killeen/Fort Hood",
+    "state": "Texas",
+    "label": "GRK - Regional/R.Gray AAF - Killeen/Fort Hood"
+  },
+  {
+    "iata": "GRM",
+    "airport": "Cook County",
+    "city": "Grand Marais",
+    "state": "Michigan",
+    "label": "GRM - Cook County - Grand Marais"
+  },
+  {
+    "iata": "GRN",
+    "airport": "Municipal",
+    "city": "Gordon",
+    "state": "Nebraska",
+    "label": "GRN - Municipal - Gordon"
+  },
+  {
+    "iata": "GRR",
+    "airport": "Gerald R. Ford Intl",
+    "city": "Grand Rapids",
+    "state": "Michigan",
+    "label": "GRR - Gerald R. Ford Intl - Grand Rapids"
+  },
+  {
+    "iata": "GSB",
+    "airport": "Seymour Johnson AFB",
+    "city": "Goldsboro",
+    "state": "North Carolina",
+    "label": "GSB - Seymour Johnson AFB - Goldsboro"
+  },
+  {
+    "iata": "GSO",
+    "airport": "Piedmont Triad Intl",
+    "city": "Greensboro/High Point",
+    "state": "North Carolina",
+    "label": "GSO - Piedmont Triad Intl - Greensboro/High Point"
+  },
+  {
+    "iata": "GSP",
+    "airport": "Greenville/Spartanburg Intl.",
+    "city": "Greenville/Spartanburg",
+    "state": "South Carolina",
+    "label": "GSP - Greenville/Spartanburg Intl. - Greenville/Spartanburg"
+  },
+  {
+    "iata": "GST",
+    "airport": "Gustavus Airport",
+    "city": "Gustavus",
+    "state": "Alaska",
+    "label": "GST - Gustavus Airport - Gustavus"
+  },
+  {
+    "iata": "GTF",
+    "airport": "Metropolitan Area",
+    "city": "Great Falls",
+    "state": "Montana",
+    "label": "GTF - Metropolitan Area - Great Falls"
+  },
+  {
+    "iata": "GTG",
+    "airport": "Municipal",
+    "city": "Grantsburg",
+    "state": "Wisconsin",
+    "label": "GTG - Municipal - Grantsburg"
+  },
+  {
+    "iata": "GTP",
+    "airport": "Grants Pass Airport",
+    "city": "Grants Pass",
+    "state": "Oregon",
+    "label": "GTP - Grants Pass Airport - Grants Pass"
+  },
+  {
+    "iata": "GTR",
+    "airport": "Golden Triangle Rgnl",
+    "city": "Columbus",
+    "state": "Mississippi",
+    "label": "GTR - Golden Triangle Rgnl - Columbus"
+  },
+  {
+    "iata": "GTY",
+    "airport": "Gettysburg Reg. Airport",
+    "city": "Gettysburg",
+    "state": "Pennsylvania",
+    "label": "GTY - Gettysburg Reg. Airport - Gettysburg"
+  },
+  {
+    "iata": "GUC",
+    "airport": "Gunnison-Crested Butte",
+    "city": "Gunnison",
+    "state": "Colorado",
+    "label": "GUC - Gunnison-Crested Butte - Gunnison"
+  },
+  {
+    "iata": "GUF",
+    "airport": "Jack Edwards",
+    "city": "Gulf Shores",
+    "state": "Alabama",
+    "label": "GUF - Jack Edwards - Gulf Shores"
+  },
+  {
+    "iata": "GUP",
+    "airport": "Municipal",
+    "city": "Gallup",
+    "state": "New Mexico",
+    "label": "GUP - Municipal - Gallup"
+  },
+  {
+    "iata": "GUY",
+    "airport": "Municipal",
+    "city": "Guymon",
+    "state": "Oklahoma",
+    "label": "GUY - Municipal - Guymon"
+  },
+  {
+    "iata": "GVE",
+    "airport": "Municipal",
+    "city": "Gordonsville",
+    "state": "Virginia",
+    "label": "GVE - Municipal - Gordonsville"
+  },
+  {
+    "iata": "GVL",
+    "airport": "Lee Gilmer Memorial",
+    "city": "Gainesville",
+    "state": "Georgia",
+    "label": "GVL - Lee Gilmer Memorial - Gainesville"
+  },
+  {
+    "iata": "GVT",
+    "airport": "Majors",
+    "city": "Greenville",
+    "state": "Texas",
+    "label": "GVT - Majors - Greenville"
+  },
+  {
+    "iata": "GWO",
+    "airport": "Leflore",
+    "city": "Greenwood",
+    "state": "Mississippi",
+    "label": "GWO - Leflore - Greenwood"
+  },
+  {
+    "iata": "GWS",
+    "airport": "Municipal",
+    "city": "Glenwood Springs",
+    "state": "",
+    "label": "GWS - Municipal - Glenwood Springs"
+  },
+  {
+    "iata": "GWV",
+    "airport": "Fokker Field",
+    "city": "Glendale",
+    "state": "Wisconsin",
+    "label": "GWV - Fokker Field - Glendale"
+  },
+  {
+    "iata": "GXY",
+    "airport": "Weld County",
+    "city": "Greeley",
+    "state": "Colorado",
+    "label": "GXY - Weld County - Greeley"
+  },
+  {
+    "iata": "GYR",
+    "airport": "Phoenix Goodyear",
+    "city": "Goodyear",
+    "state": "Arizona",
+    "label": "GYR - Phoenix Goodyear - Goodyear"
+  },
+  {
+    "iata": "HAB",
+    "airport": "Marion Co. Rankin Fite",
+    "city": "Hamilton",
+    "state": "Alabama",
+    "label": "HAB - Marion Co. Rankin Fite - Hamilton"
+  },
+  {
+    "iata": "HAE",
+    "airport": "Havasupai",
+    "city": "Havasupai",
+    "state": "Arizona",
+    "label": "HAE - Havasupai - Havasupai"
+  },
+  {
+    "iata": "HAF",
+    "airport": "Half Moon Bay Airport",
+    "city": "Half Moon Bay",
+    "state": "California",
+    "label": "HAF - Half Moon Bay Airport - Half Moon Bay"
+  },
+  {
+    "iata": "HAI",
+    "airport": "Hay Airport",
+    "city": "Hay",
+    "state": "Michigan",
+    "label": "HAI - Hay Airport - Hay"
+  },
+  {
+    "iata": "HAO",
+    "airport": "Hao Airport",
+    "city": "Hao",
+    "state": "Ohio",
+    "label": "HAO - Hao Airport - Hao"
+  },
+  {
+    "iata": "HAR",
+    "airport": "Capital City",
+    "city": "Harrisburg",
+    "state": "Pennsylvania",
+    "label": "HAR - Capital City - Harrisburg"
+  },
+  {
+    "iata": "HAY",
+    "airport": "Hay Airport",
+    "city": "Hay",
+    "state": "",
+    "label": "HAY - Hay Airport - Hay"
+  },
+  {
+    "iata": "HBB",
+    "airport": "Industrial Airpark",
+    "city": "Hobbs",
+    "state": "",
+    "label": "HBB - Industrial Airpark - Hobbs"
+  },
+  {
+    "iata": "HBG",
+    "airport": "Bobby L. Chain Muni",
+    "city": "Hattiesburg/Laurel",
+    "state": "Mississippi",
+    "label": "HBG - Bobby L. Chain Muni - Hattiesburg/Laurel"
+  },
+  {
+    "iata": "HBK",
+    "airport": "Municipal",
+    "city": "Holbrook",
+    "state": "Arizona",
+    "label": "HBK - Municipal - Holbrook"
+  },
+  {
+    "iata": "HBR",
+    "airport": "Hobart Reg. Airport",
+    "city": "Hobart",
+    "state": "Oklahoma",
+    "label": "HBR - Hobart Reg. Airport - Hobart"
+  },
+  {
+    "iata": "HCA",
+    "airport": "McMahon-Wrinkle",
+    "city": "Big Spring",
+    "state": "",
+    "label": "HCA - McMahon-Wrinkle - Big Spring"
+  },
+  {
+    "iata": "HCC",
+    "airport": "Columbia County",
+    "city": "Hudson",
+    "state": "New York",
+    "label": "HCC - Columbia County - Hudson"
+  },
+  {
+    "iata": "HCR",
+    "airport": "Holy Cross Airport",
+    "city": "Holy Cross",
+    "state": "Alaska",
+    "label": "HCR - Holy Cross Airport - Holy Cross"
+  },
+  {
+    "iata": "HCW",
+    "airport": "Municipal",
+    "city": "Cheraw",
+    "state": "South Carolina",
+    "label": "HCW - Municipal - Cheraw"
+  },
+  {
+    "iata": "HDE",
+    "airport": "Brewster Field",
+    "city": "Holdrege",
+    "state": "Nebraska",
+    "label": "HDE - Brewster Field - Holdrege"
+  },
+  {
+    "iata": "HDH",
+    "airport": "Dillingham",
+    "city": "Mokuleia",
+    "state": "Hawaii",
+    "label": "HDH - Dillingham - Mokuleia"
+  },
+  {
+    "iata": "HDN",
+    "airport": "Yampa Valley",
+    "city": "Hayden",
+    "state": "Colorado",
+    "label": "HDN - Yampa Valley - Hayden"
+  },
+  {
+    "iata": "HED",
+    "airport": "Herendeen Bay Airport",
+    "city": "Herendeen Bay",
+    "state": "",
+    "label": "HED - Herendeen Bay Airport - Herendeen Bay"
+  },
+  {
+    "iata": "HEE",
+    "airport": "Thompson-Robbins",
+    "city": "Helena-West Helena",
+    "state": "Arkansas",
+    "label": "HEE - Thompson-Robbins - Helena-West Helena"
+  },
+  {
+    "iata": "HES",
+    "airport": "Municipal",
+    "city": "Hermiston",
+    "state": "Oregon",
+    "label": "HES - Municipal - Hermiston"
+  },
+  {
+    "iata": "HEZ",
+    "airport": "Adams County",
+    "city": "Natchez",
+    "state": "Mississippi",
+    "label": "HEZ - Adams County - Natchez"
+  },
+  {
+    "iata": "HFD",
+    "airport": "Brainard",
+    "city": "Hartford",
+    "state": "Connecticut",
+    "label": "HFD - Brainard - Hartford"
+  },
+  {
+    "iata": "HFF",
+    "airport": "Mackall AAF",
+    "city": "Camp Mackall",
+    "state": "North Carolina",
+    "label": "HFF - Mackall AAF - Camp Mackall"
+  },
+  {
+    "iata": "HGR",
+    "airport": "Hagerstown Reg. Airport",
+    "city": "Hagerstown",
+    "state": "Pennsylvania",
+    "label": "HGR - Hagerstown Reg. Airport - Hagerstown"
+  },
+  {
+    "iata": "HGZ",
+    "airport": "Hog River",
+    "city": "Hogatza",
+    "state": "",
+    "label": "HGZ - Hog River - Hogatza"
+  },
+  {
+    "iata": "HHH",
+    "airport": "Hilton Head",
+    "city": "Hilton Head Island",
+    "state": "South Carolina",
+    "label": "HHH - Hilton Head - Hilton Head Island"
+  },
+  {
+    "iata": "HHI",
+    "airport": "Wheeler AAF",
+    "city": "Wahiawa",
+    "state": "Hawaii",
+    "label": "HHI - Wheeler AAF - Wahiawa"
+  },
+  {
+    "iata": "HHR",
+    "airport": "Municipal",
+    "city": "Hawthorne",
+    "state": "California",
+    "label": "HHR - Municipal - Hawthorne"
+  },
+  {
+    "iata": "HIB",
+    "airport": "Range Regional",
+    "city": "Hibbing/Chisholm",
+    "state": "Minnesota",
+    "label": "HIB - Range Regional - Hibbing/Chisholm"
+  },
+  {
+    "iata": "HIE",
+    "airport": "Mount Washington Rgnl",
+    "city": "Whitefield",
+    "state": "New Hampshire",
+    "label": "HIE - Mount Washington Rgnl - Whitefield"
+  },
+  {
+    "iata": "HIF",
+    "airport": "Hill AFB",
+    "city": "Ogden",
+    "state": "Utah",
+    "label": "HIF - Hill AFB - Ogden"
+  },
+  {
+    "iata": "HII",
+    "airport": "Lake Havasu City Airport",
+    "city": "Lake Havasu City",
+    "state": "Arizona",
+    "label": "HII - Lake Havasu City Airport - Lake Havasu City"
+  },
+  {
+    "iata": "HIO",
+    "airport": "Hillsboro",
+    "city": "Portland",
+    "state": "Oregon",
+    "label": "HIO - Hillsboro - Portland"
+  },
+  {
+    "iata": "HKA",
+    "airport": "Municipal",
+    "city": "Blytheville",
+    "state": "Arkansas",
+    "label": "HKA - Municipal - Blytheville"
+  },
+  {
+    "iata": "HKS",
+    "airport": "Hawkins Field",
+    "city": "Jackson",
+    "state": "Mississippi",
+    "label": "HKS - Hawkins Field - Jackson"
+  },
+  {
+    "iata": "HKY",
+    "airport": "Hickory Reg. Airport",
+    "city": "Hickory",
+    "state": "North Carolina",
+    "label": "HKY - Hickory Reg. Airport - Hickory"
+  },
+  {
+    "iata": "HLC",
+    "airport": "Municipal",
+    "city": "Hill City",
+    "state": "Kansas",
+    "label": "HLC - Municipal - Hill City"
+  },
+  {
+    "iata": "HLG",
+    "airport": "Ohio County",
+    "city": "Wheeling",
+    "state": "Ohio",
+    "label": "HLG - Ohio County - Wheeling"
+  },
+  {
+    "iata": "HLI",
+    "airport": "Municipal",
+    "city": "Hollister",
+    "state": "California",
+    "label": "HLI - Municipal - Hollister"
+  },
+  {
+    "iata": "HLM",
+    "airport": "Park Township",
+    "city": "Holland",
+    "state": "",
+    "label": "HLM - Park Township - Holland"
+  },
+  {
+    "iata": "HLN",
+    "airport": "Helena Reg. Airport",
+    "city": "Helena",
+    "state": "Montana",
+    "label": "HLN - Helena Reg. Airport - Helena"
+  },
+  {
+    "iata": "HLR",
+    "airport": "Hood AAF",
+    "city": "Killeen/Fort Hood",
+    "state": "Texas",
+    "label": "HLR - Hood AAF - Killeen/Fort Hood"
+  },
+  {
+    "iata": "HMN",
+    "airport": "Holloman AFB",
+    "city": "Alamogordo",
+    "state": "New Mexico",
+    "label": "HMN - Holloman AFB - Alamogordo"
+  },
+  {
+    "iata": "HMT",
+    "airport": "Ryan",
+    "city": "Hemet",
+    "state": "California",
+    "label": "HMT - Ryan - Hemet"
+  },
+  {
+    "iata": "HNC",
+    "airport": "Billy Mitchell",
+    "city": "Hatteras",
+    "state": "North Carolina",
+    "label": "HNC - Billy Mitchell - Hatteras"
+  },
+  {
+    "iata": "HNH",
+    "airport": "Hoonah Airport",
+    "city": "Hoonah",
+    "state": "Alaska",
+    "label": "HNH - Hoonah Airport - Hoonah"
+  },
+  {
+    "iata": "HNL",
+    "airport": "Daniel K. Inouye Intl",
+    "city": "Honolulu",
+    "state": "Hawaii",
+    "label": "HNL - Daniel K. Inouye Intl - Honolulu"
+  },
+  {
+    "iata": "HNM",
+    "airport": "Hana Airport",
+    "city": "Hana",
+    "state": "Hawaii",
+    "label": "HNM - Hana Airport - Hana"
+  },
+  {
+    "iata": "HNS",
+    "airport": "Haines Airport",
+    "city": "Haines",
+    "state": "Alaska",
+    "label": "HNS - Haines Airport - Haines"
+  },
+  {
+    "iata": "HOB",
+    "airport": "Lea County Regional",
+    "city": "Hobbs",
+    "state": "New Mexico",
+    "label": "HOB - Lea County Regional - Hobbs"
+  },
+  {
+    "iata": "HOM",
+    "airport": "Homer Airport",
+    "city": "Homer",
+    "state": "Alaska",
+    "label": "HOM - Homer Airport - Homer"
+  },
+  {
+    "iata": "HON",
+    "airport": "Hon Airport",
+    "city": "Hon",
+    "state": "South Dakota",
+    "label": "HON - Hon Airport - Hon"
+  },
+  {
+    "iata": "HOP",
+    "airport": "Campbell AAF",
+    "city": "Hopkinsville",
+    "state": "Kentucky",
+    "label": "HOP - Campbell AAF - Hopkinsville"
+  },
+  {
+    "iata": "HOT",
+    "airport": "Memorial Field",
+    "city": "Hot Springs",
+    "state": "Arkansas",
+    "label": "HOT - Memorial Field - Hot Springs"
+  },
+  {
+    "iata": "HOU",
+    "airport": "William P. Hobby",
+    "city": "Houston",
+    "state": "Texas",
+    "label": "HOU - William P. Hobby - Houston"
+  },
+  {
+    "iata": "HPB",
+    "airport": "Hooper Bay Airport",
+    "city": "Hooper Bay",
+    "state": "Alaska",
+    "label": "HPB - Hooper Bay Airport - Hooper Bay"
+  },
+  {
+    "iata": "HPN",
+    "airport": "Westchester County",
+    "city": "White Plains",
+    "state": "New York",
+    "label": "HPN - Westchester County - White Plains"
+  },
+  {
+    "iata": "HPT",
+    "airport": "Municipal",
+    "city": "Hampton",
+    "state": "Iowa",
+    "label": "HPT - Municipal - Hampton"
+  },
+  {
+    "iata": "HPV",
+    "airport": "Princeville",
+    "city": "Hanalei",
+    "state": "Hawaii",
+    "label": "HPV - Princeville - Hanalei"
+  },
+  {
+    "iata": "HPY",
+    "airport": "Baytown Airport",
+    "city": "Baytown",
+    "state": "Texas",
+    "label": "HPY - Baytown Airport - Baytown"
+  },
+  {
+    "iata": "HQM",
+    "airport": "Bowerman",
+    "city": "Hoquiam/Aberdeen",
+    "state": "Washington",
+    "label": "HQM - Bowerman - Hoquiam/Aberdeen"
+  },
+  {
+    "iata": "HRL",
+    "airport": "Valley International",
+    "city": "Harlingen",
+    "state": "Texas",
+    "label": "HRL - Valley International - Harlingen"
+  },
+  {
+    "iata": "HRO",
+    "airport": "Boone County",
+    "city": "Harrison",
+    "state": "Arkansas",
+    "label": "HRO - Boone County - Harrison"
+  },
+  {
+    "iata": "HSB",
+    "airport": "Raleigh",
+    "city": "Harrisburg",
+    "state": "Illinois",
+    "label": "HSB - Raleigh - Harrisburg"
+  },
+  {
+    "iata": "HSH",
+    "airport": "Henderson Executive",
+    "city": "Las Vegas",
+    "state": "Nevada",
+    "label": "HSH - Henderson Executive - Las Vegas"
+  },
+  {
+    "iata": "HSI",
+    "airport": "Municipal",
+    "city": "Hastings",
+    "state": "Nebraska",
+    "label": "HSI - Municipal - Hastings"
+  },
+  {
+    "iata": "HSL",
+    "airport": "Huslia Airport",
+    "city": "Huslia",
+    "state": "Alaska",
+    "label": "HSL - Huslia Airport - Huslia"
+  },
+  {
+    "iata": "HSP",
+    "airport": "Ingalls Field",
+    "city": "Hot Springs",
+    "state": "Virginia",
+    "label": "HSP - Ingalls Field - Hot Springs"
+  },
+  {
+    "iata": "HST",
+    "airport": "ARB",
+    "city": "Homestead",
+    "state": "Florida",
+    "label": "HST - ARB - Homestead"
+  },
+  {
+    "iata": "HSV",
+    "airport": "Intl-Carl T.Jones Fld",
+    "city": "Huntsville",
+    "state": "Alabama",
+    "label": "HSV - Intl-Carl T.Jones Fld - Huntsville"
+  },
+  {
+    "iata": "HTH",
+    "airport": "Industrial",
+    "city": "Hawthorne",
+    "state": "Nevada",
+    "label": "HTH - Industrial - Hawthorne"
+  },
+  {
+    "iata": "HTL",
+    "airport": "Roscommon County",
+    "city": "Houghton Lake",
+    "state": "Michigan",
+    "label": "HTL - Roscommon County - Houghton Lake"
+  },
+  {
+    "iata": "HTO",
+    "airport": "East Hampton Airport",
+    "city": "East Hampton",
+    "state": "New York",
+    "label": "HTO - East Hampton Airport - East Hampton"
+  },
+  {
+    "iata": "HTS",
+    "airport": "Tri-State",
+    "city": "Huntington",
+    "state": "West Virginia",
+    "label": "HTS - Tri-State - Huntington"
+  },
+  {
+    "iata": "HTV",
+    "airport": "Bruce Brothers Rgnl",
+    "city": "Huntsville",
+    "state": "Texas",
+    "label": "HTV - Bruce Brothers Rgnl - Huntsville"
+  },
+  {
+    "iata": "HTW",
+    "airport": "Lawrence Co. Airpark",
+    "city": "Chesapeake",
+    "state": "",
+    "label": "HTW - Lawrence Co. Airpark - Chesapeake"
+  },
+  {
+    "iata": "HUA",
+    "airport": "Redstone AAF",
+    "city": "Huntsville",
+    "state": "Alabama",
+    "label": "HUA - Redstone AAF - Huntsville"
+  },
+  {
+    "iata": "HUD",
+    "airport": "Municipal",
+    "city": "Humboldt",
+    "state": "Iowa",
+    "label": "HUD - Municipal - Humboldt"
+  },
+  {
+    "iata": "HUJ",
+    "airport": "Stan Stamper Municipal",
+    "city": "Hugo",
+    "state": "Oklahoma",
+    "label": "HUJ - Stan Stamper Municipal - Hugo"
+  },
+  {
+    "iata": "HUL",
+    "airport": "Houlton Intl.",
+    "city": "Houlton",
+    "state": "Maine",
+    "label": "HUL - Houlton Intl. - Houlton"
+  },
+  {
+    "iata": "HUM",
+    "airport": "Terrebonne",
+    "city": "Houma",
+    "state": "Louisiana",
+    "label": "HUM - Terrebonne - Houma"
+  },
+  {
+    "iata": "HUS",
+    "airport": "Hughes Airport",
+    "city": "Hughes",
+    "state": "Alaska",
+    "label": "HUS - Hughes Airport - Hughes"
+  },
+  {
+    "iata": "HUT",
+    "airport": "Municipal",
+    "city": "Hutchinson",
+    "state": "Kansas",
+    "label": "HUT - Municipal - Hutchinson"
+  },
+  {
+    "iata": "HVE",
+    "airport": "Hanksville Airport",
+    "city": "Hanksville",
+    "state": "Utah",
+    "label": "HVE - Hanksville Airport - Hanksville"
+  },
+  {
+    "iata": "HVN",
+    "airport": "Tweed",
+    "city": "New Haven",
+    "state": "Connecticut",
+    "label": "HVN - Tweed - New Haven"
+  },
+  {
+    "iata": "HVR",
+    "airport": "City-County",
+    "city": "Havre",
+    "state": "Montana",
+    "label": "HVR - City-County - Havre"
+  },
+  {
+    "iata": "HVS",
+    "airport": "Hartsville Reg. Airport",
+    "city": "Hartsville",
+    "state": "South Carolina",
+    "label": "HVS - Hartsville Reg. Airport - Hartsville"
+  },
+  {
+    "iata": "HWD",
+    "airport": "Executive",
+    "city": "Hayward",
+    "state": "California",
+    "label": "HWD - Executive - Hayward"
+  },
+  {
+    "iata": "HWO",
+    "airport": "North Perry",
+    "city": "Hollywood",
+    "state": "Florida",
+    "label": "HWO - North Perry - Hollywood"
+  },
+  {
+    "iata": "HYA",
+    "airport": "Barnstable Municipal",
+    "city": "Hyannis",
+    "state": "Massachusetts",
+    "label": "HYA - Barnstable Municipal - Hyannis"
+  },
+  {
+    "iata": "HYG",
+    "airport": "Sea Plane Base",
+    "city": "Hydaburg",
+    "state": "Alaska",
+    "label": "HYG - Sea Plane Base - Hydaburg"
+  },
+  {
+    "iata": "HYL",
+    "airport": "Clark Bay SPB",
+    "city": "Hollis",
+    "state": "Alaska",
+    "label": "HYL - Clark Bay SPB - Hollis"
+  },
+  {
+    "iata": "HYR",
+    "airport": "Sawyer County",
+    "city": "Hayward",
+    "state": "Wisconsin",
+    "label": "HYR - Sawyer County - Hayward"
+  },
+  {
+    "iata": "HYS",
+    "airport": "Hays Reg. Airport",
+    "city": "Hays",
+    "state": "Kansas",
+    "label": "HYS - Hays Reg. Airport - Hays"
+  },
+  {
+    "iata": "HZL",
+    "airport": "Hazleton Reg. Airport",
+    "city": "Hazleton",
+    "state": "Pennsylvania",
+    "label": "HZL - Hazleton Reg. Airport - Hazleton"
+  },
+  {
+    "iata": "IAB",
+    "airport": "McConnell AFB",
+    "city": "Wichita",
+    "state": "",
+    "label": "IAB - McConnell AFB - Wichita"
+  },
+  {
+    "iata": "IAD",
+    "airport": "Dulles Intl",
+    "city": "Washington",
+    "state": "Virginia",
+    "label": "IAD - Dulles Intl - Washington"
+  },
+  {
+    "iata": "IAG",
+    "airport": "Niagara Falls Intl.",
+    "city": "Niagara Falls",
+    "state": "New York",
+    "label": "IAG - Niagara Falls Intl. - Niagara Falls"
+  },
+  {
+    "iata": "IAH",
+    "airport": "George Bush Intercont.",
+    "city": "Houston",
+    "state": "Texas",
+    "label": "IAH - George Bush Intercont. - Houston"
+  },
+  {
+    "iata": "IAN",
+    "airport": "Bob Baker Memorial",
+    "city": "Kiana",
+    "state": "Alaska",
+    "label": "IAN - Bob Baker Memorial - Kiana"
+  },
+  {
+    "iata": "ICL",
+    "airport": "Schenck Field",
+    "city": "Clarinda",
+    "state": "Iowa",
+    "label": "ICL - Schenck Field - Clarinda"
+  },
+  {
+    "iata": "ICS",
+    "airport": "Cascade Airport",
+    "city": "Cascade",
+    "state": "Idaho",
+    "label": "ICS - Cascade Airport - Cascade"
+  },
+  {
+    "iata": "ICT",
+    "airport": "Dwight D. Eisenhower",
+    "city": "Wichita",
+    "state": "Kansas",
+    "label": "ICT - Dwight D. Eisenhower - Wichita"
+  },
+  {
+    "iata": "ICY",
+    "airport": "Icy Bay Airport",
+    "city": "Icy Bay",
+    "state": "",
+    "label": "ICY - Icy Bay Airport - Icy Bay"
+  },
+  {
+    "iata": "IDA",
+    "airport": "Idaho Falls Reg. Airport",
+    "city": "Idaho Falls",
+    "state": "Idaho",
+    "label": "IDA - Idaho Falls Reg. Airport - Idaho Falls"
+  },
+  {
+    "iata": "IDG",
+    "airport": "Municipal",
+    "city": "Ida Grove",
+    "state": "",
+    "label": "IDG - Municipal - Ida Grove"
+  },
+  {
+    "iata": "IDH",
+    "airport": "Idaho County",
+    "city": "Grangeville",
+    "state": "Idaho",
+    "label": "IDH - Idaho County - Grangeville"
+  },
+  {
+    "iata": "IDI",
+    "airport": "Indiana County",
+    "city": "Indiana",
+    "state": "Pennsylvania",
+    "label": "IDI - Indiana County - Indiana"
+  },
+  {
+    "iata": "IDP",
+    "airport": "Municipal",
+    "city": "Independence",
+    "state": "Kansas",
+    "label": "IDP - Municipal - Independence"
+  },
+  {
+    "iata": "IFA",
+    "airport": "Municipal",
+    "city": "Iowa Falls",
+    "state": "Iowa",
+    "label": "IFA - Municipal - Iowa Falls"
+  },
+  {
+    "iata": "IFP",
+    "airport": "Laughlin/Bullhead Intl",
+    "city": "Bullhead City",
+    "state": "Nevada",
+    "label": "IFP - Laughlin/Bullhead Intl - Bullhead City"
+  },
+  {
+    "iata": "IGG",
+    "airport": "Igiugig Airport",
+    "city": "Igiugig",
+    "state": "Alaska",
+    "label": "IGG - Igiugig Airport - Igiugig"
+  },
+  {
+    "iata": "IGM",
+    "airport": "Kingman Airport",
+    "city": "Kingman",
+    "state": "Arizona",
+    "label": "IGM - Kingman Airport - Kingman"
+  },
+  {
+    "iata": "IJX",
+    "airport": "Municipal",
+    "city": "Jacksonville",
+    "state": "",
+    "label": "IJX - Municipal - Jacksonville"
+  },
+  {
+    "iata": "IKB",
+    "airport": "Wilkes County",
+    "city": "Wilkesboro",
+    "state": "North Carolina",
+    "label": "IKB - Wilkes County - Wilkesboro"
+  },
+  {
+    "iata": "IKK",
+    "airport": "Greater Kankakee",
+    "city": "Kankakee",
+    "state": "Illinois",
+    "label": "IKK - Greater Kankakee - Kankakee"
+  },
+  {
+    "iata": "IKO",
+    "airport": "Air Station",
+    "city": "Nikolski",
+    "state": "Alaska",
+    "label": "IKO - Air Station - Nikolski"
+  },
+  {
+    "iata": "ILE",
+    "airport": "Skylark Field",
+    "city": "Killeen/Fort Hood",
+    "state": "Texas",
+    "label": "ILE - Skylark Field - Killeen/Fort Hood"
+  },
+  {
+    "iata": "ILG",
+    "airport": "New Castle",
+    "city": "Wilmington",
+    "state": "Delaware",
+    "label": "ILG - New Castle - Wilmington"
+  },
+  {
+    "iata": "ILI",
+    "airport": "Iliamna Airport",
+    "city": "Iliamna",
+    "state": "Alaska",
+    "label": "ILI - Iliamna Airport - Iliamna"
+  },
+  {
+    "iata": "ILL",
+    "airport": "Municipal",
+    "city": "Willmar",
+    "state": "Minnesota",
+    "label": "ILL - Municipal - Willmar"
+  },
+  {
+    "iata": "ILM",
+    "airport": "Wilmington Intl.",
+    "city": "Wilmington",
+    "state": "North Carolina",
+    "label": "ILM - Wilmington Intl. - Wilmington"
+  },
+  {
+    "iata": "ILN",
+    "airport": "Air Park",
+    "city": "Wilmington",
+    "state": "Ohio",
+    "label": "ILN - Air Park - Wilmington"
+  },
+  {
+    "iata": "IML",
+    "airport": "Municipal",
+    "city": "Imperial",
+    "state": "Nebraska",
+    "label": "IML - Municipal - Imperial"
+  },
+  {
+    "iata": "IMM",
+    "airport": "Immokalee Reg. Airport",
+    "city": "Immokalee",
+    "state": "Florida",
+    "label": "IMM - Immokalee Reg. Airport - Immokalee"
+  },
+  {
+    "iata": "IMT",
+    "airport": "Ford",
+    "city": "Iron Mountain/Kingsfd.",
+    "state": "Michigan",
+    "label": "IMT - Ford - Iron Mountain/Kingsfd."
+  },
+  {
+    "iata": "INK",
+    "airport": "Winkler County",
+    "city": "Wink",
+    "state": "Texas",
+    "label": "INK - Winkler County - Wink"
+  },
+  {
+    "iata": "INL",
+    "airport": "Falls International",
+    "city": "International Falls",
+    "state": "Ontario",
+    "label": "INL - Falls International - International Falls"
+  },
+  {
+    "iata": "INS",
+    "airport": "Creech AFB",
+    "city": "Indian Springs",
+    "state": "",
+    "label": "INS - Creech AFB - Indian Springs"
+  },
+  {
+    "iata": "INT",
+    "airport": "Smith Reynolds",
+    "city": "Winston-Salem",
+    "state": "North Carolina",
+    "label": "INT - Smith Reynolds - Winston-Salem"
+  },
+  {
+    "iata": "INW",
+    "airport": "Lindbergh Regional",
+    "city": "Winslow",
+    "state": "Arizona",
+    "label": "INW - Lindbergh Regional - Winslow"
+  },
+  {
+    "iata": "IOW",
+    "airport": "Municipal",
+    "city": "Iowa City",
+    "state": "Iowa",
+    "label": "IOW - Municipal - Iowa City"
+  },
+  {
+    "iata": "IPL",
+    "airport": "Imperial County",
+    "city": "Imperial/El Centro",
+    "state": "California",
+    "label": "IPL - Imperial County - Imperial/El Centro"
+  },
+  {
+    "iata": "IPT",
+    "airport": "Williamsport Reg. Airport",
+    "city": "Williamsport",
+    "state": "Pennsylvania",
+    "label": "IPT - Williamsport Reg. Airport - Williamsport"
+  },
+  {
+    "iata": "IRC",
+    "airport": "Circle City",
+    "city": "Circle",
+    "state": "Alaska",
+    "label": "IRC - Circle City - Circle"
+  },
+  {
+    "iata": "IRK",
+    "airport": "Kirksville Reg. Airport",
+    "city": "Kirksville",
+    "state": "Missouri",
+    "label": "IRK - Kirksville Reg. Airport - Kirksville"
+  },
+  {
+    "iata": "IRS",
+    "airport": "Kirsch Municipal",
+    "city": "Sturgis",
+    "state": "Michigan",
+    "label": "IRS - Kirsch Municipal - Sturgis"
+  },
+  {
+    "iata": "ISM",
+    "airport": "Kissimmee Gateway",
+    "city": "Orlando",
+    "state": "Florida",
+    "label": "ISM - Kissimmee Gateway - Orlando"
+  },
+  {
+    "iata": "ISN",
+    "airport": "Sloulin Field Intl",
+    "city": "Williston",
+    "state": "North Dakota",
+    "label": "ISN - Sloulin Field Intl - Williston"
+  },
+  {
+    "iata": "ISO",
+    "airport": "Regional Jetport",
+    "city": "Kinston",
+    "state": "North Carolina",
+    "label": "ISO - Regional Jetport - Kinston"
+  },
+  {
+    "iata": "ISP",
+    "airport": "Long Island MacArthur",
+    "city": "Islip",
+    "state": "New York",
+    "label": "ISP - Long Island MacArthur - Islip"
+  },
+  {
+    "iata": "ISQ",
+    "airport": "Schoolcraft County",
+    "city": "Manistique",
+    "state": "Michigan",
+    "label": "ISQ - Schoolcraft County - Manistique"
+  },
+  {
+    "iata": "ISS",
+    "airport": "Wiscasset Airport",
+    "city": "Wiscasset",
+    "state": "Maine",
+    "label": "ISS - Wiscasset Airport - Wiscasset"
+  },
+  {
+    "iata": "ISW",
+    "airport": "South Wood County",
+    "city": "Wisconsin Rapids",
+    "state": "Wisconsin",
+    "label": "ISW - South Wood County - Wisconsin Rapids"
+  },
+  {
+    "iata": "ITH",
+    "airport": "Tompkins Regional",
+    "city": "Ithaca",
+    "state": "New York",
+    "label": "ITH - Tompkins Regional - Ithaca"
+  },
+  {
+    "iata": "ITO",
+    "airport": "Hilo Intl.",
+    "city": "Hilo",
+    "state": "Hawaii",
+    "label": "ITO - Hilo Intl. - Hilo"
+  },
+  {
+    "iata": "IWD",
+    "airport": "Gogebic-Iron County",
+    "city": "Ironwood",
+    "state": "Michigan",
+    "label": "IWD - Gogebic-Iron County - Ironwood"
+  },
+  {
+    "iata": "IWS",
+    "airport": "West Houston",
+    "city": "Houston",
+    "state": "Texas",
+    "label": "IWS - West Houston - Houston"
+  },
+  {
+    "iata": "IYK",
+    "airport": "Inyokern Airport",
+    "city": "Inyokern",
+    "state": "California",
+    "label": "IYK - Inyokern Airport - Inyokern"
+  },
+  {
+    "iata": "JAC",
+    "airport": "Jackson Hole",
+    "city": "Jackson",
+    "state": "Wyoming",
+    "label": "JAC - Jackson Hole - Jackson"
+  },
+  {
+    "iata": "JAN",
+    "airport": "Medgar W. Evers Intl",
+    "city": "Jackson",
+    "state": "Mississippi",
+    "label": "JAN - Medgar W. Evers Intl - Jackson"
+  },
+  {
+    "iata": "JAS",
+    "airport": "Jasper County-Bell Fld",
+    "city": "Jasper",
+    "state": "Texas",
+    "label": "JAS - Jasper County-Bell Fld - Jasper"
+  },
+  {
+    "iata": "JAX",
+    "airport": "Jacksonville Intl.",
+    "city": "Jacksonville",
+    "state": "Florida",
+    "label": "JAX - Jacksonville Intl. - Jacksonville"
+  },
+  {
+    "iata": "JBR",
+    "airport": "Municipal",
+    "city": "Jonesboro",
+    "state": "Arkansas",
+    "label": "JBR - Municipal - Jonesboro"
+  },
+  {
+    "iata": "JBS",
+    "airport": "Joao Manoel",
+    "city": "Sao Borja",
+    "state": "California",
+    "label": "JBS - Joao Manoel - Sao Borja"
+  },
+  {
+    "iata": "JBT",
+    "airport": "Sea Plane Base",
+    "city": "Bethel",
+    "state": "",
+    "label": "JBT - Sea Plane Base - Bethel"
+  },
+  {
+    "iata": "JCI",
+    "airport": "New Century Aircenter",
+    "city": "Kansas City",
+    "state": "Kansas",
+    "label": "JCI - New Century Aircenter - Kansas City"
+  },
+  {
+    "iata": "JCT",
+    "airport": "Kimble County",
+    "city": "Junction",
+    "state": "Texas",
+    "label": "JCT - Kimble County - Junction"
+  },
+  {
+    "iata": "JCY",
+    "airport": "LBJ Ranch",
+    "city": "Johnson City",
+    "state": "Texas",
+    "label": "JCY - LBJ Ranch - Johnson City"
+  },
+  {
+    "iata": "JDA",
+    "airport": "Grant County Regional",
+    "city": "John Day",
+    "state": "Oregon",
+    "label": "JDA - Grant County Regional - John Day"
+  },
+  {
+    "iata": "JDN",
+    "airport": "Jordan Airport",
+    "city": "Jordan",
+    "state": "Montana",
+    "label": "JDN - Jordan Airport - Jordan"
+  },
+  {
+    "iata": "JEF",
+    "airport": "Memorial",
+    "city": "Jefferson City",
+    "state": "Missouri",
+    "label": "JEF - Memorial - Jefferson City"
+  },
+  {
+    "iata": "JFK",
+    "airport": "John F Kennedy Intl",
+    "city": "New York",
+    "state": "New York",
+    "label": "JFK - John F Kennedy Intl - New York"
+  },
+  {
+    "iata": "JFN",
+    "airport": "Northeast Ohio Rgnl",
+    "city": "Ashtabula",
+    "state": "Ohio",
+    "label": "JFN - Northeast Ohio Rgnl - Ashtabula"
+  },
+  {
+    "iata": "JHM",
+    "airport": "Kapalua Airport",
+    "city": "Kapalua",
+    "state": "Hawaii",
+    "label": "JHM - Kapalua Airport - Kapalua"
+  },
+  {
+    "iata": "JHW",
+    "airport": "Chautaqua County",
+    "city": "Jamestown",
+    "state": "New York",
+    "label": "JHW - Chautaqua County - Jamestown"
+  },
+  {
+    "iata": "JKV",
+    "airport": "Cherokee County",
+    "city": "Jacksonville",
+    "state": "Texas",
+    "label": "JKV - Cherokee County - Jacksonville"
+  },
+  {
+    "iata": "JLA",
+    "airport": "Quartz Creek",
+    "city": "Cooper Landing",
+    "state": "",
+    "label": "JLA - Quartz Creek - Cooper Landing"
+  },
+  {
+    "iata": "JLN",
+    "airport": "Joplin Reg. Airport",
+    "city": "Joplin",
+    "state": "Missouri",
+    "label": "JLN - Joplin Reg. Airport - Joplin"
+  },
+  {
+    "iata": "JMS",
+    "airport": "Jamestown Reg. Airport",
+    "city": "Jamestown",
+    "state": "North Dakota",
+    "label": "JMS - Jamestown Reg. Airport - Jamestown"
+  },
+  {
+    "iata": "JNU",
+    "airport": "Juneau Intl.",
+    "city": "Juneau",
+    "state": "Alaska",
+    "label": "JNU - Juneau Intl. - Juneau"
+  },
+  {
+    "iata": "JOT",
+    "airport": "Joliet Reg. Airport",
+    "city": "Joliet",
+    "state": "Illinois",
+    "label": "JOT - Joliet Reg. Airport - Joliet"
+  },
+  {
+    "iata": "JRB",
+    "airport": "NAS JRB",
+    "city": "Fort Worth",
+    "state": "New York",
+    "label": "JRB - NAS JRB - Fort Worth"
+  },
+  {
+    "iata": "JRF",
+    "airport": "Kalaeloa",
+    "city": "Kapolei",
+    "state": "",
+    "label": "JRF - Kalaeloa - Kapolei"
+  },
+  {
+    "iata": "JSK",
+    "airport": "Jask Airport",
+    "city": "Jask",
+    "state": "",
+    "label": "JSK - Jask Airport - Jask"
+  },
+  {
+    "iata": "JST",
+    "airport": "John Murtha-Cambria Co",
+    "city": "Johnstown",
+    "state": "Pennsylvania",
+    "label": "JST - John Murtha-Cambria Co - Johnstown"
+  },
+  {
+    "iata": "JVI",
+    "airport": "Central Jersey Rgnl",
+    "city": "Manville",
+    "state": "",
+    "label": "JVI - Central Jersey Rgnl - Manville"
+  },
+  {
+    "iata": "JVL",
+    "airport": "Southern Wisconsin Rgn",
+    "city": "Janesville",
+    "state": "Wisconsin",
+    "label": "JVL - Southern Wisconsin Rgn - Janesville"
+  },
+  {
+    "iata": "JXN",
+    "airport": "Jackson County",
+    "city": "Jackson",
+    "state": "Michigan",
+    "label": "JXN - Jackson County - Jackson"
+  },
+  {
+    "iata": "KAE",
+    "airport": "Sea Plane Base",
+    "city": "Kake",
+    "state": "",
+    "label": "KAE - Sea Plane Base - Kake"
+  },
+  {
+    "iata": "KAL",
+    "airport": "Kaltag Airport",
+    "city": "Kaltag",
+    "state": "Alaska",
+    "label": "KAL - Kaltag Airport - Kaltag"
+  },
+  {
+    "iata": "KBC",
+    "airport": "Birch Creek Airport",
+    "city": "Birch Creek",
+    "state": "Alaska",
+    "label": "KBC - Birch Creek Airport - Birch Creek"
+  },
+  {
+    "iata": "KBE",
+    "airport": "Hot Springs SPB",
+    "city": "Bell Island",
+    "state": "",
+    "label": "KBE - Hot Springs SPB - Bell Island"
+  },
+  {
+    "iata": "KBW",
+    "airport": "Chignik Bay SPB",
+    "city": "Chignik",
+    "state": "",
+    "label": "KBW - Chignik Bay SPB - Chignik"
+  },
+  {
+    "iata": "KCC",
+    "airport": "Sea Plane Base",
+    "city": "Coffman Cove",
+    "state": "Alaska",
+    "label": "KCC - Sea Plane Base - Coffman Cove"
+  },
+  {
+    "iata": "KCL",
+    "airport": "Chignik Lagoon",
+    "city": "Chignik",
+    "state": "Alaska",
+    "label": "KCL - Chignik Lagoon - Chignik"
+  },
+  {
+    "iata": "KCN",
+    "airport": "Sea Plane Base",
+    "city": "Chernofski Harbor",
+    "state": "",
+    "label": "KCN - Sea Plane Base - Chernofski Harbor"
+  },
+  {
+    "iata": "KCQ",
+    "airport": "Chignik Lake",
+    "city": "Chignik",
+    "state": "Alaska",
+    "label": "KCQ - Chignik Lake - Chignik"
+  },
+  {
+    "iata": "KCR",
+    "airport": "Colorado Creek Airport",
+    "city": "Colorado Creek",
+    "state": "",
+    "label": "KCR - Colorado Creek Airport - Colorado Creek"
+  },
+  {
+    "iata": "KDK",
+    "airport": "Municipal",
+    "city": "Kodiak",
+    "state": "",
+    "label": "KDK - Municipal - Kodiak"
+  },
+  {
+    "iata": "KEB",
+    "airport": "Nanwalek Airport",
+    "city": "Nanwalek",
+    "state": "Alaska",
+    "label": "KEB - Nanwalek Airport - Nanwalek"
+  },
+  {
+    "iata": "KEH",
+    "airport": "Kenmore Air Harbor SPB",
+    "city": "Kenmore",
+    "state": "Washington",
+    "label": "KEH - Kenmore Air Harbor SPB - Kenmore"
+  },
+  {
+    "iata": "KEK",
+    "airport": "Ekwok Airport",
+    "city": "Ekwok",
+    "state": "Alaska",
+    "label": "KEK - Ekwok Airport - Ekwok"
+  },
+  {
+    "iata": "KFP",
+    "airport": "False Pass Airport",
+    "city": "False Pass",
+    "state": "Alaska",
+    "label": "KFP - False Pass Airport - False Pass"
+  },
+  {
+    "iata": "KGK",
+    "airport": "Koliganek Airport",
+    "city": "Koliganek",
+    "state": "Alaska",
+    "label": "KGK - Koliganek Airport - Koliganek"
+  },
+  {
+    "iata": "KGX",
+    "airport": "Grayling Airport",
+    "city": "Grayling",
+    "state": "Alaska",
+    "label": "KGX - Grayling Airport - Grayling"
+  },
+  {
+    "iata": "KGZ",
+    "airport": "Glacier Creek Airport",
+    "city": "Glacier Creek",
+    "state": "",
+    "label": "KGZ - Glacier Creek Airport - Glacier Creek"
+  },
+  {
+    "iata": "KIB",
+    "airport": "Sea Plane Base",
+    "city": "Ivanof Bay",
+    "state": "",
+    "label": "KIB - Sea Plane Base - Ivanof Bay"
+  },
+  {
+    "iata": "KIC",
+    "airport": "Mesa Del Rey",
+    "city": "King City",
+    "state": "California",
+    "label": "KIC - Mesa Del Rey - King City"
+  },
+  {
+    "iata": "KIP",
+    "airport": "Kickapoo Downtown Apt",
+    "city": "Wichita Falls",
+    "state": "",
+    "label": "KIP - Kickapoo Downtown Apt - Wichita Falls"
+  },
+  {
+    "iata": "KKA",
+    "airport": "Alfred Adams",
+    "city": "Koyuk",
+    "state": "Alaska",
+    "label": "KKA - Alfred Adams - Koyuk"
+  },
+  {
+    "iata": "KKB",
+    "airport": "Sea Plane Base",
+    "city": "Kitoi Bay",
+    "state": "Alaska",
+    "label": "KKB - Sea Plane Base - Kitoi Bay"
+  },
+  {
+    "iata": "KKH",
+    "airport": "Kongiganak Airport",
+    "city": "Kongiganak",
+    "state": "Alaska",
+    "label": "KKH - Kongiganak Airport - Kongiganak"
+  },
+  {
+    "iata": "KKI",
+    "airport": "Akiachak Airport",
+    "city": "Akiachak",
+    "state": "Alaska",
+    "label": "KKI - Akiachak Airport - Akiachak"
+  },
+  {
+    "iata": "KKK",
+    "airport": "Air Station",
+    "city": "Kalakaket Creek",
+    "state": "",
+    "label": "KKK - Air Station - Kalakaket Creek"
+  },
+  {
+    "iata": "KKL",
+    "airport": "Sea Plane Base",
+    "city": "Karluk Lake",
+    "state": "",
+    "label": "KKL - Sea Plane Base - Karluk Lake"
+  },
+  {
+    "iata": "KKT",
+    "airport": "Municipal",
+    "city": "Kentland",
+    "state": "Indiana",
+    "label": "KKT - Municipal - Kentland"
+  },
+  {
+    "iata": "KKU",
+    "airport": "Ekuk Airport",
+    "city": "Ekuk",
+    "state": "Alaska",
+    "label": "KKU - Ekuk Airport - Ekuk"
+  },
+  {
+    "iata": "KLG",
+    "airport": "Kalskag Airport",
+    "city": "Kalskag",
+    "state": "Alaska",
+    "label": "KLG - Kalskag Airport - Kalskag"
+  },
+  {
+    "iata": "KLL",
+    "airport": "Levelock Airport",
+    "city": "Levelock",
+    "state": "Alaska",
+    "label": "KLL - Levelock Airport - Levelock"
+  },
+  {
+    "iata": "KLN",
+    "airport": "Larsen Bay Airport",
+    "city": "Larsen Bay",
+    "state": "Alaska",
+    "label": "KLN - Larsen Bay Airport - Larsen Bay"
+  },
+  {
+    "iata": "KLS",
+    "airport": "SW Washington Regional",
+    "city": "Kelso",
+    "state": "",
+    "label": "KLS - SW Washington Regional - Kelso"
+  },
+  {
+    "iata": "KLW",
+    "airport": "Klawock Airport",
+    "city": "Klawock",
+    "state": "Alaska",
+    "label": "KLW - Klawock Airport - Klawock"
+  },
+  {
+    "iata": "KMO",
+    "airport": "Manokotak Airport",
+    "city": "Manokotak",
+    "state": "Alaska",
+    "label": "KMO - Manokotak Airport - Manokotak"
+  },
+  {
+    "iata": "KNB",
+    "airport": "Municipal",
+    "city": "Kanab",
+    "state": "",
+    "label": "KNB - Municipal - Kanab"
+  },
+  {
+    "iata": "KNK",
+    "airport": "Kokhanok Airport",
+    "city": "Kokhanok",
+    "state": "Alaska",
+    "label": "KNK - Kokhanok Airport - Kokhanok"
+  },
+  {
+    "iata": "KNT",
+    "airport": "Memorial",
+    "city": "Kennett",
+    "state": "Missouri",
+    "label": "KNT - Memorial - Kennett"
+  },
+  {
+    "iata": "KNW",
+    "airport": "New Stuyahok Airport",
+    "city": "New Stuyahok",
+    "state": "Alaska",
+    "label": "KNW - New Stuyahok Airport - New Stuyahok"
+  },
+  {
+    "iata": "KOA",
+    "airport": "Keahole",
+    "city": "Kona",
+    "state": "Hawaii",
+    "label": "KOA - Keahole - Kona"
+  },
+  {
+    "iata": "KOT",
+    "airport": "Kotlik Airport",
+    "city": "Kotlik",
+    "state": "Alaska",
+    "label": "KOT - Kotlik Airport - Kotlik"
+  },
+  {
+    "iata": "KOY",
+    "airport": "Sea Plane Base",
+    "city": "Olga Bay",
+    "state": "Alaska",
+    "label": "KOY - Sea Plane Base - Olga Bay"
+  },
+  {
+    "iata": "KPB",
+    "airport": "Sea Plane Base",
+    "city": "Point Baker",
+    "state": "Alaska",
+    "label": "KPB - Sea Plane Base - Point Baker"
+  },
+  {
+    "iata": "KPC",
+    "airport": "Coast Guard Station",
+    "city": "Port Clarence",
+    "state": "Alaska",
+    "label": "KPC - Coast Guard Station - Port Clarence"
+  },
+  {
+    "iata": "KPN",
+    "airport": "Kipnuk Airport",
+    "city": "Kipnuk",
+    "state": "Alaska",
+    "label": "KPN - Kipnuk Airport - Kipnuk"
+  },
+  {
+    "iata": "KPR",
+    "airport": "Sea Plane Base",
+    "city": "Port Williams",
+    "state": "Alaska",
+    "label": "KPR - Sea Plane Base - Port Williams"
+  },
+  {
+    "iata": "KPT",
+    "airport": "Hayden Field",
+    "city": "Jackpot",
+    "state": "Nevada",
+    "label": "KPT - Hayden Field - Jackpot"
+  },
+  {
+    "iata": "KPV",
+    "airport": "Perryville Airport",
+    "city": "Perryville",
+    "state": "Alaska",
+    "label": "KPV - Perryville Airport - Perryville"
+  },
+  {
+    "iata": "KPY",
+    "airport": "Sea Plane Base",
+    "city": "Port Bailey",
+    "state": "Alaska",
+    "label": "KPY - Sea Plane Base - Port Bailey"
+  },
+  {
+    "iata": "KQA",
+    "airport": "Akutan Airport",
+    "city": "Akutan",
+    "state": "Alaska",
+    "label": "KQA - Akutan Airport - Akutan"
+  },
+  {
+    "iata": "KSM",
+    "airport": "St Mary's Airport",
+    "city": "St Mary's",
+    "state": "Alaska",
+    "label": "KSM - St Mary's Airport - St Mary's"
+  },
+  {
+    "iata": "KSR",
+    "airport": "H. Aroeppala",
+    "city": "Selayar Islands",
+    "state": "",
+    "label": "KSR - H. Aroeppala - Selayar Islands"
+  },
+  {
+    "iata": "KTB",
+    "airport": "Sea Plane Base",
+    "city": "Thorne Bay",
+    "state": "Alaska",
+    "label": "KTB - Sea Plane Base - Thorne Bay"
+  },
+  {
+    "iata": "KTH",
+    "airport": "Tikchik Lodge SPB",
+    "city": "Tikchik",
+    "state": "",
+    "label": "KTH - Tikchik Lodge SPB - Tikchik"
+  },
+  {
+    "iata": "KTN",
+    "airport": "Ketchikan Intl.",
+    "city": "Ketchikan",
+    "state": "Alaska",
+    "label": "KTN - Ketchikan Intl. - Ketchikan"
+  },
+  {
+    "iata": "KTS",
+    "airport": "Brevig Mission Airport",
+    "city": "Brevig Mission",
+    "state": "Alaska",
+    "label": "KTS - Brevig Mission Airport - Brevig Mission"
+  },
+  {
+    "iata": "KUK",
+    "airport": "Kasigluk Airport",
+    "city": "Kasigluk",
+    "state": "Alaska",
+    "label": "KUK - Kasigluk Airport - Kasigluk"
+  },
+  {
+    "iata": "KVC",
+    "airport": "King Cove Airport",
+    "city": "King Cove",
+    "state": "Alaska",
+    "label": "KVC - King Cove Airport - King Cove"
+  },
+  {
+    "iata": "KVL",
+    "airport": "Kivalina Airport",
+    "city": "Kivalina",
+    "state": "Alaska",
+    "label": "KVL - Kivalina Airport - Kivalina"
+  },
+  {
+    "iata": "KWF",
+    "airport": "Sea Plane Base",
+    "city": "Waterfall",
+    "state": "",
+    "label": "KWF - Sea Plane Base - Waterfall"
+  },
+  {
+    "iata": "KWK",
+    "airport": "Kwigillingok Airport",
+    "city": "Kwigillingok",
+    "state": "Alaska",
+    "label": "KWK - Kwigillingok Airport - Kwigillingok"
+  },
+  {
+    "iata": "KWN",
+    "airport": "Quinhagak Airport",
+    "city": "Quinhagak",
+    "state": "Alaska",
+    "label": "KWN - Quinhagak Airport - Quinhagak"
+  },
+  {
+    "iata": "KWP",
+    "airport": "West Point Village SPB",
+    "city": "West Point",
+    "state": "Alaska",
+    "label": "KWP - West Point Village SPB - West Point"
+  },
+  {
+    "iata": "KWT",
+    "airport": "Kwethluk Airport",
+    "city": "Kwethluk",
+    "state": "Alaska",
+    "label": "KWT - Kwethluk Airport - Kwethluk"
+  },
+  {
+    "iata": "KXA",
+    "airport": "Sea Plane Base",
+    "city": "Kasaan",
+    "state": "Alaska",
+    "label": "KXA - Sea Plane Base - Kasaan"
+  },
+  {
+    "iata": "KYK",
+    "airport": "Karluk Airport",
+    "city": "Karluk",
+    "state": "Alaska",
+    "label": "KYK - Karluk Airport - Karluk"
+  },
+  {
+    "iata": "KYO",
+    "airport": "North Aero Park",
+    "city": "Tampa",
+    "state": "Florida",
+    "label": "KYO - North Aero Park - Tampa"
+  },
+  {
+    "iata": "KYU",
+    "airport": "Koyukuk Airport",
+    "city": "Koyukuk",
+    "state": "Alaska",
+    "label": "KYU - Koyukuk Airport - Koyukuk"
+  },
+  {
+    "iata": "LAA",
+    "airport": "Municipal",
+    "city": "Lamar",
+    "state": "Colorado",
+    "label": "LAA - Municipal - Lamar"
+  },
+  {
+    "iata": "LAL",
+    "airport": "Linder Regional",
+    "city": "Lakeland",
+    "state": "Florida",
+    "label": "LAL - Linder Regional - Lakeland"
+  },
+  {
+    "iata": "LAM",
+    "airport": "Los Alamos Airport",
+    "city": "Los Alamos",
+    "state": "New Mexico",
+    "label": "LAM - Los Alamos Airport - Los Alamos"
+  },
+  {
+    "iata": "LAN",
+    "airport": "Capital Region Intl",
+    "city": "Lansing",
+    "state": "Michigan",
+    "label": "LAN - Capital Region Intl - Lansing"
+  },
+  {
+    "iata": "LAR",
+    "airport": "Lar Airport",
+    "city": "Lar",
+    "state": "Wyoming",
+    "label": "LAR - Lar Airport - Lar"
+  },
+  {
+    "iata": "LAS",
+    "airport": "HARRY REID INTL",
+    "city": "Las Vegas",
+    "state": "Nevada",
+    "label": "LAS - HARRY REID INTL - Las Vegas"
+  },
+  {
+    "iata": "LAW",
+    "airport": "Lawton/Fort Sill Reg. Airport",
+    "city": "Lawton/Fort Sill",
+    "state": "Oklahoma",
+    "label": "LAW - Lawton/Fort Sill Reg. Airport - Lawton/Fort Sill"
+  },
+  {
+    "iata": "LAX",
+    "airport": "Los Angeles Intl.",
+    "city": "Los Angeles",
+    "state": "California",
+    "label": "LAX - Los Angeles Intl. - Los Angeles"
+  },
+  {
+    "iata": "LBB",
+    "airport": "Preston Smith Intl",
+    "city": "Lubbock",
+    "state": "Texas",
+    "label": "LBB - Preston Smith Intl - Lubbock"
+  },
+  {
+    "iata": "LBE",
+    "airport": "Arnold Palmer Regional",
+    "city": "Latrobe",
+    "state": "Pennsylvania",
+    "label": "LBE - Arnold Palmer Regional - Latrobe"
+  },
+  {
+    "iata": "LBF",
+    "airport": "Regional(Lee Bird Fld)",
+    "city": "North Platte",
+    "state": "Nebraska",
+    "label": "LBF - Regional(Lee Bird Fld) - North Platte"
+  },
+  {
+    "iata": "LBL",
+    "airport": "Mid-America Regional",
+    "city": "Liberal",
+    "state": "Kansas",
+    "label": "LBL - Mid-America Regional - Liberal"
+  },
+  {
+    "iata": "LBT",
+    "airport": "Municipal",
+    "city": "Lumberton",
+    "state": "North Carolina",
+    "label": "LBT - Municipal - Lumberton"
+  },
+  {
+    "iata": "LCH",
+    "airport": "Lake Charles Reg. Airport",
+    "city": "Lake Charles",
+    "state": "Louisiana",
+    "label": "LCH - Lake Charles Reg. Airport - Lake Charles"
+  },
+  {
+    "iata": "LCI",
+    "airport": "Municipal",
+    "city": "Laconia",
+    "state": "New Hampshire",
+    "label": "LCI - Municipal - Laconia"
+  },
+  {
+    "iata": "LCK",
+    "airport": "Rickenbacker Intl",
+    "city": "Columbus",
+    "state": "Ohio",
+    "label": "LCK - Rickenbacker Intl - Columbus"
+  },
+  {
+    "iata": "LCQ",
+    "airport": "Lake City Gateway",
+    "city": "Lake City",
+    "state": "Florida",
+    "label": "LCQ - Lake City Gateway - Lake City"
+  },
+  {
+    "iata": "LDJ",
+    "airport": "Linden Airport",
+    "city": "Linden",
+    "state": "New Jersey",
+    "label": "LDJ - Linden Airport - Linden"
+  },
+  {
+    "iata": "LDM",
+    "airport": "Mason County",
+    "city": "Ludington",
+    "state": "Michigan",
+    "label": "LDM - Mason County - Ludington"
+  },
+  {
+    "iata": "LEB",
+    "airport": "Municipal",
+    "city": "Lebanon",
+    "state": "Vermont",
+    "label": "LEB - Municipal - Lebanon"
+  },
+  {
+    "iata": "LEE",
+    "airport": "Leesburg Intl.",
+    "city": "Leesburg",
+    "state": "Florida",
+    "label": "LEE - Leesburg Intl. - Leesburg"
+  },
+  {
+    "iata": "LEM",
+    "airport": "Municipal",
+    "city": "Lemmon",
+    "state": "South Dakota",
+    "label": "LEM - Municipal - Lemmon"
+  },
+  {
+    "iata": "LEW",
+    "airport": "Municipal",
+    "city": "Lewiston/Auburn",
+    "state": "Maine",
+    "label": "LEW - Municipal - Lewiston/Auburn"
+  },
+  {
+    "iata": "LEX",
+    "airport": "Blue Grass",
+    "city": "Lexington",
+    "state": "Kentucky",
+    "label": "LEX - Blue Grass - Lexington"
+  },
+  {
+    "iata": "LFI",
+    "airport": "Langley AFB",
+    "city": "Hampton",
+    "state": "",
+    "label": "LFI - Langley AFB - Hampton"
+  },
+  {
+    "iata": "LFK",
+    "airport": "Angelina County",
+    "city": "Lufkin",
+    "state": "Texas",
+    "label": "LFK - Angelina County - Lufkin"
+  },
+  {
+    "iata": "LFN",
+    "airport": "Triangle North Exec.",
+    "city": "Louisburg",
+    "state": "North Carolina",
+    "label": "LFN - Triangle North Exec. - Louisburg"
+  },
+  {
+    "iata": "LFT",
+    "airport": "Lafayette Reg. Airport",
+    "city": "Lafayette",
+    "state": "Louisiana",
+    "label": "LFT - Lafayette Reg. Airport - Lafayette"
+  },
+  {
+    "iata": "LGA",
+    "airport": "LaGuardia",
+    "city": "New York",
+    "state": "New York",
+    "label": "LGA - LaGuardia - New York"
+  },
+  {
+    "iata": "LGB",
+    "airport": "Daugherty Field",
+    "city": "Long Beach",
+    "state": "California",
+    "label": "LGB - Daugherty Field - Long Beach"
+  },
+  {
+    "iata": "LGC",
+    "airport": "Callaway",
+    "city": "La Grange",
+    "state": "Georgia",
+    "label": "LGC - Callaway - La Grange"
+  },
+  {
+    "iata": "LGD",
+    "airport": "Union County",
+    "city": "La Grande",
+    "state": "Oregon",
+    "label": "LGD - Union County - La Grande"
+  },
+  {
+    "iata": "LGF",
+    "airport": "Laguna AAF",
+    "city": "Yuma",
+    "state": "",
+    "label": "LGF - Laguna AAF - Yuma"
+  },
+  {
+    "iata": "LGU",
+    "airport": "Logan-Cache",
+    "city": "Logan",
+    "state": "Utah",
+    "label": "LGU - Logan-Cache - Logan"
+  },
+  {
+    "iata": "LHV",
+    "airport": "W T Piper Memorial",
+    "city": "Lock Haven",
+    "state": "Pennsylvania",
+    "label": "LHV - W T Piper Memorial - Lock Haven"
+  },
+  {
+    "iata": "LIC",
+    "airport": "Municipal",
+    "city": "Limon",
+    "state": "Colorado",
+    "label": "LIC - Municipal - Limon"
+  },
+  {
+    "iata": "LIH",
+    "airport": "Lihue Airport",
+    "city": "Lihue",
+    "state": "Hawaii",
+    "label": "LIH - Lihue Airport - Lihue"
+  },
+  {
+    "iata": "LIT",
+    "airport": "B. & H. Clinton Natl",
+    "city": "Little Rock",
+    "state": "Arkansas",
+    "label": "LIT - B. & H. Clinton Natl - Little Rock"
+  },
+  {
+    "iata": "LIV",
+    "airport": "Livengood Camp",
+    "city": "Livengood",
+    "state": "",
+    "label": "LIV - Livengood Camp - Livengood"
+  },
+  {
+    "iata": "LIY",
+    "airport": "MidCoast Regional",
+    "city": "Hinesville/Ft Stewart",
+    "state": "Georgia",
+    "label": "LIY - MidCoast Regional - Hinesville/Ft Stewart"
+  },
+  {
+    "iata": "LIZ",
+    "airport": "Loring Intl",
+    "city": "Limestone",
+    "state": "Pennsylvania",
+    "label": "LIZ - Loring Intl - Limestone"
+  }
+]
