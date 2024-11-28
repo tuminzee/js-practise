@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "dev": "bun index.ts"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "redis": "^4.7.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.8.4"
+  }
+}
