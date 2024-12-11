@@ -131,3 +131,6 @@ dist
 implementation/deno-test/deno-test
 implementation/pino-test/.DS_Store
 implementation/.DS_Store
+implementation/mysql-test/.idea
+*.DS_Store
+*.env

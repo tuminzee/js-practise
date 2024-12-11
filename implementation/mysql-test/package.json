@@ -1,0 +1,41 @@
+{
+  "name": "mysql-test",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "dotenv -e .env.local -- bun src/index.ts",
+    "migrate:dev": "dotenv -e .env.local -- prisma migrate dev",
+    "migrate:deploy": "dotenv -e .env.local -- prisma migrate deploy",
+    "migrate:generate": "dotenv -e .env.local -- prisma migrate generate",
+    "migrate:status": "dotenv -e .env.local -- prisma migrate status",
+    "prod:migrate:dev": "dotenv -e .env -- prisma migrate dev",
+    "prod:migrate:deploy": "dotenv -e .env -- prisma migrate deploy",
+    "prod:migrate:status": "dotenv -e .env -- prisma migrate status",
+    "generate": "dotenv -e .env.local -- prisma generate",
+    "studio": "dotenv -e .env.local -- prisma studio",
+    "dev": "dotenv -e .env.local -- pnpm tsx --watch src/index.ts",
+    "build": "pnpm exec tsc && pnpm exec tsc-alias",
+    "dist:start": "dotenv -e .env.local -- node dist/index.js",
+    "seed": "dotenv -e .env.local -- pnpm tsx src/scripts/seed.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@faker-js/faker": "^9.2.0",
+    "@types/node": "^22.10.1",
+    "dotenv-cli": "^7.4.4",
+    "prisma": "^5.22.0",
+    "tsc-alias": "^1.8.8",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  },
+  "dependencies": {
+    "@prisma/client": "5.22.0",
+    "dotenv": "^16.4.5",
+    "pino": "^9.5.0",
+    "pino-pretty": "^13.0.0",
+    "zod": "^3.23.8"
+  }
+}
