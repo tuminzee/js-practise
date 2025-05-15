@@ -134,3 +134,4 @@ implementation/.DS_Store
 implementation/mysql-test/.idea
 *.DS_Store
 *.env
+.DS_Store

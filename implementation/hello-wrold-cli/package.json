@@ -1,0 +1,25 @@
+{
+  "name": "@tuminzee/hello-world-cli",
+  "version": "0.0.3",
+  "description": "hello world cli tool",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuminzee/js-practise/implementation/hello-wrold-cli.git"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "bin": {
+    "hello": "./index.js"
+  },
+  "author": "tuminzee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tuminzee/js-practise/implementation/hello-wrold-cli/issues"
+  },
+  "homepage": "https://github.com/tuminzee/js-practise/implementation/hello-wrold-cli#readme"
+}
